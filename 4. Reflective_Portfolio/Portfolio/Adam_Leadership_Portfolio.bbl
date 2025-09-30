@@ -1,0 +1,1577 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{ARENDT_1966}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f50f57f3bb1808b3fd67c3e65baf025f}{%
+           family={Arendt},
+           familyi={A\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Harcourt, Inc.}%
+      }
+      \strng{namehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{bibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorbibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authornamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Originally published 1951; edition renewed 1968}
+      \field{title}{The origins of totalitarianism}
+      \field{year}{1966}
+      \true{nocite}
+    \endentry
+    \entry{ARENDT_1970}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f50f57f3bb1808b3fd67c3e65baf025f}{%
+           family={Arendt},
+           familyi={A\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Harcourt}%
+      }
+      \strng{namehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{bibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorbibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authornamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On violence}
+      \field{year}{1970}
+      \true{nocite}
+    \endentry
+    \entry{ARENDT_2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f50f57f3bb1808b3fd67c3e65baf025f}{%
+           family={Arendt},
+           familyi={A\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{bibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorbibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authornamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Originally published 1963; this edition includes an introduction by Amos Elon}
+      \field{title}{Eichmann in Jerusalem: A report on the banality of evil}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{ARENDT_2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f50f57f3bb1808b3fd67c3e65baf025f}{%
+           family={Arendt},
+           familyi={A\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{bibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorbibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authornamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \field{extraname}{4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{The human condition}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{BACHMANN_2015}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6f4ce92b56a0ba092ebeda7b0a4727e7}{%
+           family={Bachmann},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb6d88c97d8645fc943546369454e52b}{%
+           family={Inkpen},
+           familyi={I\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70a22d8d7767a38ba4fe57eda232fdd8}{%
+           family={Lindenberg},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5b184e2540876b7dd4a418ae49efeb4}{%
+           family={Wirtz},
+           familyi={W\bibinitperiod},
+           given={B.\bibnamedelimi W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{af12f92b46e25a643b32ce0b13bc9f5e}
+      \strng{fullhash}{f4d25fd726d01e51b7c3c95007396a98}
+      \strng{fullhashraw}{f4d25fd726d01e51b7c3c95007396a98}
+      \strng{bibnamehash}{af12f92b46e25a643b32ce0b13bc9f5e}
+      \strng{authorbibnamehash}{af12f92b46e25a643b32ce0b13bc9f5e}
+      \strng{authornamehash}{af12f92b46e25a643b32ce0b13bc9f5e}
+      \strng{authorfullhash}{f4d25fd726d01e51b7c3c95007396a98}
+      \strng{authorfullhashraw}{f4d25fd726d01e51b7c3c95007396a98}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trust and Control in Organisational Relations}
+      \field{year}{2015}
+    \endentry
+    \entry{BUTLER_1990}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a58f9d9da0a9f534cede73cda7486e76}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{fullhash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{fullhashraw}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{bibnamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorbibnamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authornamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorfullhash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorfullhashraw}{a58f9d9da0a9f534cede73cda7486e76}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gender Trouble: Feminism and the Subversion of Identity}
+      \field{year}{1990}
+      \true{nocite}
+    \endentry
+    \entry{CARNEGIE_1936}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c2e016ac73b37dcff3f41caac738479}{%
+           family={Carnegie},
+           familyi={C\bibinitperiod},
+           given={Dale},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster}%
+      }
+      \strng{namehash}{0c2e016ac73b37dcff3f41caac738479}
+      \strng{fullhash}{0c2e016ac73b37dcff3f41caac738479}
+      \strng{fullhashraw}{0c2e016ac73b37dcff3f41caac738479}
+      \strng{bibnamehash}{0c2e016ac73b37dcff3f41caac738479}
+      \strng{authorbibnamehash}{0c2e016ac73b37dcff3f41caac738479}
+      \strng{authornamehash}{0c2e016ac73b37dcff3f41caac738479}
+      \strng{authorfullhash}{0c2e016ac73b37dcff3f41caac738479}
+      \strng{authorfullhashraw}{0c2e016ac73b37dcff3f41caac738479}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to win friends and influence people}
+      \field{year}{1936}
+      \true{nocite}
+    \endentry
+    \entry{CASTNER_2014}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8aa4aa2b155b212fa602fd77a2294e91}{%
+           family={Castner},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Black Swan}%
+      }
+      \strng{namehash}{8aa4aa2b155b212fa602fd77a2294e91}
+      \strng{fullhash}{8aa4aa2b155b212fa602fd77a2294e91}
+      \strng{fullhashraw}{8aa4aa2b155b212fa602fd77a2294e91}
+      \strng{bibnamehash}{8aa4aa2b155b212fa602fd77a2294e91}
+      \strng{authorbibnamehash}{8aa4aa2b155b212fa602fd77a2294e91}
+      \strng{authornamehash}{8aa4aa2b155b212fa602fd77a2294e91}
+      \strng{authorfullhash}{8aa4aa2b155b212fa602fd77a2294e91}
+      \strng{authorfullhashraw}{8aa4aa2b155b212fa602fd77a2294e91}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The long walk: A story of war and the life that follows}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{272}
+      \range{pages}{1}
+    \endentry
+    \entry{COCHRANE_2012}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1af44a764e0692a9341685fc5a0a251}{%
+           family={Cochrane},
+           familyi={C\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Cranfield University, Defence College of Management}%
+        {Technology}%
+      }
+      \strng{namehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{fullhash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{fullhashraw}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{bibnamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorbibnamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authornamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorfullhash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorfullhashraw}{b1af44a764e0692a9341685fc5a0a251}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unpublished}
+      \field{title}{The development of the British approach to improvised explosive device disposal in Northern Ireland}
+      \field{type}{MPhil thesis}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{DERRIDA_1978}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b19610eaae12993287011ee4acbfc798}{%
+           family={Derrida},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{b19610eaae12993287011ee4acbfc798}
+      \strng{fullhash}{b19610eaae12993287011ee4acbfc798}
+      \strng{fullhashraw}{b19610eaae12993287011ee4acbfc798}
+      \strng{bibnamehash}{b19610eaae12993287011ee4acbfc798}
+      \strng{authorbibnamehash}{b19610eaae12993287011ee4acbfc798}
+      \strng{authornamehash}{b19610eaae12993287011ee4acbfc798}
+      \strng{authorfullhash}{b19610eaae12993287011ee4acbfc798}
+      \strng{authorfullhashraw}{b19610eaae12993287011ee4acbfc798}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Writing and Difference}
+      \field{year}{1978}
+    \endentry
+    \entry{EMERGENETICS_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=893bb09a2bb50c9ac43b2b598da3bfbb}{%
+           family={Emergenetics},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Emergenetics International}%
+      }
+      \list{location}{1}{%
+        {Dublin}%
+      }
+      \strng{namehash}{893bb09a2bb50c9ac43b2b598da3bfbb}
+      \strng{fullhash}{893bb09a2bb50c9ac43b2b598da3bfbb}
+      \strng{fullhashraw}{893bb09a2bb50c9ac43b2b598da3bfbb}
+      \strng{bibnamehash}{893bb09a2bb50c9ac43b2b598da3bfbb}
+      \strng{authorbibnamehash}{893bb09a2bb50c9ac43b2b598da3bfbb}
+      \strng{authornamehash}{893bb09a2bb50c9ac43b2b598da3bfbb}
+      \strng{authorfullhash}{893bb09a2bb50c9ac43b2b598da3bfbb}
+      \strng{authorfullhashraw}{893bb09a2bb50c9ac43b2b598da3bfbb}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Prepared 26 August 2025. Proprietary profile by Geil Browning, Ph.D., and Wendell Williams, Ph.D.}
+      \field{title}{Emergenetics profile report: Adam Beatty}
+      \field{type}{Psychometric assessment report}
+      \field{year}{2025}
+    \endentry
+    \entry{FICK_2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e3fe754a2b7ba5b7a3604cb90188cfa}{%
+           family={Fick},
+           familyi={F\bibinitperiod},
+           given={Nathaniel},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Mariner Books}%
+      }
+      \strng{namehash}{3e3fe754a2b7ba5b7a3604cb90188cfa}
+      \strng{fullhash}{3e3fe754a2b7ba5b7a3604cb90188cfa}
+      \strng{fullhashraw}{3e3fe754a2b7ba5b7a3604cb90188cfa}
+      \strng{bibnamehash}{3e3fe754a2b7ba5b7a3604cb90188cfa}
+      \strng{authorbibnamehash}{3e3fe754a2b7ba5b7a3604cb90188cfa}
+      \strng{authornamehash}{3e3fe754a2b7ba5b7a3604cb90188cfa}
+      \strng{authorfullhash}{3e3fe754a2b7ba5b7a3604cb90188cfa}
+      \strng{authorfullhashraw}{3e3fe754a2b7ba5b7a3604cb90188cfa}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{One bullet away: The making of a Marine officer}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{372}
+      \range{pages}{1}
+    \endentry
+    \entry{FOUCAULT_1977}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b959dd915a07e0d71a01dd3e540f632a}{%
+           family={Foucault},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Vintage Books}%
+      }
+      \strng{namehash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{fullhash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{fullhashraw}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{bibnamehash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{authorbibnamehash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{authornamehash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{authorfullhash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{authorfullhashraw}{b959dd915a07e0d71a01dd3e540f632a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Originally published 1977. Translated by A. Sheridan}
+      \field{title}{Discipline and Punish: The Birth of the Prison}
+      \field{year}{1995}
+    \endentry
+    \entry{GROSSMAN_1996}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2818778f420dc601cd17d637a5719ed6}{%
+           family={Grossman},
+           familyi={G\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {Back Bay Books / Little, Brown}%
+        {Company}%
+      }
+      \strng{namehash}{2818778f420dc601cd17d637a5719ed6}
+      \strng{fullhash}{2818778f420dc601cd17d637a5719ed6}
+      \strng{fullhashraw}{2818778f420dc601cd17d637a5719ed6}
+      \strng{bibnamehash}{2818778f420dc601cd17d637a5719ed6}
+      \strng{authorbibnamehash}{2818778f420dc601cd17d637a5719ed6}
+      \strng{authornamehash}{2818778f420dc601cd17d637a5719ed6}
+      \strng{authorfullhash}{2818778f420dc601cd17d637a5719ed6}
+      \strng{authorfullhashraw}{2818778f420dc601cd17d637a5719ed6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st paperback edition}
+      \field{note}{Originally published 1995 by Little, Brown and Company}
+      \field{title}{On killing: The psychological cost of learning to kill in war and society}
+      \field{year}{1996}
+      \true{nocite}
+    \endentry
+    \entry{GUDERIAN_1952}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=675f511cce1f01cdf18a2df9b61938df}{%
+           family={Guderian},
+           familyi={G\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Futura Publications}%
+      }
+      \strng{namehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{fullhash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{fullhashraw}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{bibnamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorbibnamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authornamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorfullhash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorfullhashraw}{675f511cce1f01cdf18a2df9b61938df}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{First published in Great Britain by Michael Joseph Ltd, 1952. Futura edition 1974; reprinted 1976--1987}
+      \field{title}{Panzer leader}
+      \field{year}{1952}
+      \true{nocite}
+    \endentry
+    \entry{HACKWORTH_1990}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b82eadcb3407f0b2bc9826dc8ea5b2d7}{%
+           family={Hackworth},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4587e8054eae388eb5d98b3d327ea801}{%
+           family={Sherman},
+           familyi={S\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Touchstone, Simon \& Schuster}%
+      }
+      \strng{namehash}{8e671a8489bfaa828a273ba8b918f232}
+      \strng{fullhash}{8e671a8489bfaa828a273ba8b918f232}
+      \strng{fullhashraw}{8e671a8489bfaa828a273ba8b918f232}
+      \strng{bibnamehash}{8e671a8489bfaa828a273ba8b918f232}
+      \strng{authorbibnamehash}{8e671a8489bfaa828a273ba8b918f232}
+      \strng{authornamehash}{8e671a8489bfaa828a273ba8b918f232}
+      \strng{authorfullhash}{8e671a8489bfaa828a273ba8b918f232}
+      \strng{authorfullhashraw}{8e671a8489bfaa828a273ba8b918f232}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{First published 1989; Touchstone edition 1990}
+      \field{title}{About face: The odyssey of an American warrior}
+      \field{year}{1990}
+      \true{nocite}
+    \endentry
+    \entry{HEIFETZ_2002}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=361c2f9a6e604169ebf01cd925fa8096}{%
+           family={Heifetz},
+           familyi={H\bibinitperiod},
+           given={Ronald\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1567fe74ba23ee7f41ad1c276f3ab85b}{%
+           family={Linsky},
+           familyi={L\bibinitperiod},
+           given={Marty},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business School Press}%
+      }
+      \strng{namehash}{b6fef69f322d6eee506aecf6bdad0776}
+      \strng{fullhash}{b6fef69f322d6eee506aecf6bdad0776}
+      \strng{fullhashraw}{b6fef69f322d6eee506aecf6bdad0776}
+      \strng{bibnamehash}{b6fef69f322d6eee506aecf6bdad0776}
+      \strng{authorbibnamehash}{b6fef69f322d6eee506aecf6bdad0776}
+      \strng{authornamehash}{b6fef69f322d6eee506aecf6bdad0776}
+      \strng{authorfullhash}{b6fef69f322d6eee506aecf6bdad0776}
+      \strng{authorfullhashraw}{b6fef69f322d6eee506aecf6bdad0776}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leadership on the Line}
+      \field{year}{2002}
+    \endentry
+    \entry{HERSEY_1969}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6afddf3498299a3116216de3603b567a}{%
+           family={Hersey},
+           familyi={H\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58eae52ce6395ac1b5bba59dfa9903a9}{%
+           family={Blanchard},
+           familyi={B\bibinitperiod},
+           given={Kenneth\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Englewood Cliffs, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{6d8e0d199060bdaed9649932a5d5c68f}
+      \strng{fullhash}{6d8e0d199060bdaed9649932a5d5c68f}
+      \strng{fullhashraw}{6d8e0d199060bdaed9649932a5d5c68f}
+      \strng{bibnamehash}{6d8e0d199060bdaed9649932a5d5c68f}
+      \strng{authorbibnamehash}{6d8e0d199060bdaed9649932a5d5c68f}
+      \strng{authornamehash}{6d8e0d199060bdaed9649932a5d5c68f}
+      \strng{authorfullhash}{6d8e0d199060bdaed9649932a5d5c68f}
+      \strng{authorfullhashraw}{6d8e0d199060bdaed9649932a5d5c68f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Management of Organizational Behavior: Utilizing Human Resources}
+      \field{year}{1969}
+    \endentry
+    \entry{HITLER_1999}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b682ffcd1df45211154a393fdce544dc}{%
+           family={Hitler},
+           familyi={H\bibinitperiod},
+           given={Adolf},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Houghton Mifflin}%
+      }
+      \strng{namehash}{b682ffcd1df45211154a393fdce544dc}
+      \strng{fullhash}{b682ffcd1df45211154a393fdce544dc}
+      \strng{fullhashraw}{b682ffcd1df45211154a393fdce544dc}
+      \strng{bibnamehash}{b682ffcd1df45211154a393fdce544dc}
+      \strng{authorbibnamehash}{b682ffcd1df45211154a393fdce544dc}
+      \strng{authornamehash}{b682ffcd1df45211154a393fdce544dc}
+      \strng{authorfullhash}{b682ffcd1df45211154a393fdce544dc}
+      \strng{authorfullhashraw}{b682ffcd1df45211154a393fdce544dc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unexpurgated edition. Originally published 1925--1926}
+      \field{title}{Mein Kampf}
+      \field{year}{1999}
+      \true{nocite}
+    \endentry
+    \entry{HUGHES_2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4be2429e039169272d13f111b4311b8e}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster UK}%
+      }
+      \strng{namehash}{4be2429e039169272d13f111b4311b8e}
+      \strng{fullhash}{4be2429e039169272d13f111b4311b8e}
+      \strng{fullhashraw}{4be2429e039169272d13f111b4311b8e}
+      \strng{bibnamehash}{4be2429e039169272d13f111b4311b8e}
+      \strng{authorbibnamehash}{4be2429e039169272d13f111b4311b8e}
+      \strng{authornamehash}{4be2429e039169272d13f111b4311b8e}
+      \strng{authorfullhash}{4be2429e039169272d13f111b4311b8e}
+      \strng{authorfullhashraw}{4be2429e039169272d13f111b4311b8e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Painting the sand}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{HUNTER_2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c4d659e97c3c2167c4b4b790c9d4fc9}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Delta}%
+      }
+      \strng{namehash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{fullhash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{fullhashraw}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{bibnamehash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{authorbibnamehash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{authornamehash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{authorfullhash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{authorfullhashraw}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Eight lives down: The most dangerous job in the world in the most dangerous place in the world}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{432}
+      \range{pages}{1}
+    \endentry
+    \entry{HUNTER_2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c4d659e97c3c2167c4b4b790c9d4fc9}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Bantam Press}%
+      }
+      \strng{namehash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{fullhash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{fullhashraw}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{bibnamehash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{authorbibnamehash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{authornamehash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{authorfullhash}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \strng{authorfullhashraw}{7c4d659e97c3c2167c4b4b790c9d4fc9}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Extreme risk}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{368}
+      \range{pages}{1}
+    \endentry
+    \entry{DORD_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b145fce1fddc5c410a46040cc3aae2eb}{%
+           family={{Irish Defence Forces}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{fullhash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{fullhashraw}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{bibnamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorbibnamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authornamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorfullhash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorfullhashraw}{b145fce1fddc5c410a46040cc3aae2eb}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Issued by the Director of Ordnance on the instruction of the Chief of Staff. Internal document}
+      \field{title}{Explosive ordnance disposal instructions}
+      \field{year}{2022}
+    \endentry
+    \entry{DF_LDR_2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b145fce1fddc5c410a46040cc3aae2eb}{%
+           family={{Irish Defence Forces}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dublin}%
+      }
+      \list{publisher}{1}{%
+        {Defence Forces Printing Press}%
+      }
+      \strng{namehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{fullhash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{fullhashraw}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{bibnamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorbibnamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authornamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorfullhash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorfullhashraw}{b145fce1fddc5c410a46040cc3aae2eb}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Published for the Military Authorities by the Public Relations Section, Chief of Staff's Branch. Pre-publication version}
+      \field{title}{Ceannaireacht: Defence Forces leadership doctrine (Pre-publication V5A)}
+      \field{year}{2023}
+    \endentry
+    \entry{KEEGAN_1976}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=78a46d68f486bc7cd54e386175ed866d}{%
+           family={Keegan},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Jonathan Cape}%
+      }
+      \strng{namehash}{78a46d68f486bc7cd54e386175ed866d}
+      \strng{fullhash}{78a46d68f486bc7cd54e386175ed866d}
+      \strng{fullhashraw}{78a46d68f486bc7cd54e386175ed866d}
+      \strng{bibnamehash}{78a46d68f486bc7cd54e386175ed866d}
+      \strng{authorbibnamehash}{78a46d68f486bc7cd54e386175ed866d}
+      \strng{authornamehash}{78a46d68f486bc7cd54e386175ed866d}
+      \strng{authorfullhash}{78a46d68f486bc7cd54e386175ed866d}
+      \strng{authorfullhashraw}{78a46d68f486bc7cd54e386175ed866d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The face of battle}
+      \field{year}{1976}
+      \true{nocite}
+    \endentry
+    \entry{KOLENDA_2001}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8bfb79918c2e5102d11660532b5ad4a}{%
+           family={Kolenda},
+           familyi={K\bibinitperiod},
+           given={Christopher\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Carlisle, PA}%
+      }
+      \list{publisher}{1}{%
+        {The Army War College Foundation Press}%
+      }
+      \strng{namehash}{c8bfb79918c2e5102d11660532b5ad4a}
+      \strng{fullhash}{c8bfb79918c2e5102d11660532b5ad4a}
+      \strng{fullhashraw}{c8bfb79918c2e5102d11660532b5ad4a}
+      \strng{bibnamehash}{c8bfb79918c2e5102d11660532b5ad4a}
+      \strng{editorbibnamehash}{c8bfb79918c2e5102d11660532b5ad4a}
+      \strng{editornamehash}{c8bfb79918c2e5102d11660532b5ad4a}
+      \strng{editorfullhash}{c8bfb79918c2e5102d11660532b5ad4a}
+      \strng{editorfullhashraw}{c8bfb79918c2e5102d11660532b5ad4a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{note}{Foreword by Barry R. McCaffrey. Introduction by Walter F. Ulmer, Jr.}
+      \field{title}{Leadership: The warrior’s art}
+      \field{year}{2001}
+      \true{nocite}
+    \endentry
+    \entry{VON_LUCK_1989}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7201df2a3ea6255f12d4cffd7b00a3a}{%
+           family={Luck},
+           familyi={L\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Praeger}%
+      }
+      \strng{namehash}{f7201df2a3ea6255f12d4cffd7b00a3a}
+      \strng{fullhash}{f7201df2a3ea6255f12d4cffd7b00a3a}
+      \strng{fullhashraw}{f7201df2a3ea6255f12d4cffd7b00a3a}
+      \strng{bibnamehash}{f7201df2a3ea6255f12d4cffd7b00a3a}
+      \strng{authorbibnamehash}{f7201df2a3ea6255f12d4cffd7b00a3a}
+      \strng{authornamehash}{f7201df2a3ea6255f12d4cffd7b00a3a}
+      \strng{authorfullhash}{f7201df2a3ea6255f12d4cffd7b00a3a}
+      \strng{authorfullhashraw}{f7201df2a3ea6255f12d4cffd7b00a3a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Panzer commander: The memoirs of Colonel Hans von Luck}
+      \field{year}{1989}
+      \true{nocite}
+    \endentry
+    \entry{MACDONALD_1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=168d6495e758b55138333e6088d9c83b}{%
+           family={MacDonald},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Bantam Books}%
+      }
+      \strng{namehash}{168d6495e758b55138333e6088d9c83b}
+      \strng{fullhash}{168d6495e758b55138333e6088d9c83b}
+      \strng{fullhashraw}{168d6495e758b55138333e6088d9c83b}
+      \strng{bibnamehash}{168d6495e758b55138333e6088d9c83b}
+      \strng{authorbibnamehash}{168d6495e758b55138333e6088d9c83b}
+      \strng{authornamehash}{168d6495e758b55138333e6088d9c83b}
+      \strng{authorfullhash}{168d6495e758b55138333e6088d9c83b}
+      \strng{authorfullhashraw}{168d6495e758b55138333e6088d9c83b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Specially illustrated edition. First published 1947; reprinted with new introduction and maps}
+      \field{title}{Company commander: The classic account of infantry combat in World War II}
+      \field{year}{1984}
+      \true{nocite}
+    \endentry
+    \entry{MALIA_1994}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e60bd968e62facae26d59f0cad189aae}{%
+           family={Malia},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {The Free Press}%
+      }
+      \strng{namehash}{e60bd968e62facae26d59f0cad189aae}
+      \strng{fullhash}{e60bd968e62facae26d59f0cad189aae}
+      \strng{fullhashraw}{e60bd968e62facae26d59f0cad189aae}
+      \strng{bibnamehash}{e60bd968e62facae26d59f0cad189aae}
+      \strng{authorbibnamehash}{e60bd968e62facae26d59f0cad189aae}
+      \strng{authornamehash}{e60bd968e62facae26d59f0cad189aae}
+      \strng{authorfullhash}{e60bd968e62facae26d59f0cad189aae}
+      \strng{authorfullhashraw}{e60bd968e62facae26d59f0cad189aae}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Soviet Tragedy: A History of Socialism in Russia, 1917--1991}
+      \field{year}{1994}
+      \true{nocite}
+    \endentry
+    \entry{MARQUET_2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f34ffeb0f1d12a821cdca5d6e081966}{%
+           family={Marquet},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi David},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Portfolio Penguin}%
+      }
+      \strng{namehash}{7f34ffeb0f1d12a821cdca5d6e081966}
+      \strng{fullhash}{7f34ffeb0f1d12a821cdca5d6e081966}
+      \strng{fullhashraw}{7f34ffeb0f1d12a821cdca5d6e081966}
+      \strng{bibnamehash}{7f34ffeb0f1d12a821cdca5d6e081966}
+      \strng{authorbibnamehash}{7f34ffeb0f1d12a821cdca5d6e081966}
+      \strng{authornamehash}{7f34ffeb0f1d12a821cdca5d6e081966}
+      \strng{authorfullhash}{7f34ffeb0f1d12a821cdca5d6e081966}
+      \strng{authorfullhashraw}{7f34ffeb0f1d12a821cdca5d6e081966}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Turn the ship around!}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{MARX_2015}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=af80d32a7d375e934f94bdfb27bf2999}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fce08a4b30fb50f3020b2fdfeb8aa2e6}{%
+           family={Engels},
+           familyi={E\bibinitperiod},
+           given={Friedrich},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{d64f9a685d9554a1ba64bb1121d77c37}
+      \strng{fullhash}{d64f9a685d9554a1ba64bb1121d77c37}
+      \strng{fullhashraw}{d64f9a685d9554a1ba64bb1121d77c37}
+      \strng{bibnamehash}{d64f9a685d9554a1ba64bb1121d77c37}
+      \strng{authorbibnamehash}{d64f9a685d9554a1ba64bb1121d77c37}
+      \strng{authornamehash}{d64f9a685d9554a1ba64bb1121d77c37}
+      \strng{authorfullhash}{d64f9a685d9554a1ba64bb1121d77c37}
+      \strng{authorfullhashraw}{d64f9a685d9554a1ba64bb1121d77c37}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The communist manifesto}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{MCCHRYSTAL_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9df4e962b3ac2229cd6e3baa9920c0d8}{%
+           family={McChrystal},
+           familyi={M\bibinitperiod},
+           given={Stanley\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Portfolio / Penguin}%
+      }
+      \strng{namehash}{9df4e962b3ac2229cd6e3baa9920c0d8}
+      \strng{fullhash}{9df4e962b3ac2229cd6e3baa9920c0d8}
+      \strng{fullhashraw}{9df4e962b3ac2229cd6e3baa9920c0d8}
+      \strng{bibnamehash}{9df4e962b3ac2229cd6e3baa9920c0d8}
+      \strng{authorbibnamehash}{9df4e962b3ac2229cd6e3baa9920c0d8}
+      \strng{authornamehash}{9df4e962b3ac2229cd6e3baa9920c0d8}
+      \strng{authorfullhash}{9df4e962b3ac2229cd6e3baa9920c0d8}
+      \strng{authorfullhashraw}{9df4e962b3ac2229cd6e3baa9920c0d8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{My share of the task: A memoir}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{OPPENHEIMER_2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d89ab197f10567793e48a3b7a41d7756}{%
+           family={Oppenheimer},
+           familyi={O\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dublin}%
+      }
+      \list{publisher}{1}{%
+        {Irish Academic Press}%
+      }
+      \strng{namehash}{d89ab197f10567793e48a3b7a41d7756}
+      \strng{fullhash}{d89ab197f10567793e48a3b7a41d7756}
+      \strng{fullhashraw}{d89ab197f10567793e48a3b7a41d7756}
+      \strng{bibnamehash}{d89ab197f10567793e48a3b7a41d7756}
+      \strng{authorbibnamehash}{d89ab197f10567793e48a3b7a41d7756}
+      \strng{authornamehash}{d89ab197f10567793e48a3b7a41d7756}
+      \strng{authorfullhash}{d89ab197f10567793e48a3b7a41d7756}
+      \strng{authorfullhashraw}{d89ab197f10567793e48a3b7a41d7756}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IRA: The bombs and the bullets: A history of deadly ingenuity}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{PATTERSON_2002}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c8dc78bb3783ad6b3021d4bc0b948ba1}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={Kerry},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43a05ae6da3d2228358abc5ad353622a}{%
+           family={Grenny},
+           familyi={G\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5bb23028360b2508ae08c8ea0c04244}{%
+           family={McMillan},
+           familyi={M\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36a49521e1aeb00c5490ee140df7beaa}{%
+           family={Switzler},
+           familyi={S\bibinitperiod},
+           given={Al},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Contemporary}%
+      }
+      \strng{namehash}{f4b48b42ca4001428051ab97b6de2989}
+      \strng{fullhash}{c0e5bb57013d98c543b8838b833c0c09}
+      \strng{fullhashraw}{c0e5bb57013d98c543b8838b833c0c09}
+      \strng{bibnamehash}{f4b48b42ca4001428051ab97b6de2989}
+      \strng{authorbibnamehash}{f4b48b42ca4001428051ab97b6de2989}
+      \strng{authornamehash}{f4b48b42ca4001428051ab97b6de2989}
+      \strng{authorfullhash}{c0e5bb57013d98c543b8838b833c0c09}
+      \strng{authorfullhashraw}{c0e5bb57013d98c543b8838b833c0c09}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Crucial conversations}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{PETERSON_2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=15c6a00ffb3b65b74817a2b9df501adc}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Jordan\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Allen Lane}%
+      }
+      \strng{namehash}{15c6a00ffb3b65b74817a2b9df501adc}
+      \strng{fullhash}{15c6a00ffb3b65b74817a2b9df501adc}
+      \strng{fullhashraw}{15c6a00ffb3b65b74817a2b9df501adc}
+      \strng{bibnamehash}{15c6a00ffb3b65b74817a2b9df501adc}
+      \strng{authorbibnamehash}{15c6a00ffb3b65b74817a2b9df501adc}
+      \strng{authornamehash}{15c6a00ffb3b65b74817a2b9df501adc}
+      \strng{authorfullhash}{15c6a00ffb3b65b74817a2b9df501adc}
+      \strng{authorfullhashraw}{15c6a00ffb3b65b74817a2b9df501adc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{title}{12 rules for life: An antidote to chaos}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{PLUCKROSE_2020}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=52b0c1dd074f75931725c2708963d624}{%
+           family={Pluckrose},
+           familyi={P\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4ded296e81a9149a679aa0245ac2c9f}{%
+           family={Lindsay},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Durham, NC}%
+      }
+      \list{publisher}{1}{%
+        {Pitchstone Publishing}%
+      }
+      \strng{namehash}{8138f8024c46990d55240636bbdc2424}
+      \strng{fullhash}{8138f8024c46990d55240636bbdc2424}
+      \strng{fullhashraw}{8138f8024c46990d55240636bbdc2424}
+      \strng{bibnamehash}{8138f8024c46990d55240636bbdc2424}
+      \strng{authorbibnamehash}{8138f8024c46990d55240636bbdc2424}
+      \strng{authornamehash}{8138f8024c46990d55240636bbdc2424}
+      \strng{authorfullhash}{8138f8024c46990d55240636bbdc2424}
+      \strng{authorfullhashraw}{8138f8024c46990d55240636bbdc2424}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cynical Theories: How Activist Scholarship Made Everything about Race, Gender, and Identity -- and Why This Harms Everybody}
+      \field{year}{2020}
+    \endentry
+    \entry{SHIRER_1991}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d3458aaedce3d8d3ba3b72d142a8ced9}{%
+           family={Shirer},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Arrow Books}%
+      }
+      \strng{namehash}{d3458aaedce3d8d3ba3b72d142a8ced9}
+      \strng{fullhash}{d3458aaedce3d8d3ba3b72d142a8ced9}
+      \strng{fullhashraw}{d3458aaedce3d8d3ba3b72d142a8ced9}
+      \strng{bibnamehash}{d3458aaedce3d8d3ba3b72d142a8ced9}
+      \strng{authorbibnamehash}{d3458aaedce3d8d3ba3b72d142a8ced9}
+      \strng{authornamehash}{d3458aaedce3d8d3ba3b72d142a8ced9}
+      \strng{authorfullhash}{d3458aaedce3d8d3ba3b72d142a8ced9}
+      \strng{authorfullhashraw}{d3458aaedce3d8d3ba3b72d142a8ced9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The rise and fall of the Third Reich}
+      \field{year}{1991}
+      \true{nocite}
+    \endentry
+    \entry{SNYDER_2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad2d7e7c93f722d045c03655f3fb35a4}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{ad2d7e7c93f722d045c03655f3fb35a4}
+      \strng{fullhash}{ad2d7e7c93f722d045c03655f3fb35a4}
+      \strng{fullhashraw}{ad2d7e7c93f722d045c03655f3fb35a4}
+      \strng{bibnamehash}{ad2d7e7c93f722d045c03655f3fb35a4}
+      \strng{authorbibnamehash}{ad2d7e7c93f722d045c03655f3fb35a4}
+      \strng{authornamehash}{ad2d7e7c93f722d045c03655f3fb35a4}
+      \strng{authorfullhash}{ad2d7e7c93f722d045c03655f3fb35a4}
+      \strng{authorfullhashraw}{ad2d7e7c93f722d045c03655f3fb35a4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bloodlands: Europe Between Hitler and Stalin}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{SOH_2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64e83e9e0b33545043ffeeea6866dd2e}{%
+           family={Soh},
+           familyi={S\bibinitperiod},
+           given={Debra},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Threshold Editions}%
+      }
+      \strng{namehash}{64e83e9e0b33545043ffeeea6866dd2e}
+      \strng{fullhash}{64e83e9e0b33545043ffeeea6866dd2e}
+      \strng{fullhashraw}{64e83e9e0b33545043ffeeea6866dd2e}
+      \strng{bibnamehash}{64e83e9e0b33545043ffeeea6866dd2e}
+      \strng{authorbibnamehash}{64e83e9e0b33545043ffeeea6866dd2e}
+      \strng{authornamehash}{64e83e9e0b33545043ffeeea6866dd2e}
+      \strng{authorfullhash}{64e83e9e0b33545043ffeeea6866dd2e}
+      \strng{authorfullhashraw}{64e83e9e0b33545043ffeeea6866dd2e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The End of Gender: Debunking the Myths about Sex and Identity in Our Society}
+      \field{year}{2021}
+      \field{pages}{336}
+      \range{pages}{1}
+    \endentry
+    \entry{SOLZHENITSYN_2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5d4a26395dd5d839438492174bc6fe1e}{%
+           family={Solzhenitsyn},
+           familyi={S\bibinitperiod},
+           given={Aleksandr},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Vintage Classics}%
+      }
+      \strng{namehash}{5d4a26395dd5d839438492174bc6fe1e}
+      \strng{fullhash}{5d4a26395dd5d839438492174bc6fe1e}
+      \strng{fullhashraw}{5d4a26395dd5d839438492174bc6fe1e}
+      \strng{bibnamehash}{5d4a26395dd5d839438492174bc6fe1e}
+      \strng{authorbibnamehash}{5d4a26395dd5d839438492174bc6fe1e}
+      \strng{authornamehash}{5d4a26395dd5d839438492174bc6fe1e}
+      \strng{authorfullhash}{5d4a26395dd5d839438492174bc6fe1e}
+      \strng{authorfullhashraw}{5d4a26395dd5d839438492174bc6fe1e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Gulag Archipelago}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{STERN_2016}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ddf29becc7a2659a2288bd4e54c55966}{%
+           family={Stern},
+           familyi={S\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a940fd3bc3911ba1099dcfdaa656da9f}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {William Collins}%
+      }
+      \strng{namehash}{4e109fb0b9bb69e0dd8ba9503ce4ff61}
+      \strng{fullhash}{4e109fb0b9bb69e0dd8ba9503ce4ff61}
+      \strng{fullhashraw}{4e109fb0b9bb69e0dd8ba9503ce4ff61}
+      \strng{bibnamehash}{4e109fb0b9bb69e0dd8ba9503ce4ff61}
+      \strng{authorbibnamehash}{4e109fb0b9bb69e0dd8ba9503ce4ff61}
+      \strng{authornamehash}{4e109fb0b9bb69e0dd8ba9503ce4ff61}
+      \strng{authorfullhash}{4e109fb0b9bb69e0dd8ba9503ce4ff61}
+      \strng{authorfullhashraw}{4e109fb0b9bb69e0dd8ba9503ce4ff61}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ISIS: The state of terror}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{STYLES_1975}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d93a1d9fd11388111c432decbc7a90b}{%
+           family={Styles},
+           familyi={S\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {William Luscombe}%
+      }
+      \strng{namehash}{6d93a1d9fd11388111c432decbc7a90b}
+      \strng{fullhash}{6d93a1d9fd11388111c432decbc7a90b}
+      \strng{fullhashraw}{6d93a1d9fd11388111c432decbc7a90b}
+      \strng{bibnamehash}{6d93a1d9fd11388111c432decbc7a90b}
+      \strng{authorbibnamehash}{6d93a1d9fd11388111c432decbc7a90b}
+      \strng{authornamehash}{6d93a1d9fd11388111c432decbc7a90b}
+      \strng{authorfullhash}{6d93a1d9fd11388111c432decbc7a90b}
+      \strng{authorfullhashraw}{6d93a1d9fd11388111c432decbc7a90b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bombs have no pity: My war against terrorism}
+      \field{year}{1975}
+      \true{nocite}
+    \endentry
+    \entry{VOSS_2017}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b0915d477983931ecf0a0d3e4757d547}{%
+           family={Voss},
+           familyi={V\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a336f7b80e7abc8dfac30c6278f9051}{%
+           family={Raz},
+           familyi={R\bibinitperiod},
+           given={Tahl},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Random House Business Books}%
+      }
+      \strng{namehash}{31b5e3cdd8a9255b430433fc7bd4cd6e}
+      \strng{fullhash}{31b5e3cdd8a9255b430433fc7bd4cd6e}
+      \strng{fullhashraw}{31b5e3cdd8a9255b430433fc7bd4cd6e}
+      \strng{bibnamehash}{31b5e3cdd8a9255b430433fc7bd4cd6e}
+      \strng{authorbibnamehash}{31b5e3cdd8a9255b430433fc7bd4cd6e}
+      \strng{authornamehash}{31b5e3cdd8a9255b430433fc7bd4cd6e}
+      \strng{authorfullhash}{31b5e3cdd8a9255b430433fc7bd4cd6e}
+      \strng{authorfullhashraw}{31b5e3cdd8a9255b430433fc7bd4cd6e}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Never split the difference}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{WINTERS_2006}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89fb5dd0bbc13f094d9043f7b08ca953}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40d43f8d16e92c91b3e2c778963f165a}{%
+           family={Kingseed},
+           familyi={K\bibinitperiod},
+           given={Cole\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {The Berkley Publishing Group}%
+      }
+      \strng{namehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{fullhash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{fullhashraw}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{bibnamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorbibnamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authornamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorfullhash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorfullhashraw}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{First edition}
+      \field{title}{Beyond band of brothers: The war memoirs of Major Dick Winters}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+  \enddatalist
+  \missing{DF_LDR_20233}
+\endrefsection
+\endinput
+

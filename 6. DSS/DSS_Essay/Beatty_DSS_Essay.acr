@@ -1,0 +1,19 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{C}\relax \glsresetentrylist %
+\glossentry{clem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{267}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glossentry{eda}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{267}}}%
+\glossentry{eod}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{267}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glossentry{ied}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{267}}}%
+\glossentry{iedd}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{267}}}\glsgroupskip
+\glsgroupheading{J}\relax \glsresetentrylist %
+\glossentry{jcsc}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{267}}}%
+\end{theglossary}\glossarypostamble

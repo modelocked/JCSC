@@ -1,0 +1,20 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Adam_Thesis_Proposal.blg'
+[104] biber-MSWIN64:342> INFO - === 
+[134] Biber.pm:421> INFO - Reading 'Adam_Thesis_Proposal.bcf'
+[224] Biber.pm:1002> INFO - Found 24 citekeys in bib section 0
+[237] Biber.pm:4487> INFO - Processing section 0
+[247] Biber.pm:4678> INFO - Looking for bibtex file '../References/Thesis_2025_2026.bib' for section 0
+[302] bibtex.pm:1713> INFO - LaTeX decoding ...
+[350] bibtex.pm:1519> INFO - Found BibTeX data source '../References/Thesis_2025_2026.bib'
+[470] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[470] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[470] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[471] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[491] bbl.pm:676> INFO - Writing 'Adam_Thesis_Proposal.bbl' with encoding 'UTF-8'
+[508] bbl.pm:779> INFO - Output to Adam_Thesis_Proposal.bbl
+[508] Biber.pm:132> WARN - article entry 'KELLER_2002' (../References/Thesis_2025_2026.bib): Invalid format '10 March' of date field 'date' - ignoring
+[508] Biber.pm:132> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Metz_2000' and 'METZ_2000' in file '../References/Thesis_2025_2026.bib'
+[509] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_bv4c\bc58d817edcd897f5064e92a6443b9be_25872.utf8, line 589, warning: 24 characters of junk seen at toplevel
+[509] Biber.pm:132> WARN - I didn't find a database entry for 'Metz_2000' (section 0)
+[509] Biber.pm:134> INFO - WARNINGS: 4

@@ -1,0 +1,1643 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{AYIOTIS_2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf3377bcde621fffcbf1e65b3cfd4d09}{%
+           family={Ayiotis},
+           familyi={A\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dublin, Ireland}%
+      }
+      \list{publisher}{1}{%
+        {Irish Defence Forces, Public Relations Section at the Chief of Staff’s Branch}%
+      }
+      \strng{namehash}{cf3377bcde621fffcbf1e65b3cfd4d09}
+      \strng{fullhash}{cf3377bcde621fffcbf1e65b3cfd4d09}
+      \strng{fullhashraw}{cf3377bcde621fffcbf1e65b3cfd4d09}
+      \strng{bibnamehash}{cf3377bcde621fffcbf1e65b3cfd4d09}
+      \strng{authorbibnamehash}{cf3377bcde621fffcbf1e65b3cfd4d09}
+      \strng{authornamehash}{cf3377bcde621fffcbf1e65b3cfd4d09}
+      \strng{authorfullhash}{cf3377bcde621fffcbf1e65b3cfd4d09}
+      \strng{authorfullhashraw}{cf3377bcde621fffcbf1e65b3cfd4d09}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1649-7066}
+      \field{journaltitle}{Defence Forces Review}
+      \field{note}{Print edition}
+      \field{title}{Joint Irish-British Military Planning and Operations: A Historical Perspective}
+      \field{year}{2023}
+    \endentry
+    \entry{BAILES_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18ebfde0a82a9eedf9e6ef808429d486}{%
+           family={Bailes},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi J.\bibnamedelimi K.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=456218b418d1d5e121d045d2d42170b3}{%
+           family={Thorhallsson},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1963eac68115aa24a7c35ff9e314bb5e}
+      \strng{fullhash}{1963eac68115aa24a7c35ff9e314bb5e}
+      \strng{fullhashraw}{1963eac68115aa24a7c35ff9e314bb5e}
+      \strng{bibnamehash}{1963eac68115aa24a7c35ff9e314bb5e}
+      \strng{authorbibnamehash}{1963eac68115aa24a7c35ff9e314bb5e}
+      \strng{authornamehash}{1963eac68115aa24a7c35ff9e314bb5e}
+      \strng{authorfullhash}{1963eac68115aa24a7c35ff9e314bb5e}
+      \strng{authorfullhashraw}{1963eac68115aa24a7c35ff9e314bb5e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of European Integration}
+      \field{number}{2}
+      \field{title}{Instrumentalizing the European Union in small state strategies}
+      \field{volume}{35}
+      \field{year}{2013}
+      \field{pages}{99\bibrangedash 115}
+      \range{pages}{17}
+    \endentry
+    \entry{BAILES_2013}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=18ebfde0a82a9eedf9e6ef808429d486}{%
+           family={Bailes},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi J.\bibnamedelimi K.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=456218b418d1d5e121d045d2d42170b3}{%
+           family={Thorhallsson},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12fca244a29aa002cff5ee6acb244032}{%
+           family={Johnstone},
+           familyi={J\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{796050987c0eb58008248fe12c670741}
+      \strng{fullhash}{796050987c0eb58008248fe12c670741}
+      \strng{fullhashraw}{796050987c0eb58008248fe12c670741}
+      \strng{bibnamehash}{796050987c0eb58008248fe12c670741}
+      \strng{authorbibnamehash}{796050987c0eb58008248fe12c670741}
+      \strng{authornamehash}{796050987c0eb58008248fe12c670741}
+      \strng{authorfullhash}{796050987c0eb58008248fe12c670741}
+      \strng{authorfullhashraw}{796050987c0eb58008248fe12c670741}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Stjórnmál og stjórnsýsla}
+      \field{number}{1}
+      \field{title}{Scotland as an independent small state: where would it seek shelter?}
+      \field{volume}{9}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+    \endentry
+    \entry{BECKLEY_2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc1e24c4dedded534d2eb3cc3f4e544d}{%
+           family={Beckley},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc1e24c4dedded534d2eb3cc3f4e544d}
+      \strng{fullhash}{fc1e24c4dedded534d2eb3cc3f4e544d}
+      \strng{fullhashraw}{fc1e24c4dedded534d2eb3cc3f4e544d}
+      \strng{bibnamehash}{fc1e24c4dedded534d2eb3cc3f4e544d}
+      \strng{authorbibnamehash}{fc1e24c4dedded534d2eb3cc3f4e544d}
+      \strng{authornamehash}{fc1e24c4dedded534d2eb3cc3f4e544d}
+      \strng{authorfullhash}{fc1e24c4dedded534d2eb3cc3f4e544d}
+      \strng{authorfullhashraw}{fc1e24c4dedded534d2eb3cc3f4e544d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0162-2889}
+      \field{journaltitle}{<ADD JOURNAL TITLE>}
+      \field{month}{11}
+      \field{number}{2}
+      \field{title}{The power of nations: measuring what matters}
+      \field{volume}{43}
+      \field{year}{2018}
+      \field{pages}{7\bibrangedash 44}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1162/isec_a_00328
+      \endverb
+      \verb{eprint}
+      \verb https://direct.mit.edu/isec/article-pdf/43/2/7/2079795/isec_a_00328.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1162/isec_a_00328
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1162/isec_a_00328
+      \endverb
+    \endentry
+    \entry{BESSNER_2015}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0b549a5f1137e5aeb3ad422549fe254c}{%
+           family={Bessner},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=520b2a8272658081243b71fb0d4f71fc}{%
+           family={Guilhot},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0e66c39e7f8ef3cbd31878af03629396}
+      \strng{fullhash}{0e66c39e7f8ef3cbd31878af03629396}
+      \strng{fullhashraw}{0e66c39e7f8ef3cbd31878af03629396}
+      \strng{bibnamehash}{0e66c39e7f8ef3cbd31878af03629396}
+      \strng{authorbibnamehash}{0e66c39e7f8ef3cbd31878af03629396}
+      \strng{authornamehash}{0e66c39e7f8ef3cbd31878af03629396}
+      \strng{authorfullhash}{0e66c39e7f8ef3cbd31878af03629396}
+      \strng{authorfullhashraw}{0e66c39e7f8ef3cbd31878af03629396}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Security}
+      \field{number}{2}
+      \field{title}{How realism waltzed off: Liberalism and decisionmaking in Kenneth Waltz’s neorealism}
+      \field{volume}{40}
+      \field{year}{2015}
+      \field{pages}{87\bibrangedash 118}
+      \range{pages}{32}
+    \endentry
+    \entry{BETTS_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf990f5733c2afbaa7750026110d8eba}{%
+           family={Betts},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{fullhash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{fullhashraw}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{bibnamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorbibnamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authornamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorfullhash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorfullhashraw}{bf990f5733c2afbaa7750026110d8eba}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Revolution in military affairs (RMA) has several drawbacks despite its offer of US military supremacy. It does not sharpen the judgment of military leaders so that problems to which high technology is inapplicable, may remain unsolved. A miscalculation of conflicts could result in a possible confrontation with giant powers such as China and Russia. Policymakers should therefore be wary of possible but unexpected effects of RMA.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{The National Interest}
+      \field{note}{[Online]}
+      \field{number}{45}
+      \field{title}{The downside of the cutting edge}
+      \field{year}{1996}
+      \field{pages}{80+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A18827115/AONE?u=nuim&sid=bookmark-AONE&xid=3a16f899
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A18827115/AONE?u=nuim&sid=bookmark-AONE&xid=3a16f899
+      \endverb
+    \endentry
+    \entry{CARROLL_2023}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6acfd50b08cd3beac461ca488da0f314}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ec7a2a9725902c2025e490ad14b5ed0}{%
+           family={O’Neill},
+           familyi={O\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47de50c700474f5fe3d790071340e85d}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan, Springer International Publishing}%
+      }
+      \strng{namehash}{d56fa3ddf8dd63f9617c2725d9c6207c}
+      \strng{fullhash}{d56fa3ddf8dd63f9617c2725d9c6207c}
+      \strng{fullhashraw}{d56fa3ddf8dd63f9617c2725d9c6207c}
+      \strng{bibnamehash}{d56fa3ddf8dd63f9617c2725d9c6207c}
+      \strng{authorbibnamehash}{d56fa3ddf8dd63f9617c2725d9c6207c}
+      \strng{authornamehash}{d56fa3ddf8dd63f9617c2725d9c6207c}
+      \strng{authorfullhash}{d56fa3ddf8dd63f9617c2725d9c6207c}
+      \strng{authorfullhashraw}{d56fa3ddf8dd63f9617c2725d9c6207c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The EU, Irish Defence Forces and contemporary security}
+      \field{year}{2023}
+    \endentry
+    \entry{CARROLL_RICHARDSON_2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=72eac33d3644db60c5e7e875aab7913c}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=835a3b04093917b7b848b2ba4f3b0c8c}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Irish Defence Forces}%
+      }
+      \strng{namehash}{a08838c0d967dd29f9284c63360ee170}
+      \strng{fullhash}{a08838c0d967dd29f9284c63360ee170}
+      \strng{fullhashraw}{a08838c0d967dd29f9284c63360ee170}
+      \strng{bibnamehash}{a08838c0d967dd29f9284c63360ee170}
+      \strng{authorbibnamehash}{a08838c0d967dd29f9284c63360ee170}
+      \strng{authornamehash}{a08838c0d967dd29f9284c63360ee170}
+      \strng{authorfullhash}{a08838c0d967dd29f9284c63360ee170}
+      \strng{authorfullhashraw}{a08838c0d967dd29f9284c63360ee170}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1649-7066}
+      \field{journaltitle}{Defence Forces Review}
+      \field{note}{Published in collaboration with University of Galway}
+      \field{title}{After the war ends: ireland, the reserve defence forces, peacekeeping, and the russo-ukraine war}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \field{pages}{113\bibrangedash 122}
+      \range{pages}{10}
+    \endentry
+    \entry{COHEN_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e286b35812ffb32400292fa01b8ddfcd}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e286b35812ffb32400292fa01b8ddfcd}
+      \strng{fullhash}{e286b35812ffb32400292fa01b8ddfcd}
+      \strng{fullhashraw}{e286b35812ffb32400292fa01b8ddfcd}
+      \strng{bibnamehash}{e286b35812ffb32400292fa01b8ddfcd}
+      \strng{authorbibnamehash}{e286b35812ffb32400292fa01b8ddfcd}
+      \strng{authornamehash}{e286b35812ffb32400292fa01b8ddfcd}
+      \strng{authorfullhash}{e286b35812ffb32400292fa01b8ddfcd}
+      \strng{authorfullhashraw}{e286b35812ffb32400292fa01b8ddfcd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Joint Force Quarterly}
+      \field{title}{Supreme command in the 21st century}
+      \field{volume}{31}
+      \field{year}{2002}
+      \field{pages}{48}
+      \range{pages}{1}
+    \endentry
+    \entry{COLE_2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b131ee2fe63368456a9bbf1d408991e1}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Irish Defence Forces}%
+      }
+      \strng{namehash}{b131ee2fe63368456a9bbf1d408991e1}
+      \strng{fullhash}{b131ee2fe63368456a9bbf1d408991e1}
+      \strng{fullhashraw}{b131ee2fe63368456a9bbf1d408991e1}
+      \strng{bibnamehash}{b131ee2fe63368456a9bbf1d408991e1}
+      \strng{authorbibnamehash}{b131ee2fe63368456a9bbf1d408991e1}
+      \strng{authornamehash}{b131ee2fe63368456a9bbf1d408991e1}
+      \strng{authorfullhash}{b131ee2fe63368456a9bbf1d408991e1}
+      \strng{authorfullhashraw}{b131ee2fe63368456a9bbf1d408991e1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1649-7066}
+      \field{journaltitle}{Defence Forces Review}
+      \field{note}{Published in collaboration with NUI Galway}
+      \field{title}{Pragmatic evolution? reflections on the foreign policy motivations, implications and impact of ireland’s experience of peacekeeping in the middle east}
+      \field{volume}{2018}
+      \field{year}{2018}
+      \field{pages}{50\bibrangedash 59}
+      \range{pages}{10}
+    \endentry
+    \entry{CODF_2022}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48ca0e30d104cde8cf03641b18320cba}{%
+           family={{Commission on the Defence Forces}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dublin}%
+      }
+      \list{publisher}{1}{%
+        {Commission on the Defence Forces}%
+      }
+      \strng{namehash}{48ca0e30d104cde8cf03641b18320cba}
+      \strng{fullhash}{48ca0e30d104cde8cf03641b18320cba}
+      \strng{fullhashraw}{48ca0e30d104cde8cf03641b18320cba}
+      \strng{bibnamehash}{48ca0e30d104cde8cf03641b18320cba}
+      \strng{authorbibnamehash}{48ca0e30d104cde8cf03641b18320cba}
+      \strng{authornamehash}{48ca0e30d104cde8cf03641b18320cba}
+      \strng{authorfullhash}{48ca0e30d104cde8cf03641b18320cba}
+      \strng{authorfullhashraw}{48ca0e30d104cde8cf03641b18320cba}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Report of the Commission on the Defence Forces}
+      \field{year}{2022}
+    \endentry
+    \entry{COTTEY_2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=134d018b94b1f18f1c2ef30bc425d44d}{%
+           family={Cottey},
+           familyi={C\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Irish Defence Forces}%
+      }
+      \strng{namehash}{134d018b94b1f18f1c2ef30bc425d44d}
+      \strng{fullhash}{134d018b94b1f18f1c2ef30bc425d44d}
+      \strng{fullhashraw}{134d018b94b1f18f1c2ef30bc425d44d}
+      \strng{bibnamehash}{134d018b94b1f18f1c2ef30bc425d44d}
+      \strng{authorbibnamehash}{134d018b94b1f18f1c2ef30bc425d44d}
+      \strng{authornamehash}{134d018b94b1f18f1c2ef30bc425d44d}
+      \strng{authorfullhash}{134d018b94b1f18f1c2ef30bc425d44d}
+      \strng{authorfullhashraw}{134d018b94b1f18f1c2ef30bc425d44d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1649-7066}
+      \field{journaltitle}{<ADD JOURNAL TITLE>}
+      \field{note}{Published in collaboration with University of Galway}
+      \field{title}{A celtic zeitenwende? continuity and change in irish national security policy}
+      \field{volume}{<ADD VOLUME>}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{HLAP_2022}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3706d8b1afe164fbc8f68add6be5044c}{%
+           family={{Department of Defence and Defence Forces}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Newbridge, Co. Kildare}%
+      }
+      \list{publisher}{2}{%
+        {Department of Defence}%
+        {Defence Forces}%
+      }
+      \strng{namehash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{fullhash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{fullhashraw}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{bibnamehash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{authorbibnamehash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{authornamehash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{authorfullhash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{authorfullhashraw}{3706d8b1afe164fbc8f68add6be5044c}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Building for the future: Change from within. High level action plan for the report of the Commission on the Defence Forces}
+      \field{year}{2022}
+    \endentry
+    \entry{DOD_2025}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3706d8b1afe164fbc8f68add6be5044c}{%
+           family={{Department of Defence and Defence Forces}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Newbridge, Co. Kildare}%
+      }
+      \list{publisher}{2}{%
+        {Department of Defence}%
+        {Defence Forces}%
+      }
+      \strng{namehash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{fullhash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{fullhashraw}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{bibnamehash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{authorbibnamehash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{authornamehash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{authorfullhash}{3706d8b1afe164fbc8f68add6be5044c}
+      \strng{authorfullhashraw}{3706d8b1afe164fbc8f68add6be5044c}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strategy statement 2025--2028}
+      \field{year}{2025}
+    \endentry
+    \entry{EU_2017}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=50f084d1495eb617210d700b9167b472}{%
+           family={{European External Action Service}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{50f084d1495eb617210d700b9167b472}
+      \strng{fullhash}{50f084d1495eb617210d700b9167b472}
+      \strng{fullhashraw}{50f084d1495eb617210d700b9167b472}
+      \strng{bibnamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorbibnamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authornamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorfullhash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorfullhashraw}{50f084d1495eb617210d700b9167b472}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 24 September 2025)}
+      \field{note}{[Online]}
+      \field{title}{From shared vision to common action: implementing the EU global strategy, year 1}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eeas.europa.eu/sites/default/files/eugs-report-full_brochure_year_1.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eeas.europa.eu/sites/default/files/eugs-report-full_brochure_year_1.pdf
+      \endverb
+    \endentry
+    \entry{EU_2018}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=50f084d1495eb617210d700b9167b472}{%
+           family={{European External Action Service}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{50f084d1495eb617210d700b9167b472}
+      \strng{fullhash}{50f084d1495eb617210d700b9167b472}
+      \strng{fullhashraw}{50f084d1495eb617210d700b9167b472}
+      \strng{bibnamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorbibnamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authornamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorfullhash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorfullhashraw}{50f084d1495eb617210d700b9167b472}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 24 September 2025)}
+      \field{note}{[Online]}
+      \field{title}{Implementing the EU global strategy: year 2. from shared vision to common action}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eeas.europa.eu/sites/default/files/eugs_annual_report_year_2.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eeas.europa.eu/sites/default/files/eugs_annual_report_year_2.pdf
+      \endverb
+    \endentry
+    \entry{EU_2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=50f084d1495eb617210d700b9167b472}{%
+           family={{European External Action Service}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{50f084d1495eb617210d700b9167b472}
+      \strng{fullhash}{50f084d1495eb617210d700b9167b472}
+      \strng{fullhashraw}{50f084d1495eb617210d700b9167b472}
+      \strng{bibnamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorbibnamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authornamehash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorfullhash}{50f084d1495eb617210d700b9167b472}
+      \strng{authorfullhashraw}{50f084d1495eb617210d700b9167b472}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 24 September 2025)}
+      \field{note}{[Online]}
+      \field{title}{EU global strategy 2019}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eeas.europa.eu/sites/default/files/eu_global_strategy_2019.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eeas.europa.eu/sites/default/files/eu_global_strategy_2019.pdf
+      \endverb
+    \endentry
+    \entry{EU_2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Brussels}%
+      }
+      \list{publisher}{1}{%
+        {European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shared vision, common action: A stronger Europe. A global strategy for the European Union’s foreign and security policy}
+      \field{year}{2016}
+    \endentry
+    \entry{FANNING_2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b094a90f86741c2a7ad5ae8d5e4b8e09}{%
+           family={Fanning},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Faber \& Faber}%
+      }
+      \strng{namehash}{b094a90f86741c2a7ad5ae8d5e4b8e09}
+      \strng{fullhash}{b094a90f86741c2a7ad5ae8d5e4b8e09}
+      \strng{fullhashraw}{b094a90f86741c2a7ad5ae8d5e4b8e09}
+      \strng{bibnamehash}{b094a90f86741c2a7ad5ae8d5e4b8e09}
+      \strng{authorbibnamehash}{b094a90f86741c2a7ad5ae8d5e4b8e09}
+      \strng{authornamehash}{b094a90f86741c2a7ad5ae8d5e4b8e09}
+      \strng{authorfullhash}{b094a90f86741c2a7ad5ae8d5e4b8e09}
+      \strng{authorfullhashraw}{b094a90f86741c2a7ad5ae8d5e4b8e09}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-571-31205-4}
+      \field{title}{Éamon de Valera: A will to power}
+      \field{year}{2015}
+    \endentry
+    \entry{FARRELL_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=669834475520e5a39650ea384403c16e}{%
+           family={Farrell},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82164366ae1663d735ad459a3e530b5d}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1877654e29ba21ee945f82de4e5eb241}
+      \strng{fullhash}{1877654e29ba21ee945f82de4e5eb241}
+      \strng{fullhashraw}{1877654e29ba21ee945f82de4e5eb241}
+      \strng{bibnamehash}{1877654e29ba21ee945f82de4e5eb241}
+      \strng{authorbibnamehash}{1877654e29ba21ee945f82de4e5eb241}
+      \strng{authornamehash}{1877654e29ba21ee945f82de4e5eb241}
+      \strng{authorfullhash}{1877654e29ba21ee945f82de4e5eb241}
+      \strng{authorfullhashraw}{1877654e29ba21ee945f82de4e5eb241}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Security}
+      \field{number}{1}
+      \field{title}{Weaponized interdependence: how global economic networks shape state coercion}
+      \field{volume}{44}
+      \field{year}{2019}
+      \field{pages}{42\bibrangedash 79}
+      \range{pages}{38}
+    \endentry
+    \entry{FLEMING_2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c8a7516c098b5989ee94d824ba23acc}{%
+           family={Fleming},
+           familyi={F\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c8a7516c098b5989ee94d824ba23acc}
+      \strng{fullhash}{1c8a7516c098b5989ee94d824ba23acc}
+      \strng{fullhashraw}{1c8a7516c098b5989ee94d824ba23acc}
+      \strng{bibnamehash}{1c8a7516c098b5989ee94d824ba23acc}
+      \strng{authorbibnamehash}{1c8a7516c098b5989ee94d824ba23acc}
+      \strng{authornamehash}{1c8a7516c098b5989ee94d824ba23acc}
+      \strng{authorfullhash}{1c8a7516c098b5989ee94d824ba23acc}
+      \strng{authorfullhashraw}{1c8a7516c098b5989ee94d824ba23acc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Defence Forces Review}
+      \field{title}{Wishbone or backbone? Neutrality in Irish foreign policy before 1932}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{9\bibrangedash 15}
+      \range{pages}{7}
+    \endentry
+    \entry{FLYNN_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc54f7b69a633e560a0ca097f2fa4861}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Brendan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Irish Defence Forces}%
+      }
+      \strng{namehash}{cc54f7b69a633e560a0ca097f2fa4861}
+      \strng{fullhash}{cc54f7b69a633e560a0ca097f2fa4861}
+      \strng{fullhashraw}{cc54f7b69a633e560a0ca097f2fa4861}
+      \strng{bibnamehash}{cc54f7b69a633e560a0ca097f2fa4861}
+      \strng{authorbibnamehash}{cc54f7b69a633e560a0ca097f2fa4861}
+      \strng{authornamehash}{cc54f7b69a633e560a0ca097f2fa4861}
+      \strng{authorfullhash}{cc54f7b69a633e560a0ca097f2fa4861}
+      \strng{authorfullhashraw}{cc54f7b69a633e560a0ca097f2fa4861}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1649-7066}
+      \field{journaltitle}{Defence Forces Review}
+      \field{note}{Published in collaboration with University College Dublin}
+      \field{title}{Small states’ capability enhancement for peacekeeping: what can ireland learn from other countries?}
+      \field{volume}{2019}
+      \field{year}{2019}
+      \field{pages}{20\bibrangedash 29}
+      \range{pages}{10}
+    \endentry
+    \entry{WHITE_2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=44279e264925dfe772423cc97ee6a59f}{%
+           family={{Government of Ireland}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dublin}%
+      }
+      \list{publisher}{1}{%
+        {Department of Defence}%
+      }
+      \strng{namehash}{44279e264925dfe772423cc97ee6a59f}
+      \strng{fullhash}{44279e264925dfe772423cc97ee6a59f}
+      \strng{fullhashraw}{44279e264925dfe772423cc97ee6a59f}
+      \strng{bibnamehash}{44279e264925dfe772423cc97ee6a59f}
+      \strng{authorbibnamehash}{44279e264925dfe772423cc97ee6a59f}
+      \strng{authornamehash}{44279e264925dfe772423cc97ee6a59f}
+      \strng{authorfullhash}{44279e264925dfe772423cc97ee6a59f}
+      \strng{authorfullhashraw}{44279e264925dfe772423cc97ee6a59f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{White Paper on Defence: Update 2019}
+      \field{year}{2019}
+    \endentry
+    \entry{GRAY_2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9addad936d0f02b24b1dd75878681da1}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{fullhash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{fullhashraw}{9addad936d0f02b24b1dd75878681da1}
+      \strng{bibnamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorbibnamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authornamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorfullhash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorfullhashraw}{9addad936d0f02b24b1dd75878681da1}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Parameters}
+      \field{number}{1}
+      \field{title}{How has war changed since the end of the cold war?}
+      \field{volume}{35}
+      \field{year}{2005}
+      \field{pages}{14\bibrangedash 26}
+      \range{pages}{13}
+    \endentry
+    \entry{GRAY_2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9addad936d0f02b24b1dd75878681da1}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{fullhash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{fullhashraw}{9addad936d0f02b24b1dd75878681da1}
+      \strng{bibnamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorbibnamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authornamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorfullhash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorfullhashraw}{9addad936d0f02b24b1dd75878681da1}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Theory of strategy}
+      \field{year}{2018}
+    \endentry
+    \entry{HELLMUELLER_2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a22538f0361bb9471c7b3bb3b75db5d8}{%
+           family={Hellmüller},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=902c5aefca351acb63ca482646734ea5}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={X.-Y.\bibnamedelimi R.},
+           giveni={X\bibinithyphendelim Y\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe6f8336fa6a0a26e1ede1005fb50eac}{%
+           family={Bara},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f44b8472e390414a703aa9fb053272fc}
+      \strng{fullhash}{f44b8472e390414a703aa9fb053272fc}
+      \strng{fullhashraw}{f44b8472e390414a703aa9fb053272fc}
+      \strng{bibnamehash}{f44b8472e390414a703aa9fb053272fc}
+      \strng{authorbibnamehash}{f44b8472e390414a703aa9fb053272fc}
+      \strng{authornamehash}{f44b8472e390414a703aa9fb053272fc}
+      \strng{authorfullhash}{f44b8472e390414a703aa9fb053272fc}
+      \strng{authorfullhashraw}{f44b8472e390414a703aa9fb053272fc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Conflict Resolution}
+      \field{number}{1}
+      \field{title}{What is in a mandate? introducing the UN peace mission mandates dataset}
+      \field{volume}{68}
+      \field{year}{2024}
+      \field{pages}{166\bibrangedash 192}
+      \range{pages}{27}
+    \endentry
+    \entry{HIRST_2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d018c577725962f6b311c7a53f2c099a}{%
+           family={Hirst},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{2}{%
+        {Faber}%
+        {Faber Limited}%
+      }
+      \strng{namehash}{d018c577725962f6b311c7a53f2c099a}
+      \strng{fullhash}{d018c577725962f6b311c7a53f2c099a}
+      \strng{fullhashraw}{d018c577725962f6b311c7a53f2c099a}
+      \strng{bibnamehash}{d018c577725962f6b311c7a53f2c099a}
+      \strng{authorbibnamehash}{d018c577725962f6b311c7a53f2c099a}
+      \strng{authornamehash}{d018c577725962f6b311c7a53f2c099a}
+      \strng{authorfullhash}{d018c577725962f6b311c7a53f2c099a}
+      \strng{authorfullhashraw}{d018c577725962f6b311c7a53f2c099a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Beware of small states: Lebanon, battleground of the Middle East}
+      \field{year}{2010}
+    \endentry
+    \entry{KEOHANE_1969}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc43d7329898c258a05361410ba376fc}{%
+           family={Keohane},
+           familyi={K\bibinitperiod},
+           given={R.\bibnamedelimi O.},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc43d7329898c258a05361410ba376fc}
+      \strng{fullhash}{fc43d7329898c258a05361410ba376fc}
+      \strng{fullhashraw}{fc43d7329898c258a05361410ba376fc}
+      \strng{bibnamehash}{fc43d7329898c258a05361410ba376fc}
+      \strng{authorbibnamehash}{fc43d7329898c258a05361410ba376fc}
+      \strng{authornamehash}{fc43d7329898c258a05361410ba376fc}
+      \strng{authorfullhash}{fc43d7329898c258a05361410ba376fc}
+      \strng{authorfullhashraw}{fc43d7329898c258a05361410ba376fc}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Organization}
+      \field{number}{2}
+      \field{title}{Lilliputians’ dilemmas: small states in international politics}
+      \field{volume}{23}
+      \field{year}{1969}
+      \field{pages}{291\bibrangedash 310}
+      \range{pages}{20}
+    \endentry
+    \entry{KEOHANE_1988}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc43d7329898c258a05361410ba376fc}{%
+           family={Keohane},
+           familyi={K\bibinitperiod},
+           given={R.\bibnamedelimi O.},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc43d7329898c258a05361410ba376fc}
+      \strng{fullhash}{fc43d7329898c258a05361410ba376fc}
+      \strng{fullhashraw}{fc43d7329898c258a05361410ba376fc}
+      \strng{bibnamehash}{fc43d7329898c258a05361410ba376fc}
+      \strng{authorbibnamehash}{fc43d7329898c258a05361410ba376fc}
+      \strng{authornamehash}{fc43d7329898c258a05361410ba376fc}
+      \strng{authorfullhash}{fc43d7329898c258a05361410ba376fc}
+      \strng{authorfullhashraw}{fc43d7329898c258a05361410ba376fc}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Studies Quarterly}
+      \field{number}{4}
+      \field{title}{International institutions: Two approaches}
+      \field{volume}{32}
+      \field{year}{1988}
+      \field{pages}{379\bibrangedash 396}
+      \range{pages}{18}
+    \endentry
+    \entry{KING_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eec0f4afeebde783aa4dc732244b1a3a}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Conor},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Irish Defence Forces}%
+      }
+      \strng{namehash}{eec0f4afeebde783aa4dc732244b1a3a}
+      \strng{fullhash}{eec0f4afeebde783aa4dc732244b1a3a}
+      \strng{fullhashraw}{eec0f4afeebde783aa4dc732244b1a3a}
+      \strng{bibnamehash}{eec0f4afeebde783aa4dc732244b1a3a}
+      \strng{authorbibnamehash}{eec0f4afeebde783aa4dc732244b1a3a}
+      \strng{authornamehash}{eec0f4afeebde783aa4dc732244b1a3a}
+      \strng{authorfullhash}{eec0f4afeebde783aa4dc732244b1a3a}
+      \strng{authorfullhashraw}{eec0f4afeebde783aa4dc732244b1a3a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1649-7066}
+      \field{journaltitle}{Defence Forces Review}
+      \field{note}{Published in collaboration with Maynooth University}
+      \field{title}{Resourcing the state’s national insurance policy: the case for defence}
+      \field{volume}{2021}
+      \field{year}{2021}
+      \field{pages}{10\bibrangedash 21}
+      \range{pages}{12}
+    \endentry
+    \entry{KREPINEVICH_1994}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=146594c94598910c2c37404456916795}{%
+           family={Krepinevich},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{146594c94598910c2c37404456916795}
+      \strng{fullhash}{146594c94598910c2c37404456916795}
+      \strng{fullhashraw}{146594c94598910c2c37404456916795}
+      \strng{bibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authorbibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authornamehash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhashraw}{146594c94598910c2c37404456916795}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 7 September 2025)}
+      \field{journaltitle}{The National Interest}
+      \field{number}{37}
+      \field{title}{Cavalry to computer: The pattern of military revolutions}
+      \field{year}{1994}
+      \field{pages}{30\bibrangedash 42}
+      \range{pages}{13}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/42896863
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/42896863
+      \endverb
+    \endentry
+    \entry{MEARSHEIMER_1994}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=954ee6d68ef5063e760636b06d54bd58}{%
+           family={Mearsheimer},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{fullhash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{fullhashraw}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{bibnamehash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{authorbibnamehash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{authornamehash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{authorfullhash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{authorfullhashraw}{954ee6d68ef5063e760636b06d54bd58}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Security}
+      \field{number}{3}
+      \field{title}{The false promise of international institutions}
+      \field{volume}{19}
+      \field{year}{1994}
+      \field{pages}{5\bibrangedash 49}
+      \range{pages}{45}
+    \endentry
+    \entry{MEARSHEIMER_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=954ee6d68ef5063e760636b06d54bd58}{%
+           family={Mearsheimer},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{fullhash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{fullhashraw}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{bibnamehash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{authorbibnamehash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{authornamehash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{authorfullhash}{954ee6d68ef5063e760636b06d54bd58}
+      \strng{authorfullhashraw}{954ee6d68ef5063e760636b06d54bd58}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Security}
+      \field{number}{4}
+      \field{title}{Bound to fail: The rise and fall of the liberal international order}
+      \field{volume}{43}
+      \field{year}{2019}
+      \field{pages}{7\bibrangedash 50}
+      \range{pages}{44}
+    \endentry
+    \entry{METZ_2000}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6e9db6018f6ced2e4660388f2e5a4712}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Carlisle, PA}%
+      }
+      \strng{namehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{fullhash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{fullhashraw}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{bibnamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorbibnamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authornamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorfullhash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorfullhashraw}{6e9db6018f6ced2e4660388f2e5a4712}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ten years ago, few Americans had heard of or thought about military revolutions. Soviet defense experts, who were intrinsically more comfortable with the notion that history's linear evolution is occasionally interrupted by rapid discontinuities known as "revolutions," had begun exploration of the idea. But even though the Soviets had an inkling of the changes in warfare that the late 20th century would bring, they did not have the technological base or the capability for creative organizational reform to actually undertake a revolution. They were the intellectual founding fathers of the current revolution in military affairs, but not its architects, playing the role of Marx rather than Lenin. But Americans were different. For a variety of reasons, they were both open to new ideas about warfare and able to capitalize on them.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Parameters}
+      \field{note}{[Online]}
+      \field{number}{3}
+      \field{title}{The next twist of the RMA}
+      \field{volume}{30}
+      \field{year}{2000}
+      \field{pages}{40}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A67502101/AONE?u=nuim&sid=bookmark-AONE&xid=edea42d1
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A67502101/AONE?u=nuim&sid=bookmark-AONE&xid=edea42d1
+      \endverb
+    \endentry
+    \entry{MURRAY_2001}{book}{}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=3b0fec903aae238f4705fa770f5ae38a}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c2bdebfe1360bb609cbf65a57929c00}{%
+           family={Knox},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{435abf5d88b96d103a82ffd98ad3e87f}
+      \strng{fullhash}{435abf5d88b96d103a82ffd98ad3e87f}
+      \strng{fullhashraw}{435abf5d88b96d103a82ffd98ad3e87f}
+      \strng{bibnamehash}{435abf5d88b96d103a82ffd98ad3e87f}
+      \strng{editorbibnamehash}{435abf5d88b96d103a82ffd98ad3e87f}
+      \strng{editornamehash}{435abf5d88b96d103a82ffd98ad3e87f}
+      \strng{editorfullhash}{435abf5d88b96d103a82ffd98ad3e87f}
+      \strng{editorfullhashraw}{435abf5d88b96d103a82ffd98ad3e87f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The dynamics of military revolution, 1300--2050}
+      \field{year}{2001}
+    \endentry
+    \entry{NYE_2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e41023e44544bb7bd77fd3e2c5603bbd}{%
+           family={Nye},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e41023e44544bb7bd77fd3e2c5603bbd}
+      \strng{fullhash}{e41023e44544bb7bd77fd3e2c5603bbd}
+      \strng{fullhashraw}{e41023e44544bb7bd77fd3e2c5603bbd}
+      \strng{bibnamehash}{e41023e44544bb7bd77fd3e2c5603bbd}
+      \strng{authorbibnamehash}{e41023e44544bb7bd77fd3e2c5603bbd}
+      \strng{authornamehash}{e41023e44544bb7bd77fd3e2c5603bbd}
+      \strng{authorfullhash}{e41023e44544bb7bd77fd3e2c5603bbd}
+      \strng{authorfullhashraw}{e41023e44544bb7bd77fd3e2c5603bbd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of the American Academy of Political and Social Science}
+      \field{number}{1}
+      \field{title}{Public diplomacy and soft power}
+      \field{volume}{616}
+      \field{year}{2008}
+      \field{pages}{94\bibrangedash 109}
+      \range{pages}{16}
+    \endentry
+    \entry{QUINN_2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68aae89d6d762a3d171fb48416afa688}{%
+           family={Quinn},
+           familyi={Q\bibinitperiod},
+           given={John\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Irish Defence Forces}%
+      }
+      \strng{namehash}{68aae89d6d762a3d171fb48416afa688}
+      \strng{fullhash}{68aae89d6d762a3d171fb48416afa688}
+      \strng{fullhashraw}{68aae89d6d762a3d171fb48416afa688}
+      \strng{bibnamehash}{68aae89d6d762a3d171fb48416afa688}
+      \strng{authorbibnamehash}{68aae89d6d762a3d171fb48416afa688}
+      \strng{authornamehash}{68aae89d6d762a3d171fb48416afa688}
+      \strng{authorfullhash}{68aae89d6d762a3d171fb48416afa688}
+      \strng{authorfullhashraw}{68aae89d6d762a3d171fb48416afa688}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1649-7066}
+      \field{journaltitle}{Defence Forces Review}
+      \field{note}{Published in collaboration with NUI Galway}
+      \field{title}{Dreaming of things that never were: irish soft power and peacekeeping in the 21st century}
+      \field{volume}{2018}
+      \field{year}{2018}
+      \field{pages}{92\bibrangedash 107}
+      \range{pages}{16}
+    \endentry
+    \entry{DUMAN_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c5fc2f477b0931c2bcc0291d8693083e}{%
+           family={Rakipoğlu},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e5bc125817f51c02466eb05b783aac8}{%
+           family={Duman},
+           familyi={D\bibinitperiod},
+           given={T.\bibnamedelimi I.},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9ff183e0b7efaaa6763655651362a05f}
+      \strng{fullhash}{9ff183e0b7efaaa6763655651362a05f}
+      \strng{fullhashraw}{9ff183e0b7efaaa6763655651362a05f}
+      \strng{bibnamehash}{9ff183e0b7efaaa6763655651362a05f}
+      \strng{authorbibnamehash}{9ff183e0b7efaaa6763655651362a05f}
+      \strng{authornamehash}{9ff183e0b7efaaa6763655651362a05f}
+      \strng{authorfullhash}{9ff183e0b7efaaa6763655651362a05f}
+      \strng{authorfullhashraw}{9ff183e0b7efaaa6763655651362a05f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Muhafazakâr Düşünce}
+      \field{number}{68}
+      \field{title}{The structural paralysis of the UN security council: great power politics and the gaza crisis}
+      \field{volume}{21}
+      \field{year}{2025}
+      \field{pages}{44\bibrangedash 71}
+      \range{pages}{28}
+    \endentry
+    \entry{ROTHSTEIN_1966}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b0fb6600fb3f955fb8cc6e5daffc9ad}{%
+           family={Rothstein},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b0fb6600fb3f955fb8cc6e5daffc9ad}
+      \strng{fullhash}{3b0fb6600fb3f955fb8cc6e5daffc9ad}
+      \strng{fullhashraw}{3b0fb6600fb3f955fb8cc6e5daffc9ad}
+      \strng{bibnamehash}{3b0fb6600fb3f955fb8cc6e5daffc9ad}
+      \strng{authorbibnamehash}{3b0fb6600fb3f955fb8cc6e5daffc9ad}
+      \strng{authornamehash}{3b0fb6600fb3f955fb8cc6e5daffc9ad}
+      \strng{authorfullhash}{3b0fb6600fb3f955fb8cc6e5daffc9ad}
+      \strng{authorfullhashraw}{3b0fb6600fb3f955fb8cc6e5daffc9ad}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 25 September 2025)}
+      \field{journaltitle}{International Organization}
+      \field{note}{[Online]}
+      \field{number}{3}
+      \field{title}{Alignment, nonalignment, and small powers: 1945--1965}
+      \field{urlday}{25}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{20}
+      \field{year}{1966}
+      \field{urldateera}{ce}
+      \field{pages}{397\bibrangedash 418}
+      \range{pages}{22}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2705631
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2705631
+      \endverb
+    \endentry
+    \entry{THORHALLSSON_2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=456218b418d1d5e121d045d2d42170b3}{%
+           family={Thorhallsson},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{456218b418d1d5e121d045d2d42170b3}
+      \strng{fullhash}{456218b418d1d5e121d045d2d42170b3}
+      \strng{fullhashraw}{456218b418d1d5e121d045d2d42170b3}
+      \strng{bibnamehash}{456218b418d1d5e121d045d2d42170b3}
+      \strng{authorbibnamehash}{456218b418d1d5e121d045d2d42170b3}
+      \strng{authornamehash}{456218b418d1d5e121d045d2d42170b3}
+      \strng{authorfullhash}{456218b418d1d5e121d045d2d42170b3}
+      \strng{authorfullhashraw}{456218b418d1d5e121d045d2d42170b3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of European Integration}
+      \field{number}{1}
+      \field{title}{The size of states in the european union: theoretical and conceptual perspectives}
+      \field{volume}{28}
+      \field{year}{2006}
+      \field{pages}{7\bibrangedash 31}
+      \range{pages}{25}
+    \endentry
+    \entry{TONRA_1999}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=302031f2843a50ad5c5e750615c7abec}{%
+           family={Tonra},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{fullhash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{fullhashraw}{302031f2843a50ad5c5e750615c7abec}
+      \strng{bibnamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorbibnamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authornamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorfullhash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorfullhashraw}{302031f2843a50ad5c5e750615c7abec}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Irish Studies in International Affairs}
+      \field{note}{[Online]}
+      \field{title}{The Europeanisation of Irish foreign affairs}
+      \field{volume}{10}
+      \field{year}{1999}
+      \field{pages}{149\bibrangedash 165}
+      \range{pages}{17}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/30001896
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/30001896
+      \endverb
+    \endentry
+    \entry{TONRA_2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=302031f2843a50ad5c5e750615c7abec}{%
+           family={Tonra},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Manchester}%
+      }
+      \list{publisher}{1}{%
+        {Manchester University Press}%
+      }
+      \strng{namehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{fullhash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{fullhashraw}{302031f2843a50ad5c5e750615c7abec}
+      \strng{bibnamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorbibnamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authornamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorfullhash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorfullhashraw}{302031f2843a50ad5c5e750615c7abec}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global citizen and European republic: Irish foreign policy in transition}
+      \field{year}{2006}
+    \endentry
+    \entry{TONRA_2007}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=302031f2843a50ad5c5e750615c7abec}{%
+           family={Tonra},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=302031f2843a50ad5c5e750615c7abec}{%
+           family={Tonra},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Manchester}%
+      }
+      \list{publisher}{1}{%
+        {Manchester University Press}%
+      }
+      \strng{namehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{fullhash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{fullhashraw}{302031f2843a50ad5c5e750615c7abec}
+      \strng{bibnamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorbibnamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authornamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorfullhash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{authorfullhashraw}{302031f2843a50ad5c5e750615c7abec}
+      \strng{editorbibnamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{editornamehash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{editorfullhash}{302031f2843a50ad5c5e750615c7abec}
+      \strng{editorfullhashraw}{302031f2843a50ad5c5e750615c7abec}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Global citizen and European republic}
+      \field{title}{Security, defence and neutrality}
+      \field{year}{2007}
+      \field{pages}{153\bibrangedash 180}
+      \range{pages}{28}
+    \endentry
+    \entry{TONRA_2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=302031f2843a50ad5c5e750615c7abec}{%
+           family={Tonra},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42ecc29d6a08b88e75432dc91bce95a2}{%
+           family={Christiansen},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3598f5704e4fc8fc33239a794015229c}
+      \strng{fullhash}{3598f5704e4fc8fc33239a794015229c}
+      \strng{fullhashraw}{3598f5704e4fc8fc33239a794015229c}
+      \strng{bibnamehash}{3598f5704e4fc8fc33239a794015229c}
+      \strng{authorbibnamehash}{3598f5704e4fc8fc33239a794015229c}
+      \strng{authornamehash}{3598f5704e4fc8fc33239a794015229c}
+      \strng{authorfullhash}{3598f5704e4fc8fc33239a794015229c}
+      \strng{authorfullhashraw}{3598f5704e4fc8fc33239a794015229c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 24 September 2025)}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{note}{[Online]}
+      \field{title}{The study of EU foreign policy: Between international relations and European studies}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.1739588
+      \endverb
+      \verb{urlraw}
+      \verb https://ssrn.com/abstract=1739588
+      \endverb
+      \verb{url}
+      \verb https://ssrn.com/abstract=1739588
+      \endverb
+    \endentry
+    \entry{WALTZ_1979}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2662d195b21b8a1f5915990f136c1aae}{%
+           family={Waltz},
+           familyi={W\bibinitperiod},
+           given={K.\bibnamedelimi N.},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston, Mass}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{2662d195b21b8a1f5915990f136c1aae}
+      \strng{fullhash}{2662d195b21b8a1f5915990f136c1aae}
+      \strng{fullhashraw}{2662d195b21b8a1f5915990f136c1aae}
+      \strng{bibnamehash}{2662d195b21b8a1f5915990f136c1aae}
+      \strng{authorbibnamehash}{2662d195b21b8a1f5915990f136c1aae}
+      \strng{authornamehash}{2662d195b21b8a1f5915990f136c1aae}
+      \strng{authorfullhash}{2662d195b21b8a1f5915990f136c1aae}
+      \strng{authorfullhashraw}{2662d195b21b8a1f5915990f136c1aae}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Theory of international politics}
+      \field{year}{1979}
+    \endentry
+  \enddatalist
+  \missing{DSS_STRUCTURE_MK2}
+  \missing{DUMAN_RAKIPOGLU_2025}
+  \missing{HELLMUELLER_2014}
+  \missing{MINIHAN_2018}
+  \missing{WALTZ_1969}
+  \missing{WHITE_2019}
+\endrefsection
+\endinput
+

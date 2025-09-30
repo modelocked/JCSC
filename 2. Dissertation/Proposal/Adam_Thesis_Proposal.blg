@@ -1,0 +1,16 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[1] Config.pm:331> INFO - Logfile is 'Adam_Thesis_Proposal.blg'
+[162] biber-MSWIN64:342> INFO - === 
+[203] Biber.pm:421> INFO - Reading 'Adam_Thesis_Proposal.bcf'
+[356] Biber.pm:1002> INFO - Found 56 citekeys in bib section 0
+[377] Biber.pm:4487> INFO - Processing section 0
+[396] Biber.pm:4678> INFO - Looking for bibtex file '../References/Thesis_2025_2026.bib' for section 0
+[501] bibtex.pm:1713> INFO - LaTeX decoding ...
+[682] bibtex.pm:1519> INFO - Found BibTeX data source '../References/Thesis_2025_2026.bib'
+[962] Utils.pm:479> ERROR - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_fGpZ\bc58d817edcd897f5064e92a6443b9be_39012.utf8, line 852, syntax error: found "@Article", expected end of entry ("}" or ")") (skipping to next "@")
+[962] Biber.pm:132> WARN - article entry 'KELLER_2002' (../References/Thesis_2025_2026.bib): Invalid format '10 March' of date field 'date' - ignoring
+[962] Biber.pm:132> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Metz_2000' and 'METZ_2000' in file '../References/Thesis_2025_2026.bib'
+[962] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_fGpZ\bc58d817edcd897f5064e92a6443b9be_39012.utf8, line 116, warning: 357 characters of junk seen at toplevel
+[962] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_fGpZ\bc58d817edcd897f5064e92a6443b9be_39012.utf8, line 843, warning: possible runaway string started at line 842
+[962] Biber.pm:134> INFO - WARNINGS: 4
+[963] Biber.pm:137> INFO - ERRORS: 1

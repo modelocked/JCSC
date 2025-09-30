@@ -1,0 +1,26 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Beatty_DSS_Essay.blg'
+[109] biber-MSWIN64:342> INFO - === 
+[143] Biber.pm:421> INFO - Reading 'Beatty_DSS_Essay.bcf'
+[280] Biber.pm:1002> INFO - Found 51 citekeys in bib section 0
+[295] Biber.pm:4487> INFO - Processing section 0
+[308] Biber.pm:4678> INFO - Looking for bibtex file '../References/DSS_bibliography.bib' for section 0
+[366] bibtex.pm:1713> INFO - LaTeX decoding ...
+[415] bibtex.pm:1519> INFO - Found BibTeX data source '../References/DSS_bibliography.bib'
+[616] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[617] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[617] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[617] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[655] bbl.pm:676> INFO - Writing 'Beatty_DSS_Essay.bbl' with encoding 'UTF-8'
+[680] bbl.pm:779> INFO - Output to Beatty_DSS_Essay.bbl
+[680] Biber.pm:132> WARN - Duplicate entry key: 'COTTEY_2022' in file '../References/DSS_bibliography.bib', skipping ...
+[681] Biber.pm:132> WARN - Duplicate entry key: 'CARROLL_2023' in file '../References/DSS_bibliography.bib', skipping ...
+[681] Biber.pm:132> WARN - Duplicate entry key: 'AYIOTIS_2023' in file '../References/DSS_bibliography.bib', skipping ...
+[681] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_ZGb7\19960a86a5a81be899ff61af46e34779_15448.utf8, line 283, warning: 4 characters of junk seen at toplevel
+[681] Biber.pm:132> WARN - I didn't find a database entry for 'WHITE_2019' (section 0)
+[681] Biber.pm:132> WARN - I didn't find a database entry for 'WALTZ_1969' (section 0)
+[681] Biber.pm:132> WARN - I didn't find a database entry for 'DUMAN_RAKIPOGLU_2025' (section 0)
+[682] Biber.pm:132> WARN - I didn't find a database entry for 'MINIHAN_2018' (section 0)
+[682] Biber.pm:132> WARN - I didn't find a database entry for 'DSS_STRUCTURE_MK2' (section 0)
+[682] Biber.pm:132> WARN - I didn't find a database entry for 'HELLMUELLER_2014' (section 0)
+[682] Biber.pm:134> INFO - WARNINGS: 10

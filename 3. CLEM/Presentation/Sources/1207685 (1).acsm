@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>1207685_618575308</transaction>
+  <purchase>2025-09-26T10:21:48+00:00</purchase>
+  <expiration>2025-09-26T16:21:48+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000001207685</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Learning to Forget</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fitzgerald, David;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Stanford University Press</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1207685</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000001207685</resource>
+      <permissions>
+        <display>
+          <duration>604769</duration>
+        </display>
+        <excerpt>
+          <duration>604769</duration>
+          <count initial="30" max="30" incrementInterval="20158"/>
+        </excerpt>
+        <print>
+          <duration>604769</duration>
+          <count initial="60" max="60" incrementInterval="10079"/>
+        </print>
+        <play>
+          <duration>604769</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>D0knFl/lzDIschRdNuyfmASDtRw=</hmac>
+</fulfillmentToken>

@@ -1,0 +1,42 @@
+% Frontmatter/Declaration.tex
+% Student Declaration page matching the photographed template
+% Uses \studentname and \studentrank from metadata
+
+\clearpage
+\thispagestyle{plain}
+
+\begin{center}
+	{\large\bfseries \MakeUppercase{Student Declaration}\par}
+	\vspace{0.4em}
+	{\normalsize \bfseries MA (LMDS)\par}
+\end{center}
+
+\vspace{1.2em}
+{\bfseries Student Declaration}
+
+\begin{enumerate}
+	\item I certify that this thesis does not incorporate without acknowledgement any material previously submitted for a degree or diploma in any university; and that to the best of my knowledge and belief it does not contain any material previously published or written by another person except where due reference is made in the text.
+	
+	\item I, the undersigned declare that no Artificial Intelligence (AI) tools were used to complete all or any part of this thesis.
+	
+	\item Permission is given for the Defence Forces Library and the Maynooth University Library to lend or copy this thesis upon request.
+	
+	\item The views and conclusions expressed herein are those of the student author and do not necessarily represent the views of the Military College, the Defence Forces or the Maynooth University.
+\end{enumerate}
+
+\vspace{2.5em}
+
+% Signature + Rank line
+\noindent
+\begin{tabular*}{\textwidth}{@{}p{0.55\textwidth}@{\extracolsep{\fill}}p{0.4\textwidth}@{}}
+	\textbf{SIGNED:} \hrulefill & \textbf{RANK:} \studentrank \\
+\end{tabular*}
+
+\vspace{1.5em}
+
+% Name (block capitals) + Date line
+\noindent
+\begin{tabular*}{\textwidth}{@{}p{0.55\textwidth}@{\extracolsep{\fill}}p{0.4\textwidth}@{}}
+	\textbf{Name:} \studentname \hfill \textbf{Date:} \today \\
+	
+\end{tabular*}

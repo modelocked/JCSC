@@ -1,0 +1,9 @@
+@techreport{cebb3659-7d9f-34d5-b361-524783b22fdc,
+ URL = {http://www.jstor.org/stable/resrep05632.6},
+ author = {Don Rassler},
+ institution = {Combatting Terrorism Center at West Point},
+ pages = {49--62},
+ title = {Remotely Piloted Innovation: Terrorism, Drones and Supportive Technology},
+ urldate = {2025-06-11},
+ year = {2016}
+}

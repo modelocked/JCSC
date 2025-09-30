@@ -1,0 +1,945 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{ALACH_2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94896befce0c1becc25cad6b73817460}{%
+           family={Alach},
+           familyi={A\bibinitperiod},
+           given={Zhivan\bibnamedelima J.},
+           giveni={Z\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Strategic Studies Institute}%
+      }
+      \list{location}{1}{%
+        {Carlisle, PA}%
+      }
+      \strng{namehash}{94896befce0c1becc25cad6b73817460}
+      \strng{fullhash}{94896befce0c1becc25cad6b73817460}
+      \strng{fullhashraw}{94896befce0c1becc25cad6b73817460}
+      \strng{bibnamehash}{94896befce0c1becc25cad6b73817460}
+      \strng{authorbibnamehash}{94896befce0c1becc25cad6b73817460}
+      \strng{authornamehash}{94896befce0c1becc25cad6b73817460}
+      \strng{authorfullhash}{94896befce0c1becc25cad6b73817460}
+      \strng{authorfullhashraw}{94896befce0c1becc25cad6b73817460}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Slowing Military Change}
+      \field{note}{[Online]}
+      \field{title}{The revolution in military affairs}
+      \field{year}{2008}
+      \field{pages}{49+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A263786445/AONE?u=nuim&sid=bookmark-AONE&xid=e7caa86e
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A263786445/AONE?u=nuim&sid=bookmark-AONE&xid=e7caa86e
+      \endverb
+    \endentry
+    \entry{BETTS_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf990f5733c2afbaa7750026110d8eba}{%
+           family={Betts},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \strng{namehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{fullhash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{fullhashraw}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{bibnamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorbibnamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authornamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorfullhash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorfullhashraw}{bf990f5733c2afbaa7750026110d8eba}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Revolution in military affairs (RMA) has several drawbacks despite its offer of US military supremacy. It does not sharpen the judgment of military leaders so that problems to which high technology is inapplicable, may remain unsolved. A miscalculation of conflicts could result in a possible confrontation with giant powers such as China and Russia. Policymakers should therefore be wary of possible but unexpected effects of RMA.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{The National Interest}
+      \field{note}{[Online]}
+      \field{number}{45}
+      \field{title}{The downside of the cutting edge}
+      \field{year}{1996}
+      \field{pages}{80+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A18827115/AONE?u=nuim&sid=bookmark-AONE&xid=3a16f899
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A18827115/AONE?u=nuim&sid=bookmark-AONE&xid=3a16f899
+      \endverb
+    \endentry
+    \entry{BROSE_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee7cac4e19444f95a177180b34a9b38d}{%
+           family={Brose},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{fullhash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{fullhashraw}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{bibnamehash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{authorbibnamehash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{authornamehash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{authorfullhash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{authorfullhashraw}{ee7cac4e19444f95a177180b34a9b38d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In 1898, a Polish banker and self-taught military expert named Jan Bloch published The Future of War, the culmination of his long obsession with the impact of modern technology on warfare. Bloch foresaw with stunning prescience how smokeless gunpowder, improved rifles, and other emerging technologies would overturn contemporary thinking about the character and conduct of war. (Bloch also got one major thing wrong: he thought the sheer carnage of modern combat would be so horrific that war would "become impossible.") What Bloch anticipated has come to be known as a "revolution in military affairs"--the emergence of technologies so disruptive that they overtake existing military concepts and capabilities and necessitate a rethinking of how, with what, and by whom war is waged. Such a revolution is unfolding today. Artificial intelligence, autonomous systems, ubiquitous sensors, advanced manufacturing, and quantum science will transform warfare as radically as the technologies that consumed Bloch. And yet the U.S. government's thinking about how to employ these new technologies is not keeping pace with their development.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Foreign Affairs}
+      \field{note}{[Online]}
+      \field{number}{3}
+      \field{title}{The new revolution in military affairs: War's sci-fi future}
+      \field{volume}{98}
+      \field{year}{2019}
+      \field{pages}{122+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A585763277/AONE?u=nuim&sid=bookmark-AONE&xid=ed50cd4b
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A585763277/AONE?u=nuim&sid=bookmark-AONE&xid=ed50cd4b
+      \endverb
+    \endentry
+    \entry{COCHRANE_2012}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1af44a764e0692a9341685fc5a0a251}{%
+           family={Cochrane},
+           familyi={C\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Cranfield University, Defence College of Management}%
+        {Technology}%
+      }
+      \strng{namehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{fullhash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{fullhashraw}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{bibnamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorbibnamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authornamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorfullhash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorfullhashraw}{b1af44a764e0692a9341685fc5a0a251}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Unpublished]}
+      \field{title}{The Development of the British Approach to Improvised Explosive Device Disposal in Northern Ireland}
+      \field{type}{MPhil thesis}
+      \field{year}{2012}
+    \endentry
+    \entry{COHEN_1995}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c689a7f8a87f05a29ca04d1f578b6e51}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Eliot\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{fullhash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{fullhashraw}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{bibnamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorbibnamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authornamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorfullhash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorfullhashraw}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{National Review}
+      \field{note}{[Online]}
+      \field{number}{14}
+      \field{title}{Come the revolution}
+      \field{volume}{47}
+      \field{year}{1995}
+      \field{pages}{26+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A17367744/AONE?u=nuim&sid=summon&xid=e8a5ebae
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A17367744/AONE?u=nuim&sid=summon&xid=e8a5ebae
+      \endverb
+    \endentry
+    \entry{COHEN_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c689a7f8a87f05a29ca04d1f578b6e51}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Eliot\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{fullhash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{fullhashraw}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{bibnamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorbibnamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authornamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorfullhash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorfullhashraw}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The US is undergoing a major military organizational restructuring as a result of the development of new technologies that have forced US defense planners to readjust their defense posture. This military restructuring has been repeated throughout American history as technological innovations have been adopted and subsequently discarded. The evolution of tactical warfare has always been a result of a need for answers to problems posed by enemies.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Foreign Affairs}
+      \field{note}{[Online]}
+      \field{number}{2}
+      \field{title}{A revolution in warfare}
+      \field{volume}{75}
+      \field{year}{1996}
+      \field{pages}{37+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A18102376/GBIB?u=nuim&sid=summon&xid=c4fd2389
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A18102376/GBIB?u=nuim&sid=summon&xid=c4fd2389
+      \endverb
+    \endentry
+    \entry{CRINO_2020}{online}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4b5316a7ad011bbf04d52864d5d5098b}{%
+           family={Crino},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2be52dde8ec23eb936badda96192eaf7}{%
+           family={Dreby},
+           familyi={D\bibinitperiod},
+           given={Conrad},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Atlantic Council}%
+      }
+      \strng{namehash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{fullhash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{fullhashraw}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{bibnamehash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{authorbibnamehash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{authornamehash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{authorfullhash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{authorfullhashraw}{5f5f17966ddb15052a33da6a957b1d4d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Think about a violent drone attack on a major international airport, an airport like Riyadh, Cairo, or Frankfurt. What could such an attack look like? Maybe it would be a battery-powered, remote-control airplane with a plunger mechanism in its nose, designed to blow up several pounds of explosives when it crashed into a target on the ground like a taxiing commercial airplane. Or it could be a multirotor drone, made of hardened plastic, built for the consumer market but modified, so it can carry a bomb to drop onto a crowd of people waiting for a shuttle bus. Either of these unmanned aerial systems (UAS) would be hard to observe visually or detect with radar, let alone defeat before they hit their targets. What would the aftermath of such attacks be like? Imagine the consequences in terms of damage, injuries, and fatalities. Consider the impact on the transportation network. Reason through the political repercussions and the effects on the government following the attack, and after the inevitable dissection of the intelligence, security, and operations failures that left the targeted airport vulnerable. The final accounting could be inestimably bad for those concerned.�}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Drone attacks against critical infrastructure: a real and present threat}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep24632
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep24632
+      \endverb
+    \endentry
+    \entry{GRAY_2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e4f83c77a70bbfd89d8059a3ab5389dc}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={Colin\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Weidenfeld \& Nicolson}%
+      }
+      \strng{namehash}{e4f83c77a70bbfd89d8059a3ab5389dc}
+      \strng{fullhash}{e4f83c77a70bbfd89d8059a3ab5389dc}
+      \strng{fullhashraw}{e4f83c77a70bbfd89d8059a3ab5389dc}
+      \strng{bibnamehash}{e4f83c77a70bbfd89d8059a3ab5389dc}
+      \strng{authorbibnamehash}{e4f83c77a70bbfd89d8059a3ab5389dc}
+      \strng{authornamehash}{e4f83c77a70bbfd89d8059a3ab5389dc}
+      \strng{authorfullhash}{e4f83c77a70bbfd89d8059a3ab5389dc}
+      \strng{authorfullhashraw}{e4f83c77a70bbfd89d8059a3ab5389dc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Another bloody century: future warfare}
+      \field{year}{2005}
+    \endentry
+    \entry{GUDERIAN_1952}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=675f511cce1f01cdf18a2df9b61938df}{%
+           family={Guderian},
+           familyi={G\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Futura Publications}%
+      }
+      \strng{namehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{fullhash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{fullhashraw}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{bibnamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorbibnamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authornamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorfullhash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorfullhashraw}{675f511cce1f01cdf18a2df9b61938df}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0860070883}
+      \field{note}{First published in Great Britain by Michael Joseph Ltd, 1952. Futura edition 1974; reprinted 1976, 1977, 1979, 1980, 1982, 1987}
+      \field{title}{Panzer Leader}
+      \field{year}{1952}
+    \endentry
+    \entry{HUSAIN_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9d965a16f5fbb68b415b1c5b94b8b217}{%
+           family={Husain},
+           familyi={H\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{fullhash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{fullhashraw}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{bibnamehash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{authorbibnamehash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{authornamehash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{authorfullhash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{authorfullhashraw}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PRISM}
+      \field{note}{[Online]}
+      \field{number}{3}
+      \field{title}{AI is shaping the future of war}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{50\bibrangedash 61}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/48640745
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/48640745
+      \endverb
+    \endentry
+    \entry{DORD_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b145fce1fddc5c410a46040cc3aae2eb}{%
+           family={{Irish Defence Forces}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{fullhash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{fullhashraw}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{bibnamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorbibnamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authornamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorfullhash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorfullhashraw}{b145fce1fddc5c410a46040cc3aae2eb}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Issued by the Director of Ordnance on the instruction of the Chief of Staff. [Internal Document]}
+      \field{title}{Explosive Ordnance Disposal Instructions}
+      \field{year}{2022}
+    \endentry
+    \entry{KELLER_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=22bce5c6fc1ce18aac0baaa39e04f768}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{fullhash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{fullhashraw}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{bibnamehash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{authorbibnamehash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{authornamehash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{authorfullhash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{authorfullhashraw}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The reluctance of the United States military to undertake revolutionary systems and strategic reforms in order to be prepared for combat in the 21st century and beyond is detailed.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{The New York Times Magazine}
+      \field{note}{[Online]}
+      \field{title}{The fighting next time}
+      \field{year}{2002}
+      \true{nocite}
+      \field{pages}{32}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A84142167/AONE?u=nuim&sid=bookmark-AONE&xid=32d76c20
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A84142167/AONE?u=nuim&sid=bookmark-AONE&xid=32d76c20
+      \endverb
+      \warn{\item article entry 'KELLER_2002' (../References/Thesis_2025_2026.bib): Invalid format '10 March' of date field 'date' - ignoring}
+    \endentry
+    \entry{KREP_1992}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=146594c94598910c2c37404456916795}{%
+           family={Krepinevich},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Office of Net Assessment, U.S. Department of Defense}%
+      }
+      \strng{namehash}{146594c94598910c2c37404456916795}
+      \strng{fullhash}{146594c94598910c2c37404456916795}
+      \strng{fullhashraw}{146594c94598910c2c37404456916795}
+      \strng{bibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authorbibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authornamehash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhashraw}{146594c94598910c2c37404456916795}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online]}
+      \field{title}{The Military-Technical Revolution: A Preliminary Assessment}
+      \field{urlday}{12}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{1992}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://csbaonline.org/uploads/documents/2002.10.02-Military-Technical-Revolution.pdf
+      \endverb
+      \verb{url}
+      \verb https://csbaonline.org/uploads/documents/2002.10.02-Military-Technical-Revolution.pdf
+      \endverb
+    \endentry
+    \entry{KREP_1994}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=146594c94598910c2c37404456916795}{%
+           family={Krepinevich},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{146594c94598910c2c37404456916795}
+      \strng{fullhash}{146594c94598910c2c37404456916795}
+      \strng{fullhashraw}{146594c94598910c2c37404456916795}
+      \strng{bibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authorbibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authornamehash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhashraw}{146594c94598910c2c37404456916795}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 7 September 2025)}
+      \field{journaltitle}{The National Interest}
+      \field{number}{37}
+      \field{title}{Cavalry to computer: The pattern of military revolutions}
+      \field{year}{1994}
+      \field{pages}{30\bibrangedash 42}
+      \range{pages}{13}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/42896863
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/42896863
+      \endverb
+    \endentry
+    \entry{KREP_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=146594c94598910c2c37404456916795}{%
+           family={Krepinevich},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{146594c94598910c2c37404456916795}
+      \strng{fullhash}{146594c94598910c2c37404456916795}
+      \strng{fullhashraw}{146594c94598910c2c37404456916795}
+      \strng{bibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authorbibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authornamehash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhashraw}{146594c94598910c2c37404456916795}
+      \field{extraname}{3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The authors were charged by the U.S. Air Force with developing an assessment of the Persian Gulf War air campaign comparable to the U.S. Strategic Bombing Survey undertaken after World War II. Given special access to classified data and key individuals involved in planning and executing the campaign, they argue persuasively that technological advances, including stealth, laser-guided munitions, and anti-radiation missiles, permitted air power to operate at unprecedented levels of effectiveness. But they also rigorously detail air power's limitations, including its inability to eliminate the Iraqi nuclear weapons program, neutralize the Scud missile threat, or shatter Saddam Hussein's hold on power through attacks on the Iraqi leadership. The book's liberal use of charts and tables--a number of which are difficult to read or interpret--both reward and punish the reader. But taken as a whole, the book presents as comprehensive an assessment of the role of air power in the war as is likely to be written for a long time.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Foreign Affairs}
+      \field{note}{[Online]}
+      \field{number}{4}
+      \field{title}{Revolution in warfare? Air power in the Persian Gulf}
+      \field{volume}{75}
+      \field{year}{1996}
+      \field{pages}{144}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A18420016/ITOF?u=nuim&sid=summon&xid=7d84949f
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A18420016/ITOF?u=nuim&sid=summon&xid=7d84949f
+      \endverb
+    \endentry
+    \entry{METZ_2000}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6e9db6018f6ced2e4660388f2e5a4712}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Carlisle, PA}%
+      }
+      \strng{namehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{fullhash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{fullhashraw}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{bibnamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorbibnamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authornamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorfullhash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorfullhashraw}{6e9db6018f6ced2e4660388f2e5a4712}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ten years ago, few Americans had heard of or thought about military revolutions. Soviet defense experts, who were intrinsically more comfortable with the notion that history's linear evolution is occasionally interrupted by rapid discontinuities known as "revolutions," had begun exploration of the idea. But even though the Soviets had an inkling of the changes in warfare that the late 20th century would bring, they did not have the technological base or the capability for creative organizational reform to actually undertake a revolution. They were the intellectual founding fathers of the current revolution in military affairs, but not its architects, playing the role of Marx rather than Lenin. But Americans were different. For a variety of reasons, they were both open to new ideas about warfare and able to capitalize on them.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Parameters}
+      \field{note}{[Online]}
+      \field{number}{3}
+      \field{title}{The next twist of the RMA}
+      \field{volume}{30}
+      \field{year}{2000}
+      \field{pages}{40}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A67502101/AONE?u=nuim&sid=bookmark-AONE&xid=edea42d1
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A67502101/AONE?u=nuim&sid=bookmark-AONE&xid=edea42d1
+      \endverb
+    \endentry
+    \entry{NICHOLESCU_2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=99af1575f755c6f5374c04b6d0aea691}{%
+           family={Nicholescu},
+           familyi={N\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99af1575f755c6f5374c04b6d0aea691}
+      \strng{fullhash}{99af1575f755c6f5374c04b6d0aea691}
+      \strng{fullhashraw}{99af1575f755c6f5374c04b6d0aea691}
+      \strng{bibnamehash}{99af1575f755c6f5374c04b6d0aea691}
+      \strng{authorbibnamehash}{99af1575f755c6f5374c04b6d0aea691}
+      \strng{authornamehash}{99af1575f755c6f5374c04b6d0aea691}
+      \strng{authorfullhash}{99af1575f755c6f5374c04b6d0aea691}
+      \strng{authorfullhashraw}{99af1575f755c6f5374c04b6d0aea691}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Author's personal observation}
+      \field{month}{3}
+      \field{note}{London, 7 March}
+      \field{title}{Remarks at Future Soldier Technology Conference}
+      \field{year}{2023}
+    \endentry
+    \entry{OWENS_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8e4c45ec1419fc574ac506c2ed638102}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={William\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \strng{namehash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{fullhash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{fullhashraw}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{bibnamehash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{authorbibnamehash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{authornamehash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{authorfullhash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{authorfullhashraw}{8e4c45ec1419fc574ac506c2ed638102}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is hard to gauge precisely when the current American revolution in military affairs began. It was clearly underway by the mid-1990s. Within the Pentagon, the Director of Net Assessment, Andrew Marshall, claims that Soviet observers of the United States were concerned about it in the late 1970s. Some historians point to the period of post-Vietnam introspection in the mid-1970s as the origin. Thus the Nation has been engaged in--or at least on the cusp of--such a revolution (or military transformation) for the better part of two decades, a time span roughly equal to two earlier military revolutions, the interwar transformation and nuclear revolution.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Joint Force Quarterly}
+      \field{note}{[Online]}
+      \field{title}{The once and future revolution in military affairs}
+      \field{year}{2002}
+      \field{pages}{55+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A99817512/AONE?u=nuim&sid=bookmark-AONE&xid=f9fa2e22
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A99817512/AONE?u=nuim&sid=bookmark-AONE&xid=f9fa2e22
+      \endverb
+    \endentry
+    \entry{RASSLER_2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0856dcefba34a37b96bad96f3e05cc4a}{%
+           family={Rassler},
+           familyi={R\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Combatting Terrorism Center at West Point}%
+      }
+      \strng{namehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{fullhash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{fullhashraw}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{bibnamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorbibnamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authornamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorfullhash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorfullhashraw}{0856dcefba34a37b96bad96f3e05cc4a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Section II: Creativity and Complications: The Dark Side of UAS Use and Emerging Technologies The accessibility of commercial drones has led to an explosion in use of the devices by private citizens. It has also contributed to the fairly rapid development of new ways to use UASs, from fighting forest fires and assisting search-and-rescue missions to delivering packages and racing for sport. There is an obvious benefit to society from these developments, as in many ways UASs can be used to gain efficiencies and to contribute to the public good. Indeed, as noted by Paul Scharre, “uninhabited systems can not only save human lives by undertaking dangerous missions in their place, they can enable new concepts of operation that would not be possible were human lives at risk.”292 While private-sector drone makers and software developers are providing the tools to enable UAS exploration, the decentralization of UAS technology has created a playing field in which individual users are limited only by their own imaginations and the various government regulations to which they choose to abide—if the regulations even exist. In this way, when it comes to innovation in UAS use, creativity is king. A number of emerging technologies like autonomy, miniaturization and swarms, and further advancements and increased accessibility of sensors (e.g., forward looking infrared, known by the acronym FLIR) and software (e.g., terrain mapping) will only perpetuate these UAS use trends and extend the realm of the possible. The dark side to all of this is that innocuous UAS use demonstrated by one person could be exploited by those with more sinister motives. To that end, and to demonstrate more fully what already lies within the realm of the possible for a terrorist group, this section catalogs a number of creative ways that drones have been used by private individuals who did not have terror intent, but whose UAS use could be mimicked or repurposed by others to inflict harm. By focusing on what private citizens have already achieved, we avoid the pitfalls associated with unconstrained brainstorming and “what-if” scenario development about how drones can be used, and limit our discussion to those incidents to which “proof of practicality” applies.293 The section concludes with a brief review of emerging technology trends, and discusses how they will complicate future�}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Remotely piloted innovation: terrorism, drones and supportive technology}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{49\bibrangedash 62}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep05632.6
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep05632.6
+      \endverb
+    \endentry
+    \entry{SCHAUS_2018}{online}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f7704979c21183c37fb46a90455657e1}{%
+           family={Schaus},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90d4ba6b85430bc1dc346d74204d85af}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Kaitlyn},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Center for Strategic}%
+        {International Studies}%
+      }
+      \strng{namehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{fullhash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{fullhashraw}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{bibnamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorbibnamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authornamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorfullhash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorfullhashraw}{09b0d7f445c243af2c8e6c480110b379}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{By John Schaus and Kaitlyn Johnson Unmanned Aerial Systems’ Influences on Conflict Escalation Dynamics AUGUST 2018 CSIS BRIEFS THE ISSUE Large, optionally-armed, long-loiter unmanned aerial systems (UAS) have proliferated. As more UAS operate in conflict areas, more incidents of attack or defense will involve said systems. This CSIS Brief details how escalation and deterrence dynamics change with the increasing use of UAS in conflict areas and examines several cases of how these dynamics might realistically occur. The study captures three key findings: Potential changes to escalation are not well—or consistently—understood. Offense and defense calculations are weighed differently. Foreign countries are exploring escalation dynamics through real-time tactical operations. The study concludes that the possibility of a gap between the intended signal and interpretation of that signal leaves room for unintended consequences. However, short of greater�}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Unmanned aerial systems’ influences on conflict escalation dynamics}
+      \field{type}{Research Report}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep22318
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep22318
+      \endverb
+    \endentry
+    \entry{STIMSON_2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a95121dd0cde5e910cfd892e4b47c729}{%
+           family={{Stimson Center}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Stimson Center}%
+      }
+      \strng{namehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{fullhash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{fullhashraw}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{bibnamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorbibnamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authornamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorfullhash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorfullhashraw}{a95121dd0cde5e910cfd892e4b47c729}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Military Utility, National Security, and Economics Working GroupI examined the U.S. military and intelligence services’ increasing reliance on and use of Unmanned Aerial Systems (UAS) technology. The working group considered the capabilities likely to be needed for U.S. military and national security planning in the future and the growing commercial market driving technology innovation. The group also considered the economic viability of UAS and whether they are an effective tool for fulfilling U.S. national security goals. The primary scope of this working group was to consider the use of military UAS to conduct lethal operations. The working group limited its discussion to topics surrounding near-term lethal capabilities of UAS, and therefore issues pertaining to the potential use of autonomous UAS fell outside the scope of the group’s efforts. Yet, as non-lethal UAS technologies continue to evolve and spur the advancement of lethal UAS, particularly in light of the rapidly growing commercial UAS sector, the working group did discuss other related domains as needed. Controversy swirls around the use of drones, or as they are more formally known, UAS. But this controversy too often distorts the UAS debate, and concentrates solely on the use of UAS for targeted strikes off the hot-battlefield. In order to unpack the issues related to U.S. military and national security planning, the broader context of UAS utility should be considered — both from the military and civilian perspectives. While very real policy concerns exist and must be addressed, these concerns must be considered in the context of not just lethal UAS strikes, but from the value UAS provide in non-kinetic missions, which are too often overlooked by UAS critics. UAS share some distinct attributes, which have made them attractive for military, domestic law enforcement, counter-drug, border protection, and counterterrorism operations as well as for commercial applications. These attributes are not mutually exclusive and thus have some overlap. • Persistence: UAS have the ability to loiter over a specific area for extended periods of time, allowing them to capture and collect more information, allowing the user to observe, evaluate, and act quickly. • Precision: In military applications, UAS sensor technology can provide for more precise information collection that facilitates more accurate targeting as well as battlefield and non-battlefield surveillance. • Operational Reach: Because of longer flying times, UAS can be used to project force from afar in environments that may otherwise be inaccessible or too dangerous for manned operations. • Protection of U.S. forces: UAS allow the user to have a military presence in areas that would be otherwise politically impossible, capacity/resource prohibitive, too dangerous to risk being shot down, or topographically inhospitable. • Cost effectiveness: Although the actual costs of UAS vary depending on size, hardware, software, support crew, etc., some argue that UAS are more cost-effective than manned aircraft. The Department of Defense’s (DoD) 2013 Industrial Capabilities Report noted that many aspects of UAS make them a valuable tool for military and non-military markets in the near and long term: The Unmanned Aerial Systems (UAS) segment continues to evolve. As technology matures, operational lessons-learned are analyzed, and long-term strategies are developed beyond current conflicts. As evidenced by their extensive use in operations in Afghanistan and Iraq, UAS have proven themselves an effective tool for the Warfighter. The capabilities they bring — from providing constant imagery to serving as strike platforms — are now virtually indispensable to combatant commanders.1 The benefits of military UAS, which are used to provide intelligence, surveillance or strike capabilities, have been recognized by combatant commanders and intelligence services in the United States, but the technology remains only a small percentage of total investment in DoD research, development, and procurement.II Non-military uses of UAS are vast and the commercial market for UAS will likely drive innovation in the near future, both in the United States and abroad. However, concerns about U.S. controls on UAS export and domestic restrictions have led some to worry that the future of the U.S. industry in UAS will be stifled and that foreign competitors will overtake U.S. dominance of UAS technology. Indeed, as the DoD stated in the 2013 Unmanned Systems Integrated Roadmap: “…DoD’s total research, procurement, and sustainment costs are relatively small compared to the spending on manned platforms… The civil UAS market also shows great promise and the potential applications are virtually endless, if regulatory standards, certification, and operational procedures can be resolved for full integration into the National Airspace System. Greater computing power, combined with developments in miniaturization, sensors, and artificial intelligence, have and will continue to dramatically boost UAS capabilities... However, there is concern that if the U.S. does not resolve export issues with respect to UAS, this segment will suffer a fate similar to that of the U.S. satellite industry, where a dominant position in the market was ceded to competitors because of unique U.S. export controls.”2 After thoughtful consideration of the issues related to the military utility of UAS, the working group}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Military utility, national security, and economics}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep10852
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep10852
+      \endverb
+    \endentry
+    \entry{WINTERS_2006}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89fb5dd0bbc13f094d9043f7b08ca953}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40d43f8d16e92c91b3e2c778963f165a}{%
+           family={Kingseed},
+           familyi={K\bibinitperiod},
+           given={Cole\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {The Berkley Publishing Group}%
+      }
+      \strng{namehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{fullhash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{fullhashraw}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{bibnamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorbibnamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authornamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorfullhash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorfullhashraw}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0425208133}
+      \field{note}{First edition}
+      \field{title}{Beyond Band of Brothers: The war memoirs of Major Dick Winters}
+      \field{year}{2006}
+    \endentry
+    \entry{YEIDE_2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7098c805c2cd96461256f1790c8bb42e}{%
+           family={Yeide},
+           familyi={Y\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis}%
+      }
+      \list{publisher}{1}{%
+        {Quarto Publishing Group USA}%
+      }
+      \strng{namehash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{fullhash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{fullhashraw}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{bibnamehash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{authorbibnamehash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{authornamehash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{authorfullhash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{authorfullhashraw}{7098c805c2cd96461256f1790c8bb42e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 12 September 2025)}
+      \field{note}{[Online]. Available from ProQuest Ebook Central}
+      \field{title}{Fighting Patton: George S. Patton Jr. through the eyes of his enemies}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ebookcentral.proquest.com/lib/nuim/detail.action?docID=3399615
+      \endverb
+      \verb{url}
+      \verb https://ebookcentral.proquest.com/lib/nuim/detail.action?docID=3399615
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Metz_2000}
+\endrefsection
+\endinput
+

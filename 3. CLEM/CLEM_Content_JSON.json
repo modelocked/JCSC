@@ -1,0 +1,84 @@
+{
+  "core": {
+    "presentation_title": {
+      "title": "Strategic Communication and Public Trust",
+      "subtitle": "Managing Ethical Boundaries in the IDF"
+    },
+    "declaration": {
+      "title": "Declaration",
+      "bullets": [
+        "Classification: Unclassified",
+        "Distribution: Internal",
+        "Presenter: [Your Name]"
+      ]
+    },
+    "contents": {
+      "title": "Contents",
+      "bullets": [
+        "Purpose and Context",
+        "Framework and Constraints",
+        "Analysis",
+        "Bottom Line Up Front (BLUF)",
+        "Conclusions",
+        "References"
+      ]
+    },
+    "bottom_line": {
+      "title": "Bottom Line Up Front",
+      "bullets": [
+        "Public trust is the decisive terrain.",
+        "Strategic communication must be ethical, consistent, and evidence-led.",
+        "Guardrails prevent mission creep and reputational harm."
+      ]
+    },
+    "conclusion_title": {
+      "title": "Conclusions"
+    },
+    "conclusion": {
+      "title": "Conclusions",
+      "bullets": [
+        "Adopt a governance model for messaging.",
+        "Continuously assess public sentiment and adapt.",
+        "Train leaders in ethical communication."
+      ]
+    },
+    "major_references": {
+      "title": "Major References",
+      "bullets": [
+        "Doctrine A: ...",
+        "Policy B: ...",
+        "Study C: ..."
+      ]
+    }
+  },
+  "sections": [
+    {
+      "title": "1. Purpose and Context",
+      "content": {
+        "title": "Context Overview",
+        "left": [
+          "Mandate & constraints",
+          ["Legal boundaries", "Public expectations"]
+        ],
+        "right": [
+          "Operating environment",
+          ["Media landscape", "Disinformation vectors"]
+        ]
+      }
+    },
+    {
+      "title": "2. Framework and Constraints",
+      "content": {
+        "title": "Framework",
+        "left": [
+          "Principles",
+          ["Honesty", "Transparency", "Proportionality"]
+        ],
+        "right": [
+          "Constraints",
+          ["OPSEC", "Privacy", "Political neutrality"]
+        ]
+      }
+    }
+  ]
+}

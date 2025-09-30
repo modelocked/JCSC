@@ -1,0 +1,17 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Adam_Leadership_Portfolio.blg'
+[104] biber-MSWIN64:342> INFO - === 
+[137] Biber.pm:421> INFO - Reading 'Adam_Leadership_Portfolio.bcf'
+[231] Biber.pm:1002> INFO - Found 45 citekeys in bib section 0
+[244] Biber.pm:4487> INFO - Processing section 0
+[256] Biber.pm:4678> INFO - Looking for bibtex file '../References/reflective_portfolio_bibliography.bib' for section 0
+[309] bibtex.pm:1713> INFO - LaTeX decoding ...
+[349] bibtex.pm:1519> INFO - Found BibTeX data source '../References/reflective_portfolio_bibliography.bib'
+[520] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[521] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[521] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[521] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[551] bbl.pm:676> INFO - Writing 'Adam_Leadership_Portfolio.bbl' with encoding 'UTF-8'
+[576] bbl.pm:779> INFO - Output to Adam_Leadership_Portfolio.bbl
+[577] Biber.pm:132> WARN - I didn't find a database entry for 'DF_LDR_20233' (section 0)
+[577] Biber.pm:134> INFO - WARNINGS: 1

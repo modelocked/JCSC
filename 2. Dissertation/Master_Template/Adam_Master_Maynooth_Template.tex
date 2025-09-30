@@ -1,0 +1,130 @@
+\documentclass[12pt,a4paper]{scrreprt}
+
+% ----------------------------------
+% Import LaTeX packages
+% ----------------------------------
+%\usepackage{fontspec}       % Enables the use of system fonts (e.g., Times New Roman) with XeLaTeX or LuaLaTeX
+\usepackage{newtxtext,newtxmath} % Times New Roman–like font with pdflatex
+\usepackage{setspace}       % Controls line spacing (double spacing for thesis)
+\usepackage{csquotes}       % Correct quotation formatting, required by biblatex
+\usepackage[style=authoryear,backend=biber,giveninits=true,url=true]{biblatex} % Harvard-style citations, initials only
+\usepackage[left=40mm,right=20mm,top=25mm,bottom=25mm]{geometry} % Maynooth margin formatting
+\usepackage[normalem]{ulem} % Allows underlining (used by url formatting)
+\usepackage{hyperref}       % Handles hyperlinks and enables clean URL breaks
+\hypersetup{breaklinks=true}
+\usepackage{xparse}
+
+% ----------------------------------
+% Font and line spacing
+% ----------------------------------
+%\setmainfont{Times New Roman}
+\doublespacing
+
+% ----------------------------------
+% Bibliography resource
+% ----------------------------------
+%\addbibresource{../References/Thesis_2025_2026.bib}
+\addbibresource{../References/Thesis_2025_2026.bib}
+
+% ----------------------------------
+% Maynooth Harvard referencing style configuration
+% ----------------------------------
+
+% Force "Surname, Initials" format
+\DeclareNameAlias{default}{family-given}
+\DeclareNameAlias{sortname}{family-given}
+\DeclareNameAlias{author}{family-given}
+
+% Italicise titles (except article titles)
+\DeclareFieldFormat{title}{\mkbibemph{#1}}
+\DeclareFieldFormat[article]{title}{#1}
+
+% Format the URL field with "Available at:" and clean URL line breaking
+\DeclareFieldFormat{url}{Available at: \url{#1}}
+
+% Format the access date
+\DeclareFieldFormat{urldate}{Accessed: #1}
+
+% Format and insert URL + access date (Maynooth Harvard style)
+\renewbibmacro*{url+urldate}{%
+	\printfield{url}%
+	\iffieldundef{urldate}
+	{}
+	{\setunit{\addspace}%
+		\printtext[parens]{\printfield{urldate}}}}
+
+% Override default @article driver to append URL + access date
+\DeclareBibliographyDriver{article}{%
+	\usebibmacro{author}%
+	\setunit{\labelnamepunct}\newblock
+	\usebibmacro{title}%
+	\newunit
+	\printlist{language}%
+	\newunit\newblock
+	\usebibmacro{byauthor}%
+	\newunit\newblock
+	\usebibmacro{byeditor+others}%
+	\newunit\newblock
+	\usebibmacro{journal}%
+	\setunit*{\addspace}%
+	\usebibmacro{volume+number+eid}%
+	\setunit{\addcomma\space}%
+	\usebibmacro{issue+date}%
+	\setunit{\addcomma\space}%
+	\printfield{pages}%
+	\newunit\newblock
+	\printfield{note}%
+	\newunit\newblock
+	\usebibmacro{url+urldate}%
+}
+
+\begin{document}
+
+
+\begin{titlepage}
+	\begin{center}
+		{\Large \textbf{Provisional Thesis Proposal}}\\[1.2em]
+		{\large \textbf{Uncrewed Aerial Systems and the Revolution in Military Affairs:\\
+				Do Drones Constitute a Military Paradigm Shift?}}\\[2em]
+		\textbf{Name:} [Your Name] \\
+		\textbf{Student Number:} [Your Number] \\
+		\textbf{Programme:} M.A. [Programme Name], Maynooth University \\
+		\textbf{Proposed Supervisor:} [Supervisor Name] \\
+		\textbf{Date:} \today
+	\end{center}
+\end{titlepage}
+
+\chapter*{Importance of the Research (200 words)}
+% ~200 words: why this matters (theoretical, practical, personal/DF relevance).
+
+\chapter*{Implications for the DF (100 words)}
+% ~100 words: leadership/management/doctrine/capability/IHL value to DF.
+
+\chapter*{The Question (100–150 words)}
+% Primary RQ + 2–4 sharp sub-questions you will answer.
+
+\chapter*{Methodology (≈500 words)}
+% Approach (qual/quant/mixed), cases + justification, data & analysis,
+% limits, ethics. Social-science or humanities angle as per guideline.
+
+
+
+
+	\chapter*{Test}
+	
+	
+	Master citation \parencite{AAAA_2025_Book},	\parencite{AAAA_2025_Online},	\parencite{AAAA_2025_Article}
+	
+	This is a test \parencite{SCHAUS_2018}.
+	\cite{CRINO_2020}.
+	\parencite{STIMSON_2015}.
+	\parencite{RASSLER_2015}
+	
+	\medskip
+	
+	\printbibliography[
+	heading=bibintoc,
+	title={Adam's bibliography}
+	]
+	
+\end{document}

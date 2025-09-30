@@ -1,0 +1,33 @@
+\begin{titlepage}
+	\centering
+	\fbox{%
+		\begin{minipage}{0.9\textwidth}
+			\centering
+			% Title: larger font
+			{\bfseries\LARGE \thesistitle\par}
+			
+			\vspace{1em}
+			
+			% Subtitle (if present): same size as rest
+			\if\relax\detokenize{\thesissubtitle}\relax\else
+			{\itshape\Large \thesissubtitle\par}
+			\vspace{2em}
+			\fi
+			
+			% Candidate details
+			{\bfseries\MakeUppercase{\large \studentrank\ \studentname}\par}
+			{\bfseries\MakeUppercase{\large \studentqualifications}\par}
+			\vspace{2em}
+			
+			% Degree / University / Year
+			{\bfseries\MakeUppercase{Submitted in partial fulfillment of the requirements for the}\par}
+			{\bfseries\MakeUppercase{\large \degree}\par}
+			{\bfseries\MakeUppercase{\large \university}\par}
+			{\bfseries\MakeUppercase{\large \submissionyear}\par}
+			\vspace{2em}
+			
+			% Supervisor
+			{\bfseries\MakeUppercase{\large Supervisor: \supervisor}\par}
+		\end{minipage}%
+	}
+\end{titlepage}

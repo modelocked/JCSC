@@ -1,0 +1,305 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{AAAA_2025_Article}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f00e4c2c509f930ff72ac584ffa29ec}{%
+           family={AdamArticle},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7f00e4c2c509f930ff72ac584ffa29ec}
+      \strng{fullhash}{7f00e4c2c509f930ff72ac584ffa29ec}
+      \strng{fullhashraw}{7f00e4c2c509f930ff72ac584ffa29ec}
+      \strng{bibnamehash}{7f00e4c2c509f930ff72ac584ffa29ec}
+      \strng{authorbibnamehash}{7f00e4c2c509f930ff72ac584ffa29ec}
+      \strng{authornamehash}{7f00e4c2c509f930ff72ac584ffa29ec}
+      \strng{authorfullhash}{7f00e4c2c509f930ff72ac584ffa29ec}
+      \strng{authorfullhashraw}{7f00e4c2c509f930ff72ac584ffa29ec}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Continuing Education}
+      \field{number}{1}
+      \field{title}{Between common and college knowledge: exploring the boundaries between adult and higher education}
+      \field{volume}{22}
+      \field{year}{2000}
+      \field{pages}{77\bibrangedash 93}
+      \range{pages}{17}
+    \endentry
+    \entry{AAAA_2025_Book}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e19ba4364d14fa1ac8ce85abd6e2d92e}{%
+           family={AdamBook},
+           familyi={A\bibinitperiod},
+           given={Firstname},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{e19ba4364d14fa1ac8ce85abd6e2d92e}
+      \strng{fullhash}{e19ba4364d14fa1ac8ce85abd6e2d92e}
+      \strng{fullhashraw}{e19ba4364d14fa1ac8ce85abd6e2d92e}
+      \strng{bibnamehash}{e19ba4364d14fa1ac8ce85abd6e2d92e}
+      \strng{authorbibnamehash}{e19ba4364d14fa1ac8ce85abd6e2d92e}
+      \strng{authornamehash}{e19ba4364d14fa1ac8ce85abd6e2d92e}
+      \strng{authorfullhash}{e19ba4364d14fa1ac8ce85abd6e2d92e}
+      \strng{authorfullhashraw}{e19ba4364d14fa1ac8ce85abd6e2d92e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{New and old wars: organized violence in a global era}
+      \field{year}{2012}
+    \endentry
+    \entry{AAAA_2025_Online}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a4b140a1968ff04e80747494fa43a0f}{%
+           family={AdamOnline},
+           familyi={A\bibinitperiod},
+           given={Firstname},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Center for Strategic}%
+        {International Studies}%
+      }
+      \strng{namehash}{8a4b140a1968ff04e80747494fa43a0f}
+      \strng{fullhash}{8a4b140a1968ff04e80747494fa43a0f}
+      \strng{fullhashraw}{8a4b140a1968ff04e80747494fa43a0f}
+      \strng{bibnamehash}{8a4b140a1968ff04e80747494fa43a0f}
+      \strng{authorbibnamehash}{8a4b140a1968ff04e80747494fa43a0f}
+      \strng{authornamehash}{8a4b140a1968ff04e80747494fa43a0f}
+      \strng{authorfullhash}{8a4b140a1968ff04e80747494fa43a0f}
+      \strng{authorfullhashraw}{8a4b140a1968ff04e80747494fa43a0f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Unmanned aerial systems’ influences on conflict escalation dynamics}
+      \field{type}{Research Report}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep22318
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep22318
+      \endverb
+    \endentry
+    \entry{CRINO_2020}{online}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4b5316a7ad011bbf04d52864d5d5098b}{%
+           family={Crino},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2be52dde8ec23eb936badda96192eaf7}{%
+           family={Dreby},
+           familyi={D\bibinitperiod},
+           given={Conrad},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Atlantic Council}%
+      }
+      \strng{namehash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{fullhash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{fullhashraw}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{bibnamehash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{authorbibnamehash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{authornamehash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{authorfullhash}{5f5f17966ddb15052a33da6a957b1d4d}
+      \strng{authorfullhashraw}{5f5f17966ddb15052a33da6a957b1d4d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Think about a violent drone attack on a major international airport, an airport like Riyadh, Cairo, or Frankfurt. What could such an attack look like? Maybe it would be a battery-powered, remote-control airplane with a plunger mechanism in its nose, designed to blow up several pounds of explosives when it crashed into a target on the ground like a taxiing commercial airplane. Or it could be a multirotor drone, made of hardened plastic, built for the consumer market but modified, so it can carry a bomb to drop onto a crowd of people waiting for a shuttle bus. Either of these unmanned aerial systems (UAS) would be hard to observe visually or detect with radar, let alone defeat before they hit their targets. What would the aftermath of such attacks be like? Imagine the consequences in terms of damage, injuries, and fatalities. Consider the impact on the transportation network. Reason through the political repercussions and the effects on the government following the attack, and after the inevitable dissection of the intelligence, security, and operations failures that left the targeted airport vulnerable. The final accounting could be inestimably bad for those concerned.�}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Drone attacks against critical infrastructure: a real and present threat}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep24632
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep24632
+      \endverb
+    \endentry
+    \entry{RASSLER_2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0856dcefba34a37b96bad96f3e05cc4a}{%
+           family={Rassler},
+           familyi={R\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Combatting Terrorism Center at West Point}%
+      }
+      \strng{namehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{fullhash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{fullhashraw}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{bibnamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorbibnamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authornamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorfullhash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorfullhashraw}{0856dcefba34a37b96bad96f3e05cc4a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Section II: Creativity and Complications: The Dark Side of UAS Use and Emerging Technologies The accessibility of commercial drones has led to an explosion in use of the devices by private citizens. It has also contributed to the fairly rapid development of new ways to use UASs, from fighting forest fires and assisting search-and-rescue missions to delivering packages and racing for sport. There is an obvious benefit to society from these developments, as in many ways UASs can be used to gain efficiencies and to contribute to the public good. Indeed, as noted by Paul Scharre, “uninhabited systems can not only save human lives by undertaking dangerous missions in their place, they can enable new concepts of operation that would not be possible were human lives at risk.”292 While private-sector drone makers and software developers are providing the tools to enable UAS exploration, the decentralization of UAS technology has created a playing field in which individual users are limited only by their own imaginations and the various government regulations to which they choose to abide—if the regulations even exist. In this way, when it comes to innovation in UAS use, creativity is king. A number of emerging technologies like autonomy, miniaturization and swarms, and further advancements and increased accessibility of sensors (e.g., forward looking infrared, known by the acronym FLIR) and software (e.g., terrain mapping) will only perpetuate these UAS use trends and extend the realm of the possible. The dark side to all of this is that innocuous UAS use demonstrated by one person could be exploited by those with more sinister motives. To that end, and to demonstrate more fully what already lies within the realm of the possible for a terrorist group, this section catalogs a number of creative ways that drones have been used by private individuals who did not have terror intent, but whose UAS use could be mimicked or repurposed by others to inflict harm. By focusing on what private citizens have already achieved, we avoid the pitfalls associated with unconstrained brainstorming and “what-if” scenario development about how drones can be used, and limit our discussion to those incidents to which “proof of practicality” applies.293 The section concludes with a brief review of emerging technology trends, and discusses how they will complicate future�}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Remotely piloted innovation: terrorism, drones and supportive technology}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{49\bibrangedash 62}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep05632.6
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep05632.6
+      \endverb
+    \endentry
+    \entry{SCHAUS_2018}{online}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f7704979c21183c37fb46a90455657e1}{%
+           family={Schaus},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90d4ba6b85430bc1dc346d74204d85af}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Kaitlyn},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Center for Strategic}%
+        {International Studies}%
+      }
+      \strng{namehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{fullhash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{fullhashraw}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{bibnamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorbibnamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authornamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorfullhash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorfullhashraw}{09b0d7f445c243af2c8e6c480110b379}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{By John Schaus and Kaitlyn Johnson Unmanned Aerial Systems’ Influences on Conflict Escalation Dynamics AUGUST 2018 CSIS BRIEFS THE ISSUE Large, optionally-armed, long-loiter unmanned aerial systems (UAS) have proliferated. As more UAS operate in conflict areas, more incidents of attack or defense will involve said systems. This CSIS Brief details how escalation and deterrence dynamics change with the increasing use of UAS in conflict areas and examines several cases of how these dynamics might realistically occur. The study captures three key findings: Potential changes to escalation are not well—or consistently—understood. Offense and defense calculations are weighed differently. Foreign countries are exploring escalation dynamics through real-time tactical operations. The study concludes that the possibility of a gap between the intended signal and interpretation of that signal leaves room for unintended consequences. However, short of greater�}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Unmanned aerial systems’ influences on conflict escalation dynamics}
+      \field{type}{Research Report}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep22318
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep22318
+      \endverb
+    \endentry
+    \entry{STIMSON_2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a95121dd0cde5e910cfd892e4b47c729}{%
+           family={{Stimson Center}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Stimson Center}%
+      }
+      \strng{namehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{fullhash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{fullhashraw}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{bibnamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorbibnamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authornamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorfullhash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorfullhashraw}{a95121dd0cde5e910cfd892e4b47c729}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Military Utility, National Security, and Economics Working GroupI examined the U.S. military and intelligence services’ increasing reliance on and use of Unmanned Aerial Systems (UAS) technology. The working group considered the capabilities likely to be needed for U.S. military and national security planning in the future and the growing commercial market driving technology innovation. The group also considered the economic viability of UAS and whether they are an effective tool for fulfilling U.S. national security goals. The primary scope of this working group was to consider the use of military UAS to conduct lethal operations. The working group limited its discussion to topics surrounding near-term lethal capabilities of UAS, and therefore issues pertaining to the potential use of autonomous UAS fell outside the scope of the group’s efforts. Yet, as non-lethal UAS technologies continue to evolve and spur the advancement of lethal UAS, particularly in light of the rapidly growing commercial UAS sector, the working group did discuss other related domains as needed. Controversy swirls around the use of drones, or as they are more formally known, UAS. But this controversy too often distorts the UAS debate, and concentrates solely on the use of UAS for targeted strikes off the hot-battlefield. In order to unpack the issues related to U.S. military and national security planning, the broader context of UAS utility should be considered — both from the military and civilian perspectives. While very real policy concerns exist and must be addressed, these concerns must be considered in the context of not just lethal UAS strikes, but from the value UAS provide in non-kinetic missions, which are too often overlooked by UAS critics. UAS share some distinct attributes, which have made them attractive for military, domestic law enforcement, counter-drug, border protection, and counterterrorism operations as well as for commercial applications. These attributes are not mutually exclusive and thus have some overlap. • Persistence: UAS have the ability to loiter over a specific area for extended periods of time, allowing them to capture and collect more information, allowing the user to observe, evaluate, and act quickly. • Precision: In military applications, UAS sensor technology can provide for more precise information collection that facilitates more accurate targeting as well as battlefield and non-battlefield surveillance. • Operational Reach: Because of longer flying times, UAS can be used to project force from afar in environments that may otherwise be inaccessible or too dangerous for manned operations. • Protection of U.S. forces: UAS allow the user to have a military presence in areas that would be otherwise politically impossible, capacity/resource prohibitive, too dangerous to risk being shot down, or topographically inhospitable. • Cost effectiveness: Although the actual costs of UAS vary depending on size, hardware, software, support crew, etc., some argue that UAS are more cost-effective than manned aircraft. The Department of Defense’s (DoD) 2013 Industrial Capabilities Report noted that many aspects of UAS make them a valuable tool for military and non-military markets in the near and long term: The Unmanned Aerial Systems (UAS) segment continues to evolve. As technology matures, operational lessons-learned are analyzed, and long-term strategies are developed beyond current conflicts. As evidenced by their extensive use in operations in Afghanistan and Iraq, UAS have proven themselves an effective tool for the Warfighter. The capabilities they bring — from providing constant imagery to serving as strike platforms — are now virtually indispensable to combatant commanders.1 The benefits of military UAS, which are used to provide intelligence, surveillance or strike capabilities, have been recognized by combatant commanders and intelligence services in the United States, but the technology remains only a small percentage of total investment in DoD research, development, and procurement.II Non-military uses of UAS are vast and the commercial market for UAS will likely drive innovation in the near future, both in the United States and abroad. However, concerns about U.S. controls on UAS export and domestic restrictions have led some to worry that the future of the U.S. industry in UAS will be stifled and that foreign competitors will overtake U.S. dominance of UAS technology. Indeed, as the DoD stated in the 2013 Unmanned Systems Integrated Roadmap: “…DoD’s total research, procurement, and sustainment costs are relatively small compared to the spending on manned platforms… The civil UAS market also shows great promise and the potential applications are virtually endless, if regulatory standards, certification, and operational procedures can be resolved for full integration into the National Airspace System. Greater computing power, combined with developments in miniaturization, sensors, and artificial intelligence, have and will continue to dramatically boost UAS capabilities... However, there is concern that if the U.S. does not resolve export issues with respect to UAS, this segment will suffer a fate similar to that of the U.S. satellite industry, where a dominant position in the market was ceded to competitors because of unique U.S. export controls.”2 After thoughtful consideration of the issues related to the military utility of UAS, the working group}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Military utility, national security, and economics}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep10852
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep10852
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
