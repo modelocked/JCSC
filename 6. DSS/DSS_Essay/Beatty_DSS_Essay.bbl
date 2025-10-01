@@ -941,6 +941,37 @@
       \field{pages}{166\bibrangedash 192}
       \range{pages}{27}
     \endentry
+    \entry{HINTON_2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=395fed3b558cb8f7f041f0e3151eedf6}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{395fed3b558cb8f7f041f0e3151eedf6}
+      \strng{fullhash}{395fed3b558cb8f7f041f0e3151eedf6}
+      \strng{fullhashraw}{395fed3b558cb8f7f041f0e3151eedf6}
+      \strng{bibnamehash}{395fed3b558cb8f7f041f0e3151eedf6}
+      \strng{authorbibnamehash}{395fed3b558cb8f7f041f0e3151eedf6}
+      \strng{authornamehash}{395fed3b558cb8f7f041f0e3151eedf6}
+      \strng{authorfullhash}{395fed3b558cb8f7f041f0e3151eedf6}
+      \strng{authorfullhashraw}{395fed3b558cb8f7f041f0e3151eedf6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The RUSI Journal}
+      \field{number}{4}
+      \field{title}{Strategic culture: in defiance of a structural world order}
+      \field{volume}{165}
+      \field{year}{2020}
+      \field{pages}{80\bibrangedash 87}
+      \range{pages}{8}
+    \endentry
     \entry{HIRST_2010}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d018c577725962f6b311c7a53f2c099a}{%
@@ -1635,6 +1666,7 @@
   \missing{DSS_STRUCTURE_MK2}
   \missing{DUMAN_RAKIPOGLU_2025}
   \missing{HELLMUELLER_2014}
+  \missing{MEARSHIMER_1994}
   \missing{MINIHAN_2018}
   \missing{WALTZ_1969}
   \missing{WHITE_2019}
