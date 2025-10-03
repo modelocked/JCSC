@@ -1,0 +1,13 @@
+@article{5f475625-3062-3f1c-814b-15ebb078df2e,
+ ISSN = {21570663, 21570671},
+ URL = {https://www.jstor.org/stable/48640745},
+ author = {Amir Husain},
+ journal = {PRISM},
+ number = {3},
+ pages = {50--61},
+ publisher = {Institute for National Strategic Security, National Defense University},
+ title = {AI is Shaping the Future of War},
+ urldate = {2025-06-11},
+ volume = {9},
+ year = {2021}
+}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.3)  8 SEP 2025 13:39
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.3)  2 OCT 2025 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1080,8 +1080,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 f
 File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 \BKM@id=\count503
-)) (Adam_Thesis_Proposal.aux (chapters/Chapter_1.aux) (chapters/Chapter_2.aux) 
-(chapters/Chapter_3.aux) (chapters/Chapter_4.aux) (chapters/Chapter_5.aux))
+)) (Adam_Thesis_Proposal.aux (chapters/Chapter_1.aux))
 \openout1 = `Adam_Thesis_Proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -1129,21 +1128,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Adam_Thesis_Proposal.bbl' found.
- (Adam_Thesis_Proposal.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'KELLER_2002':
-(biblatex)                - article entry 'KELLER_2002' (../References/Thesis_2
-025_2026.bib): Invalid format '10 March' of date field 'date' - ignoring.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Metz_2000
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (Adam_Thesis_Proposal.bbl)
 Package biblatex Info: Reference section=0 on input line 48.
 Package biblatex Info: Reference segment=0 on input line 48.
 
@@ -1315,7 +1300,44 @@ Package scrlayer-scrpage Warning: \footheight to low.
 
  (chapters/Chapter_1.tex
 chapter 1.
-)
+
+LaTeX Warning: Citation 'KREP_1992' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'METZ_2000' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'KREPINEVICH_1994' on page 1 undefined on input line 8.
+
+
+
+LaTeX Warning: Citation 'COCHRANE_2012' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'DORD_2022' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'COHEN_1995' on page 1 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'KREP_1992' undefined on input line 18.
+
+
+LaTeX Warning: Citation 'KREP_1992' undefined on input line 18.
+
+
+LaTeX Warning: Citation 'COHEN_1996' on page 1 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'OWENS_2002' on page 1 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'ALACH_2008' on page 1 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'BROSE_2019' on page 1 undefined on input line 19.
+
+
 
 [1
 
@@ -1324,122 +1346,167 @@ chapter 1.
 
 
 ]
-\openout2 = `chapters/Chapter_2.aux'.
 
- (chapters/Chapter_2.tex
-
-[2
+LaTeX Warning: Citation 'METZ_2000' undefined on input line 21.
 
 
+LaTeX Warning: Citation 'KREP_1992' on page 2 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'BETTS_1996' on page 2 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'KREP_1996' on page 2 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'GRAY_2005' on page 2 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'OWENS_2002' undefined on input line 25.
+
+
+LaTeX Warning: Citation 'OWENS_2002' on page 2 undefined on input line 25.
 
 
 
-]
-chapter 2.
-)
+[2]
+
+LaTeX Warning: Citation 'ALACH_2008' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'RASSLER_2015' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'KREPINEVICH_1992' on page 3 undefined on input line 31
+.
+
+
+LaTeX Warning: Citation 'KREP_1994' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'BETTS_1996' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'METZ_2000' undefined on input line 31.
+
+
+LaTeX Warning: Citation 'OWENS_2002' undefined on input line 31.
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 31--32
+[]\TU/TimesNewRoman(0)/m/n/12 The tank case is also an example of organisationa
+l learning and failure. Kre-
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 31--32
+\TU/TimesNewRoman(0)/m/n/12 pinevich showed that Britain had the concept but no
+t the structures to exploit it
+ []
+
+
+LaTeX Warning: Citation 'COHEN_1995' undefined on input line 35.
+
+
+LaTeX Warning: Citation 'COHEN_1996' undefined on input line 35.
+
+
+LaTeX Warning: Citation 'KREP_1992' undefined on input line 35.
+
+
+LaTeX Warning: Citation 'OWENS_2002' undefined on input line 35.
+
+
+LaTeX Warning: Citation 'KELLER_2002' undefined on input line 35.
+
+
+LaTeX Warning: Citation 'STIMSON_2015' on page 3 undefined on input line 35.
+
+
 
 [3]
-\openout2 = `chapters/Chapter_3.aux'.
 
- (chapters/Chapter_3.tex
-
-[4
+LaTeX Warning: Citation 'SCHAUS_2018' on page 4 undefined on input line 37.
 
 
+LaTeX Warning: Citation 'Metz_2000' undefined on input line 42.
+
+
+LaTeX Warning: Citation 'COHEN_1996' on page 4 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'BETTS_1996' on page 4 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'ALACH_2008' undefined on input line 44.
 
 
 
-]
-chapter 3.
+[4]
+
+LaTeX Warning: Citation 'GUDERIAN_1952' on page 5 undefined on input line 46.
+
+
+LaTeX Warning: Citation 'YEIDE_2011' on page 5 undefined on input line 46.
+
+
+LaTeX Warning: Citation 'WINTERS_2006' on page 5 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'METZ_2000' on page 5 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'HUSAIN_2021' on page 5 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'KREP_1992' undefined on input line 53.
+
 
 
 [5]
 
+LaTeX Warning: Citation 'KREP_1994' on page 6 undefined on input line 59.
+
+
+LaTeX Warning: Citation 'KREPINEVICH_1996' on page 6 undefined on input line 59
+.
+
+)
+
 [6]
 
-[7]
+LaTeX Warning: Empty bibliography on input line 85.
 
-LaTeX Warning: Citation 'Metz_2000' undefined on input line 37.
+(Frontmatter_Backmatter/Glossary_Print.tex (Adam_Thesis_Proposal.gls
 
-
-
-[8]
-
-[9])
-
-[10]
-\openout2 = `chapters/Chapter_4.aux'.
-
- (chapters/Chapter_4.tex
-chapter 4.
-)
-
-[11
-
+[7
 
 
 
 
 ]
-\openout2 = `chapters/Chapter_5.aux'.
 
- (chapters/Chapter_5.tex
-
-[12
-
-
-
-
-
-]
-chapter 5.
-)
-
-[13]
-
-[14
-
-
-
-
-]
-chapter without number
-
-
-[15]
-
-[16]
-
-[17]
-
-[18
-
-
-] (Frontmatter_Backmatter/Glossary_Print.tex (Adam_Thesis_Proposal.gls
-
-[19]
-
-[20
+[8
 
 
 ]) (Adam_Thesis_Proposal.acr
 
-[21
+[9
 
 
 ]
 
-[22
+[10
 
 
 ]))
 
-[23
+[11
 
 
 ]
 
-[24
+[12
 
 
 ]
@@ -1453,28 +1520,36 @@ runsystem(makeindex Adam_Thesis_Proposal.idx)...executed safely (allowed).
 
 )
 
-[25
+[13
 
 
 
 
-] (Adam_Thesis_Proposal.aux (chapters/Chapter_1.aux) (chapters/Chapter_2.aux) (
-chapters/Chapter_3.aux) (chapters/Chapter_4.aux) (chapters/Chapter_5.aux))
+] (Adam_Thesis_Proposal.aux (chapters/Chapter_1.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Adam_Thesis_Proposal
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Adam_Thesis_Proposal.run.xml'.
 \openout1 = `Adam_Thesis_Proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32745 strings out of 403249
- 712027 string characters out of 5460861
- 1807467 words of memory out of 5000000
- 60822 multiletter control sequences out of 15000+600000
- 631555 words of font info for 106 fonts, out of 8000000 for 9000
+ 32453 strings out of 403249
+ 703469 string characters out of 5460861
+ 1789468 words of memory out of 5000000
+ 60563 multiletter control sequences out of 15000+600000
+ 631069 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,20n,107p,11225b,5175s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,19n,107p,11225b,1186s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Adam_Thesis_Proposal.pdf (27 pages).
+Output written on Adam_Thesis_Proposal.pdf (15 pages).

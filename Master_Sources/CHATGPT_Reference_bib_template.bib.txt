@@ -1,0 +1,31 @@
+@Online{SCHAUS_2018,
+  addendum    = {(Accessed{:} 11 June 2025)},
+  author      = {Schaus, John and Johnson, Kaitlyn},
+  institution = {Center for Strategic and International Studies},
+  note        = {[Online]},
+  title       = {Unmanned aerial systems’ influences on conflict escalation dynamics},
+  type        = {Research Report},
+  url         = {http://www.jstor.org/stable/resrep22318},
+  urldate     = {2025-06-11},
+  year        = {2018},
+}
+
+
+@Book{AAAA_2025_Book,
+  author    = {AdamBook, Firstname},
+  publisher = {Polity Press},
+  title     = {New and old wars: organized violence in a global era},
+  year      = {2012},
+  edition   = {3},
+  location  = {Cambridge},
+}
+
+@Article{AAAA_2025_Article,
+  author       = {AdamArticle, T.},
+  title        = {Between common and college knowledge: exploring the boundaries between adult and higher education},
+  year         = {2000},
+  number       = {1},
+  pages        = {77-93},
+  volume       = {22},
+  journaltitle = {Studies in Continuing Education},
+}

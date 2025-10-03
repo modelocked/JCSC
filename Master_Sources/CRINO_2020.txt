@@ -1,0 +1,8 @@
+@techreport{a6ff15ad-cb63-324f-92da-1677d17b0c78,
+ URL = {http://www.jstor.org/stable/resrep24632},
+ author = {SCOTT CRINO and CONRAD “ANDY” DREBY},
+ institution = {Atlantic Council},
+ title = {Drone Attacks Against Critical Infrastructure: A Real and Present Threat},
+ urldate = {2025-06-11},
+ year = {2020}
+}

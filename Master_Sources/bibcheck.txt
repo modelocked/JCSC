@@ -1,0 +1,12 @@
+INFO - This is Biber 2.21 running in TOOL mode
+INFO - Logfile is 'Thesis_2025_2026.bib.blg'
+INFO - Looking for bibtex file 'Thesis_2025_2026.bib'
+INFO - LaTeX decoding ...
+INFO - Found BibTeX data source 'Thesis_2025_2026.bib'
+ERROR - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_n08i\bc58d817edcd897f5064e92a6443b9be_18264.utf8, line 412, syntax error: found ",", expected one of: number, name (entry type, key, field, or macro name), end of entry ("}" or ")") or quoted string ({...} or "...")
+WARN - Invalid or undefined BibTeX entry key in file 'C:\Users\User\AppData\Local\Temp\biber_tmp_n08i\bc58d817edcd897f5064e92a6443b9be_18264.utf8', skipping ...
+WARN - Datamodel: article entry 'OWENS_2002' (Thesis_2025_2026.bib): Field 'season' invalid in data model - ignoring
+WARN - Datamodel: article entry 'BETTS_1996' (Thesis_2025_2026.bib): Field 'season' invalid in data model - ignoring
+WARN - article entry 'KELLER_2002' (Thesis_2025_2026.bib): Invalid format '10 March' of date field 'date' - ignoring
+INFO - WARNINGS: 4
+INFO - ERRORS: 1

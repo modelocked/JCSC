@@ -1,0 +1,1384 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{ALACH_2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6eba19f09e2541731f0661ae51af7bf4}{%
+           family={Alach},
+           familyi={A\bibinitperiod},
+           given={Z.\bibnamedelimi J.},
+           giveni={Z\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Carlisle, PA}%
+      }
+      \list{publisher}{1}{%
+        {Strategic Studies Institute, U.S. Army War College}%
+      }
+      \strng{namehash}{6eba19f09e2541731f0661ae51af7bf4}
+      \strng{fullhash}{6eba19f09e2541731f0661ae51af7bf4}
+      \strng{fullhashraw}{6eba19f09e2541731f0661ae51af7bf4}
+      \strng{bibnamehash}{6eba19f09e2541731f0661ae51af7bf4}
+      \strng{authorbibnamehash}{6eba19f09e2541731f0661ae51af7bf4}
+      \strng{authornamehash}{6eba19f09e2541731f0661ae51af7bf4}
+      \strng{authorfullhash}{6eba19f09e2541731f0661ae51af7bf4}
+      \strng{authorfullhashraw}{6eba19f09e2541731f0661ae51af7bf4}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Slowing military change}
+      \field{year}{2008}
+    \endentry
+    \entry{ALACH_2008A}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94896befce0c1becc25cad6b73817460}{%
+           family={Alach},
+           familyi={A\bibinitperiod},
+           given={Zhivan\bibnamedelima J.},
+           giveni={Z\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Strategic Studies Institute}%
+      }
+      \list{location}{1}{%
+        {Carlisle, PA}%
+      }
+      \strng{namehash}{94896befce0c1becc25cad6b73817460}
+      \strng{fullhash}{94896befce0c1becc25cad6b73817460}
+      \strng{fullhashraw}{94896befce0c1becc25cad6b73817460}
+      \strng{bibnamehash}{94896befce0c1becc25cad6b73817460}
+      \strng{authorbibnamehash}{94896befce0c1becc25cad6b73817460}
+      \strng{authornamehash}{94896befce0c1becc25cad6b73817460}
+      \strng{authorfullhash}{94896befce0c1becc25cad6b73817460}
+      \strng{authorfullhashraw}{94896befce0c1becc25cad6b73817460}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Slowing Military Change}
+      \field{note}{[Online]}
+      \field{title}{The revolution in military affairs}
+      \field{year}{2008}
+      \field{pages}{49+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A263786445/AONE?u=nuim&sid=bookmark-AONE&xid=e7caa86e
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A263786445/AONE?u=nuim&sid=bookmark-AONE&xid=e7caa86e
+      \endverb
+    \endentry
+    \entry{ALTMANN_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a232b2cc42ab77a12a589657e2955fe8}{%
+           family={Altmann},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd55443551d82f0e23e5ebfc79901640}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b768a81481a2fdb4d2097af47dbb5578}
+      \strng{fullhash}{b768a81481a2fdb4d2097af47dbb5578}
+      \strng{fullhashraw}{b768a81481a2fdb4d2097af47dbb5578}
+      \strng{bibnamehash}{b768a81481a2fdb4d2097af47dbb5578}
+      \strng{authorbibnamehash}{b768a81481a2fdb4d2097af47dbb5578}
+      \strng{authornamehash}{b768a81481a2fdb4d2097af47dbb5578}
+      \strng{authorfullhash}{b768a81481a2fdb4d2097af47dbb5578}
+      \strng{authorfullhashraw}{b768a81481a2fdb4d2097af47dbb5578}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 1 October 2025)}
+      \field{journaltitle}{Survival}
+      \field{note}{[Online]}
+      \field{number}{5}
+      \field{title}{Autonomous weapon systems and strategic stability}
+      \field{urlday}{1}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{volume}{59}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{117\bibrangedash 142}
+      \range{pages}{26}
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/00396338.2017.1375263
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/00396338.2017.1375263
+      \endverb
+    \endentry
+    \entry{ARKIN_2008}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f7fef311b8ddc0289e8f5f3cff0d58b}{%
+           family={Arkin},
+           familyi={A\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6f7fef311b8ddc0289e8f5f3cff0d58b}
+      \strng{fullhash}{6f7fef311b8ddc0289e8f5f3cff0d58b}
+      \strng{fullhashraw}{6f7fef311b8ddc0289e8f5f3cff0d58b}
+      \strng{bibnamehash}{6f7fef311b8ddc0289e8f5f3cff0d58b}
+      \strng{authorbibnamehash}{6f7fef311b8ddc0289e8f5f3cff0d58b}
+      \strng{authornamehash}{6f7fef311b8ddc0289e8f5f3cff0d58b}
+      \strng{authorfullhash}{6f7fef311b8ddc0289e8f5f3cff0d58b}
+      \strng{authorfullhashraw}{6f7fef311b8ddc0289e8f5f3cff0d58b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 01 October 2025)}
+      \field{booktitle}{2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)}
+      \field{note}{[Online]}
+      \field{title}{Governing lethal behavior: Embedding ethics in a hybrid deliberative/reactive robot architecture part I: Motivation and philosophy}
+      \field{urlday}{1}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{121\bibrangedash 128}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1349822.1349839
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1349822.1349839
+      \endverb
+    \endentry
+    \entry{BETTS_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf990f5733c2afbaa7750026110d8eba}{%
+           family={Betts},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{fullhash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{fullhashraw}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{bibnamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorbibnamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authornamehash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorfullhash}{bf990f5733c2afbaa7750026110d8eba}
+      \strng{authorfullhashraw}{bf990f5733c2afbaa7750026110d8eba}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Revolution in military affairs (RMA) has several drawbacks despite its offer of US military supremacy. It does not sharpen the judgment of military leaders so that problems to which high technology is inapplicable, may remain unsolved. A miscalculation of conflicts could result in a possible confrontation with giant powers such as China and Russia. Policymakers should therefore be wary of possible but unexpected effects of RMA.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{The National Interest}
+      \field{note}{[Online]}
+      \field{number}{45}
+      \field{title}{The downside of the cutting edge}
+      \field{year}{1996}
+      \field{pages}{80+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A18827115/AONE?u=nuim&sid=bookmark-AONE&xid=3a16f899
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A18827115/AONE?u=nuim&sid=bookmark-AONE&xid=3a16f899
+      \endverb
+    \endentry
+    \entry{BIDDLE_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1b1a810097cd172e63c1e96f436ec61c}{%
+           family={Biddle},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b1a810097cd172e63c1e96f436ec61c}
+      \strng{fullhash}{1b1a810097cd172e63c1e96f436ec61c}
+      \strng{fullhashraw}{1b1a810097cd172e63c1e96f436ec61c}
+      \strng{bibnamehash}{1b1a810097cd172e63c1e96f436ec61c}
+      \strng{authorbibnamehash}{1b1a810097cd172e63c1e96f436ec61c}
+      \strng{authornamehash}{1b1a810097cd172e63c1e96f436ec61c}
+      \strng{authorfullhash}{1b1a810097cd172e63c1e96f436ec61c}
+      \strng{authorfullhashraw}{1b1a810097cd172e63c1e96f436ec61c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Security}
+      \field{number}{2}
+      \field{title}{Victory misunderstood: what the gulf war tells us about the future of conflict}
+      \field{volume}{21}
+      \field{year}{1996}
+      \field{pages}{139\bibrangedash 179}
+      \range{pages}{41}
+    \endentry
+    \entry{BROSE_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee7cac4e19444f95a177180b34a9b38d}{%
+           family={Brose},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{fullhash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{fullhashraw}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{bibnamehash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{authorbibnamehash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{authornamehash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{authorfullhash}{ee7cac4e19444f95a177180b34a9b38d}
+      \strng{authorfullhashraw}{ee7cac4e19444f95a177180b34a9b38d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In 1898, a Polish banker and self-taught military expert named Jan Bloch published The Future of War, the culmination of his long obsession with the impact of modern technology on warfare. Bloch foresaw with stunning prescience how smokeless gunpowder, improved rifles, and other emerging technologies would overturn contemporary thinking about the character and conduct of war. (Bloch also got one major thing wrong: he thought the sheer carnage of modern combat would be so horrific that war would "become impossible.") What Bloch anticipated has come to be known as a "revolution in military affairs"--the emergence of technologies so disruptive that they overtake existing military concepts and capabilities and necessitate a rethinking of how, with what, and by whom war is waged. Such a revolution is unfolding today. Artificial intelligence, autonomous systems, ubiquitous sensors, advanced manufacturing, and quantum science will transform warfare as radically as the technologies that consumed Bloch. And yet the U.S. government's thinking about how to employ these new technologies is not keeping pace with their development.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Foreign Affairs}
+      \field{note}{[Online]}
+      \field{number}{3}
+      \field{title}{The new revolution in military affairs: War's sci-fi future}
+      \field{volume}{98}
+      \field{year}{2019}
+      \field{pages}{122+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A585763277/AONE?u=nuim&sid=bookmark-AONE&xid=ed50cd4b
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A585763277/AONE?u=nuim&sid=bookmark-AONE&xid=ed50cd4b
+      \endverb
+    \endentry
+    \entry{CLAUSEWITZ_1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e26d7ff2c1137edb01f3684116c2d009}{%
+           family={Clausewitz},
+           familyi={C\bibinitperiod},
+           given={Carl\bibnamedelima von},
+           giveni={C\bibinitperiod\bibinitdelim v\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5f55d3ffda12ae10d61f865a80c66baa}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b635a4b2a460d022e42150779d645b0e}{%
+           family={Paret},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{e26d7ff2c1137edb01f3684116c2d009}
+      \strng{fullhash}{e26d7ff2c1137edb01f3684116c2d009}
+      \strng{fullhashraw}{e26d7ff2c1137edb01f3684116c2d009}
+      \strng{bibnamehash}{e26d7ff2c1137edb01f3684116c2d009}
+      \strng{authorbibnamehash}{e26d7ff2c1137edb01f3684116c2d009}
+      \strng{authornamehash}{e26d7ff2c1137edb01f3684116c2d009}
+      \strng{authorfullhash}{e26d7ff2c1137edb01f3684116c2d009}
+      \strng{authorfullhashraw}{e26d7ff2c1137edb01f3684116c2d009}
+      \strng{editorbibnamehash}{cada71be43dff95ba0ca70eb5aab807b}
+      \strng{editornamehash}{cada71be43dff95ba0ca70eb5aab807b}
+      \strng{editorfullhash}{cada71be43dff95ba0ca70eb5aab807b}
+      \strng{editorfullhashraw}{cada71be43dff95ba0ca70eb5aab807b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed 3 October 2025}
+      \field{title}{On war}
+      \field{year}{1984}
+      \verb{doi}
+      \verb 10.2307/j.ctt7svzz
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2307/j.ctt7svzz
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2307/j.ctt7svzz
+      \endverb
+    \endentry
+    \entry{COCHRANE_2012}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1af44a764e0692a9341685fc5a0a251}{%
+           family={Cochrane},
+           familyi={C\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Cranfield University, Defence College of Management}%
+        {Technology}%
+      }
+      \strng{namehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{fullhash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{fullhashraw}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{bibnamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorbibnamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authornamehash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorfullhash}{b1af44a764e0692a9341685fc5a0a251}
+      \strng{authorfullhashraw}{b1af44a764e0692a9341685fc5a0a251}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Unpublished]}
+      \field{title}{The Development of the British Approach to Improvised Explosive Device Disposal in Northern Ireland}
+      \field{type}{MPhil thesis}
+      \field{year}{2012}
+    \endentry
+    \entry{COHEN_1995}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c689a7f8a87f05a29ca04d1f578b6e51}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Eliot\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{fullhash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{fullhashraw}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{bibnamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorbibnamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authornamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorfullhash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorfullhashraw}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{National Review}
+      \field{note}{[Online]}
+      \field{number}{14}
+      \field{title}{Come the revolution}
+      \field{volume}{47}
+      \field{year}{1995}
+      \field{pages}{26+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A17367744/AONE?u=nuim&sid=summon&xid=e8a5ebae
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A17367744/AONE?u=nuim&sid=summon&xid=e8a5ebae
+      \endverb
+    \endentry
+    \entry{COHEN_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c689a7f8a87f05a29ca04d1f578b6e51}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Eliot\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{fullhash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{fullhashraw}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{bibnamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorbibnamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authornamehash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorfullhash}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \strng{authorfullhashraw}{c689a7f8a87f05a29ca04d1f578b6e51}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The US is undergoing a major military organizational restructuring as a result of the development of new technologies that have forced US defense planners to readjust their defense posture. This military restructuring has been repeated throughout American history as technological innovations have been adopted and subsequently discarded. The evolution of tactical warfare has always been a result of a need for answers to problems posed by enemies.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Foreign Affairs}
+      \field{note}{[Online]}
+      \field{number}{2}
+      \field{title}{A revolution in warfare}
+      \field{volume}{75}
+      \field{year}{1996}
+      \field{pages}{37+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A18102376/GBIB?u=nuim&sid=summon&xid=c4fd2389
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A18102376/GBIB?u=nuim&sid=summon&xid=c4fd2389
+      \endverb
+    \endentry
+    \entry{GRAY_2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9addad936d0f02b24b1dd75878681da1}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{fullhash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{fullhashraw}{9addad936d0f02b24b1dd75878681da1}
+      \strng{bibnamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorbibnamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authornamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorfullhash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorfullhashraw}{9addad936d0f02b24b1dd75878681da1}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Parameters}
+      \field{number}{1}
+      \field{title}{How has war changed since the end of the cold war?}
+      \field{volume}{35}
+      \field{year}{2005}
+      \field{pages}{14\bibrangedash 26}
+      \range{pages}{13}
+    \endentry
+    \entry{GRAY_2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9addad936d0f02b24b1dd75878681da1}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{fullhash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{fullhashraw}{9addad936d0f02b24b1dd75878681da1}
+      \strng{bibnamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorbibnamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authornamehash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorfullhash}{9addad936d0f02b24b1dd75878681da1}
+      \strng{authorfullhashraw}{9addad936d0f02b24b1dd75878681da1}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Theory of strategy}
+      \field{year}{2018}
+    \endentry
+    \entry{GUDERIAN_1952}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=675f511cce1f01cdf18a2df9b61938df}{%
+           family={Guderian},
+           familyi={G\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Futura Publications}%
+      }
+      \strng{namehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{fullhash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{fullhashraw}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{bibnamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorbibnamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authornamehash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorfullhash}{675f511cce1f01cdf18a2df9b61938df}
+      \strng{authorfullhashraw}{675f511cce1f01cdf18a2df9b61938df}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0860070883}
+      \field{note}{First published in Great Britain by Michael Joseph Ltd, 1952. Futura edition 1974; reprinted 1976, 1977, 1979, 1980, 1982, 1987}
+      \field{title}{Panzer Leader}
+      \field{year}{1952}
+    \endentry
+    \entry{HUNDLEY_1999}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1a5a5c0b2aef04083aa121834f353648}{%
+           family={Hundley},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi O.},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Santa Monica, CA}%
+      }
+      \list{publisher}{1}{%
+        {RAND}%
+      }
+      \strng{namehash}{1a5a5c0b2aef04083aa121834f353648}
+      \strng{fullhash}{1a5a5c0b2aef04083aa121834f353648}
+      \strng{fullhashraw}{1a5a5c0b2aef04083aa121834f353648}
+      \strng{bibnamehash}{1a5a5c0b2aef04083aa121834f353648}
+      \strng{authorbibnamehash}{1a5a5c0b2aef04083aa121834f353648}
+      \strng{authornamehash}{1a5a5c0b2aef04083aa121834f353648}
+      \strng{authorfullhash}{1a5a5c0b2aef04083aa121834f353648}
+      \strng{authorfullhashraw}{1a5a5c0b2aef04083aa121834f353648}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8330-2709-3}
+      \field{note}{Prepared for the Defense Advanced Research Projects Agency (DARPA) by RAND's National Defense Research Institute}
+      \field{title}{Past revolutions, future transformations: What can the history of revolutions in military affairs tell us about transforming the U.S. military?}
+      \field{year}{1999}
+    \endentry
+    \entry{HUSAIN_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9d965a16f5fbb68b415b1c5b94b8b217}{%
+           family={Husain},
+           familyi={H\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{fullhash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{fullhashraw}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{bibnamehash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{authorbibnamehash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{authornamehash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{authorfullhash}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \strng{authorfullhashraw}{9d965a16f5fbb68b415b1c5b94b8b217}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PRISM}
+      \field{note}{[Online]}
+      \field{number}{3}
+      \field{title}{AI is shaping the future of war}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{50\bibrangedash 61}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/48640745
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/48640745
+      \endverb
+    \endentry
+    \entry{DORD_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b145fce1fddc5c410a46040cc3aae2eb}{%
+           family={{Irish Defence Forces}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{fullhash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{fullhashraw}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{bibnamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorbibnamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authornamehash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorfullhash}{b145fce1fddc5c410a46040cc3aae2eb}
+      \strng{authorfullhashraw}{b145fce1fddc5c410a46040cc3aae2eb}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Issued by the Director of Ordnance on the instruction of the Chief of Staff. [Internal Document]}
+      \field{title}{Explosive Ordnance Disposal Instructions}
+      \field{year}{2022}
+    \endentry
+    \entry{JORD_2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6f24bf4b5ebc8e91f2cbca68ff90b34e}{%
+           family={Jordaan},
+           familyi={J\bibinitperiod},
+           given={Evert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=455e38097a15b8ec25abedcd255951b4}{%
+           family={Vrey},
+           familyi={V\bibinitperiod},
+           given={Francois},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Pretoria}%
+      }
+      \strng{namehash}{3f007f00ed6f24d9b18dfc7437d8f01a}
+      \strng{fullhash}{3f007f00ed6f24d9b18dfc7437d8f01a}
+      \strng{fullhashraw}{3f007f00ed6f24d9b18dfc7437d8f01a}
+      \strng{bibnamehash}{3f007f00ed6f24d9b18dfc7437d8f01a}
+      \strng{authorbibnamehash}{3f007f00ed6f24d9b18dfc7437d8f01a}
+      \strng{authornamehash}{3f007f00ed6f24d9b18dfc7437d8f01a}
+      \strng{authorfullhash}{3f007f00ed6f24d9b18dfc7437d8f01a}
+      \strng{authorfullhashraw}{3f007f00ed6f24d9b18dfc7437d8f01a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of this article is to discuss and assess the tension between ideas that underpin the revolution in military affairs (RMA) and the changing nature of post-Cold War conflict with specific reference to the nature of low-intensity conflict (LIC). The United States' (US) view of an RMA is used as a point of departure as it forms part of the mainstream thinking on the debate. It is argued that the conventional and inter-state war paradigm in the current RMA-debate seems largely irrelevant to the nature of LIC, which is the most probable type of conflict strong powers will face in future. The terror attacks on the US on 11 September 2001 reinforced this critique of the RMA vision and indicated the rise of asymmetric strategies. Hence this article discusses the tension between RMA-thinking and the nature of LIC, also considering the impact of September 11. It addresses the preparation for certain scenarios, existing national values, operational thinking and the use of military instruments.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Strategic Review for Southern Africa}
+      \field{note}{[Online]}
+      \field{number}{1}
+      \field{title}{Ideas on the revolution in military affairs and the nature of low-intensity conflict}
+      \field{volume}{25}
+      \field{year}{2003}
+      \field{pages}{107+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A109504766/AONE?u=nuim&sid=bookmark-AONE&xid=16a9536a
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A109504766/AONE?u=nuim&sid=bookmark-AONE&xid=16a9536a
+      \endverb
+    \endentry
+    \entry{KELLER_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=22bce5c6fc1ce18aac0baaa39e04f768}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{fullhash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{fullhashraw}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{bibnamehash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{authorbibnamehash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{authornamehash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{authorfullhash}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \strng{authorfullhashraw}{22bce5c6fc1ce18aac0baaa39e04f768}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The reluctance of the United States military to undertake revolutionary systems and strategic reforms in order to be prepared for combat in the 21st century and beyond is detailed.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{The New York Times Magazine}
+      \field{note}{[Online]}
+      \field{title}{The fighting next time}
+      \field{year}{2002}
+      \true{nocite}
+      \field{pages}{32}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A84142167/AONE?u=nuim&sid=bookmark-AONE&xid=32d76c20
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A84142167/AONE?u=nuim&sid=bookmark-AONE&xid=32d76c20
+      \endverb
+      \warn{\item article entry 'KELLER_2002' (C:/Users/User/Documents/JCSC/Master_Sources/AB03_JCSC_bibliography.bib): Invalid format '10 March' of date field 'date' - ignoring}
+    \endentry
+    \entry{KREPINEVICH_1992}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=685746578d18dfc31cc71566adc4dcbe}{%
+           family={Krepinevich},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Center for Strategic}%
+        {Budgetary Assessments}%
+      }
+      \strng{namehash}{685746578d18dfc31cc71566adc4dcbe}
+      \strng{fullhash}{685746578d18dfc31cc71566adc4dcbe}
+      \strng{fullhashraw}{685746578d18dfc31cc71566adc4dcbe}
+      \strng{bibnamehash}{685746578d18dfc31cc71566adc4dcbe}
+      \strng{authorbibnamehash}{685746578d18dfc31cc71566adc4dcbe}
+      \strng{authornamehash}{685746578d18dfc31cc71566adc4dcbe}
+      \strng{authorfullhash}{685746578d18dfc31cc71566adc4dcbe}
+      \strng{authorfullhashraw}{685746578d18dfc31cc71566adc4dcbe}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 20 September 2025)}
+      \field{note}{[Online]}
+      \field{title}{The military-technical revolution: A preliminary assessment}
+      \field{urlday}{20}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://csbaonline.org/uploads/documents/2002.10.02-Military-Technical-Revolution.pdf
+      \endverb
+      \verb{url}
+      \verb https://csbaonline.org/uploads/documents/2002.10.02-Military-Technical-Revolution.pdf
+      \endverb
+    \endentry
+    \entry{KREPINEVICH_1994}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=146594c94598910c2c37404456916795}{%
+           family={Krepinevich},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{146594c94598910c2c37404456916795}
+      \strng{fullhash}{146594c94598910c2c37404456916795}
+      \strng{fullhashraw}{146594c94598910c2c37404456916795}
+      \strng{bibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authorbibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authornamehash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhashraw}{146594c94598910c2c37404456916795}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 7 September 2025)}
+      \field{journaltitle}{The National Interest}
+      \field{number}{37}
+      \field{title}{Cavalry to computer: The pattern of military revolutions}
+      \field{year}{1994}
+      \field{pages}{30\bibrangedash 42}
+      \range{pages}{13}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/42896863
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/42896863
+      \endverb
+    \endentry
+    \entry{KREPINEVICH_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=146594c94598910c2c37404456916795}{%
+           family={Krepinevich},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{146594c94598910c2c37404456916795}
+      \strng{fullhash}{146594c94598910c2c37404456916795}
+      \strng{fullhashraw}{146594c94598910c2c37404456916795}
+      \strng{bibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authorbibnamehash}{146594c94598910c2c37404456916795}
+      \strng{authornamehash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhash}{146594c94598910c2c37404456916795}
+      \strng{authorfullhashraw}{146594c94598910c2c37404456916795}
+      \field{extraname}{3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The authors were charged by the U.S. Air Force with developing an assessment of the Persian Gulf War air campaign comparable to the U.S. Strategic Bombing Survey undertaken after World War II. Given special access to classified data and key individuals involved in planning and executing the campaign, they argue persuasively that technological advances, including stealth, laser-guided munitions, and anti-radiation missiles, permitted air power to operate at unprecedented levels of effectiveness. But they also rigorously detail air power's limitations, including its inability to eliminate the Iraqi nuclear weapons program, neutralize the Scud missile threat, or shatter Saddam Hussein's hold on power through attacks on the Iraqi leadership. The book's liberal use of charts and tables--a number of which are difficult to read or interpret--both reward and punish the reader. But taken as a whole, the book presents as comprehensive an assessment of the role of air power in the war as is likely to be written for a long time.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Foreign Affairs}
+      \field{note}{[Online]}
+      \field{number}{4}
+      \field{title}{Revolution in warfare? Air power in the Persian Gulf}
+      \field{volume}{75}
+      \field{year}{1996}
+      \field{pages}{144}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A18420016/ITOF?u=nuim&sid=summon&xid=7d84949f
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A18420016/ITOF?u=nuim&sid=summon&xid=7d84949f
+      \endverb
+    \endentry
+    \entry{KRULAK_1999}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4016be0a8ec92ab6bbedb72c7ba5e1db}{%
+           family={Krulak},
+           familyi={K\bibinitperiod},
+           given={Charles\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4016be0a8ec92ab6bbedb72c7ba5e1db}
+      \strng{fullhash}{4016be0a8ec92ab6bbedb72c7ba5e1db}
+      \strng{fullhashraw}{4016be0a8ec92ab6bbedb72c7ba5e1db}
+      \strng{bibnamehash}{4016be0a8ec92ab6bbedb72c7ba5e1db}
+      \strng{authorbibnamehash}{4016be0a8ec92ab6bbedb72c7ba5e1db}
+      \strng{authornamehash}{4016be0a8ec92ab6bbedb72c7ba5e1db}
+      \strng{authorfullhash}{4016be0a8ec92ab6bbedb72c7ba5e1db}
+      \strng{authorfullhashraw}{4016be0a8ec92ab6bbedb72c7ba5e1db}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leatherneck: Marine Corps Gazette \& Leatherneck Magazine of the Marines}
+      \field{note}{Accessed 3 October 2025}
+      \field{number}{1}
+      \field{title}{The strategic corporal: Leadership in the three-block war}
+      \field{volume}{82}
+      \field{year}{1999}
+      \field{pages}{14\bibrangedash 17}
+      \range{pages}{4}
+    \endentry
+    \entry{METZ_2000}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6e9db6018f6ced2e4660388f2e5a4712}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Carlisle, PA}%
+      }
+      \strng{namehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{fullhash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{fullhashraw}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{bibnamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorbibnamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authornamehash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorfullhash}{6e9db6018f6ced2e4660388f2e5a4712}
+      \strng{authorfullhashraw}{6e9db6018f6ced2e4660388f2e5a4712}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ten years ago, few Americans had heard of or thought about military revolutions. Soviet defense experts, who were intrinsically more comfortable with the notion that history's linear evolution is occasionally interrupted by rapid discontinuities known as "revolutions," had begun exploration of the idea. But even though the Soviets had an inkling of the changes in warfare that the late 20th century would bring, they did not have the technological base or the capability for creative organizational reform to actually undertake a revolution. They were the intellectual founding fathers of the current revolution in military affairs, but not its architects, playing the role of Marx rather than Lenin. But Americans were different. For a variety of reasons, they were both open to new ideas about warfare and able to capitalize on them.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Parameters}
+      \field{note}{[Online]}
+      \field{number}{3}
+      \field{title}{The next twist of the RMA}
+      \field{volume}{30}
+      \field{year}{2000}
+      \field{pages}{40}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A67502101/AONE?u=nuim&sid=bookmark-AONE&xid=edea42d1
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A67502101/AONE?u=nuim&sid=bookmark-AONE&xid=edea42d1
+      \endverb
+    \endentry
+    \entry{OWENS_2000}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8a42a613098ed47dc0c16a13600104a8}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={W.\bibnamedelimi A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb0ca11fb0e0f64b794c9a7511fc2643}{%
+           family={Offley},
+           familyi={O\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {Farrar, Straus}%
+        {Giroux}%
+      }
+      \strng{namehash}{2471c19cdfa0f7b24a497e37f85007be}
+      \strng{fullhash}{2471c19cdfa0f7b24a497e37f85007be}
+      \strng{fullhashraw}{2471c19cdfa0f7b24a497e37f85007be}
+      \strng{bibnamehash}{2471c19cdfa0f7b24a497e37f85007be}
+      \strng{authorbibnamehash}{2471c19cdfa0f7b24a497e37f85007be}
+      \strng{authornamehash}{2471c19cdfa0f7b24a497e37f85007be}
+      \strng{authorfullhash}{2471c19cdfa0f7b24a497e37f85007be}
+      \strng{authorfullhashraw}{2471c19cdfa0f7b24a497e37f85007be}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780374186272}
+      \field{title}{Lifting the fog of war}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb https://books.google.ie/books?id=iANgQgAACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.ie/books?id=iANgQgAACAAJ
+      \endverb
+    \endentry
+    \entry{OWENS_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8e4c45ec1419fc574ac506c2ed638102}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={William\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \strng{namehash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{fullhash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{fullhashraw}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{bibnamehash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{authorbibnamehash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{authornamehash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{authorfullhash}{8e4c45ec1419fc574ac506c2ed638102}
+      \strng{authorfullhashraw}{8e4c45ec1419fc574ac506c2ed638102}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is hard to gauge precisely when the current American revolution in military affairs began. It was clearly underway by the mid-1990s. Within the Pentagon, the Director of Net Assessment, Andrew Marshall, claims that Soviet observers of the United States were concerned about it in the late 1970s. Some historians point to the period of post-Vietnam introspection in the mid-1970s as the origin. Thus the Nation has been engaged in--or at least on the cusp of--such a revolution (or military transformation) for the better part of two decades, a time span roughly equal to two earlier military revolutions, the interwar transformation and nuclear revolution.}
+      \field{addendum}{(Accessed: 12 June 2025)}
+      \field{journaltitle}{Joint Force Quarterly}
+      \field{note}{[Online]}
+      \field{title}{The once and future revolution in military affairs}
+      \field{year}{2002}
+      \field{pages}{55+}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://link.gale.com/apps/doc/A99817512/AONE?u=nuim&sid=bookmark-AONE&xid=f9fa2e22
+      \endverb
+      \verb{url}
+      \verb https://link.gale.com/apps/doc/A99817512/AONE?u=nuim&sid=bookmark-AONE&xid=f9fa2e22
+      \endverb
+    \endentry
+    \entry{RASSLER_2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0856dcefba34a37b96bad96f3e05cc4a}{%
+           family={Rassler},
+           familyi={R\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Combatting Terrorism Center at West Point}%
+      }
+      \strng{namehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{fullhash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{fullhashraw}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{bibnamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorbibnamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authornamehash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorfullhash}{0856dcefba34a37b96bad96f3e05cc4a}
+      \strng{authorfullhashraw}{0856dcefba34a37b96bad96f3e05cc4a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Remotely piloted innovation: terrorism, drones and supportive technology}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{49\bibrangedash 62}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep05632.6
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep05632.6
+      \endverb
+    \endentry
+    \entry{SAUER_2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd55443551d82f0e23e5ebfc79901640}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd55443551d82f0e23e5ebfc79901640}
+      \strng{fullhash}{dd55443551d82f0e23e5ebfc79901640}
+      \strng{fullhashraw}{dd55443551d82f0e23e5ebfc79901640}
+      \strng{bibnamehash}{dd55443551d82f0e23e5ebfc79901640}
+      \strng{authorbibnamehash}{dd55443551d82f0e23e5ebfc79901640}
+      \strng{authornamehash}{dd55443551d82f0e23e5ebfc79901640}
+      \strng{authorfullhash}{dd55443551d82f0e23e5ebfc79901640}
+      \strng{authorfullhashraw}{dd55443551d82f0e23e5ebfc79901640}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 1 October 2025)}
+      \field{journaltitle}{International Review of the Red Cross}
+      \field{note}{[Online]}
+      \field{number}{913}
+      \field{title}{Stepping back from the brink: why multilateral regulation of autonomy in weapons systems is difficult, yet imperative and feasible}
+      \field{urlday}{1}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{volume}{102}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{235\bibrangedash 259}
+      \range{pages}{25}
+      \verb{urlraw}
+      \verb https://doi.org/10.1017/S1816383120000045
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1017/S1816383120000045
+      \endverb
+    \endentry
+    \entry{SCHAUS_2018}{online}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f7704979c21183c37fb46a90455657e1}{%
+           family={Schaus},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90d4ba6b85430bc1dc346d74204d85af}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Kaitlyn},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Center for Strategic}%
+        {International Studies}%
+      }
+      \strng{namehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{fullhash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{fullhashraw}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{bibnamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorbibnamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authornamehash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorfullhash}{09b0d7f445c243af2c8e6c480110b379}
+      \strng{authorfullhashraw}{09b0d7f445c243af2c8e6c480110b379}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Unmanned aerial systems’ influences on conflict escalation dynamics}
+      \field{type}{Research Report}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep22318
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep22318
+      \endverb
+    \endentry
+    \entry{SINGER_2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=533fa89c0ee861016d2b72121bc5e35e}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{533fa89c0ee861016d2b72121bc5e35e}
+      \strng{fullhash}{533fa89c0ee861016d2b72121bc5e35e}
+      \strng{fullhashraw}{533fa89c0ee861016d2b72121bc5e35e}
+      \strng{bibnamehash}{533fa89c0ee861016d2b72121bc5e35e}
+      \strng{authorbibnamehash}{533fa89c0ee861016d2b72121bc5e35e}
+      \strng{authornamehash}{533fa89c0ee861016d2b72121bc5e35e}
+      \strng{authorfullhash}{533fa89c0ee861016d2b72121bc5e35e}
+      \strng{authorfullhashraw}{533fa89c0ee861016d2b72121bc5e35e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Military Ethics}
+      \field{number}{4}
+      \field{title}{The ethics of killer applications: why is it so hard to talk about morality when it comes to new military technology?}
+      \field{volume}{9}
+      \field{year}{2010}
+      \field{pages}{299\bibrangedash 312}
+      \range{pages}{14}
+    \endentry
+    \entry{SPARROW_2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6e14d725d87ace87001f2e8b01431e9}{%
+           family={Sparrow},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b6e14d725d87ace87001f2e8b01431e9}
+      \strng{fullhash}{b6e14d725d87ace87001f2e8b01431e9}
+      \strng{fullhashraw}{b6e14d725d87ace87001f2e8b01431e9}
+      \strng{bibnamehash}{b6e14d725d87ace87001f2e8b01431e9}
+      \strng{authorbibnamehash}{b6e14d725d87ace87001f2e8b01431e9}
+      \strng{authornamehash}{b6e14d725d87ace87001f2e8b01431e9}
+      \strng{authorfullhash}{b6e14d725d87ace87001f2e8b01431e9}
+      \strng{authorfullhashraw}{b6e14d725d87ace87001f2e8b01431e9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethics \& International Affairs}
+      \field{number}{1}
+      \field{title}{Robots and respect: assessing the case against autonomous weapon systems}
+      \field{volume}{30}
+      \field{year}{2016}
+      \field{pages}{93\bibrangedash 116}
+      \range{pages}{24}
+    \endentry
+    \entry{STIMSON_2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a95121dd0cde5e910cfd892e4b47c729}{%
+           family={{Stimson Center}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Stimson Center}%
+      }
+      \strng{namehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{fullhash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{fullhashraw}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{bibnamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorbibnamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authornamehash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorfullhash}{a95121dd0cde5e910cfd892e4b47c729}
+      \strng{authorfullhashraw}{a95121dd0cde5e910cfd892e4b47c729}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed{:} 11 June 2025)}
+      \field{note}{[Online]}
+      \field{title}{Military utility, national security, and economics}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/resrep10852
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/resrep10852
+      \endverb
+    \endentry
+    \entry{WINTERS_2006}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89fb5dd0bbc13f094d9043f7b08ca953}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40d43f8d16e92c91b3e2c778963f165a}{%
+           family={Kingseed},
+           familyi={K\bibinitperiod},
+           given={Cole\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {The Berkley Publishing Group}%
+      }
+      \strng{namehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{fullhash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{fullhashraw}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{bibnamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorbibnamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authornamehash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorfullhash}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \strng{authorfullhashraw}{d87ef3fc3bbc2ebda23fb489bdfd8215}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0425208133}
+      \field{note}{First edition}
+      \field{title}{Beyond Band of Brothers: The war memoirs of Major Dick Winters}
+      \field{year}{2006}
+    \endentry
+    \entry{YEIDE_2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7098c805c2cd96461256f1790c8bb42e}{%
+           family={Yeide},
+           familyi={Y\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis}%
+      }
+      \list{publisher}{1}{%
+        {Quarto Publishing Group USA}%
+      }
+      \strng{namehash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{fullhash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{fullhashraw}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{bibnamehash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{authorbibnamehash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{authornamehash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{authorfullhash}{7098c805c2cd96461256f1790c8bb42e}
+      \strng{authorfullhashraw}{7098c805c2cd96461256f1790c8bb42e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accessed: 12 September 2025)}
+      \field{note}{[Online]. Available from ProQuest Ebook Central}
+      \field{title}{Fighting Patton: George S. Patton Jr. through the eyes of his enemies}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ebookcentral.proquest.com/lib/nuim/detail.action?docID=3399615
+      \endverb
+      \verb{url}
+      \verb https://ebookcentral.proquest.com/lib/nuim/detail.action?docID=3399615
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{KREP_1992}
+  \missing{Metz_2000}
+  \missing{OWENS_199}
+\endrefsection
+\endinput
+

@@ -2371,62 +2371,54 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">../References/Thesis_2025_2026.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">../References/test.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">HUSAIN_2021</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">COHEN_1996</bcf:citekey>
-    <bcf:citekey order="3" intorder="1" nocite="1">COHEN_1995</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">COHEN_1996</bcf:citekey>
-    <bcf:citekey order="5" intorder="2">COHEN_1996</bcf:citekey>
-    <bcf:citekey order="6" intorder="2">HUSAIN_2021</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">CRINO_2020</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">NICHOLESCU_2023</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">KREP_1992</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">METZ_2000</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">KREP_1994</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">COCHRANE_2012</bcf:citekey>
-    <bcf:citekey order="11" intorder="2">DORD_2022</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">COHEN_1995</bcf:citekey>
-    <bcf:citekey order="13" intorder="3">KREP_1992</bcf:citekey>
-    <bcf:citekey order="14" intorder="4">KREP_1992</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">COHEN_1996</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">OWENS_2002</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">ALACH_2008</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">BROSE_2019</bcf:citekey>
-    <bcf:citekey order="19" intorder="5">METZ_2000</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">KREP_1992</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">BETTS_1996</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">KREP_1996</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">GRAY_2005</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">KREP_1992</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">METZ_2000</bcf:citekey>
+    <bcf:citekey order="2" intorder="2">KREPINEVICH_1994</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">COCHRANE_2012</bcf:citekey>
+    <bcf:citekey order="3" intorder="2">DORD_2022</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">COHEN_1995</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">KREP_1992</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">KREP_1992</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">COHEN_1996</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">OWENS_2002</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">ALACH_2008</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">BROSE_2019</bcf:citekey>
+    <bcf:citekey order="11" intorder="3">METZ_2000</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">KREP_1992</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">BETTS_1996</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">KREP_1996</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">GRAY_2005</bcf:citekey>
+    <bcf:citekey order="16" intorder="4">OWENS_2002</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">OWENS_2002</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">ALACH_2008</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">RASSLER_2015</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">KREPINEVICH_1992</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">KREP_1994</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">BETTS_1996</bcf:citekey>
+    <bcf:citekey order="23" intorder="5">METZ_2000</bcf:citekey>
     <bcf:citekey order="24" intorder="6">OWENS_2002</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">OWENS_2002</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">ALACH_2008</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">RASSLER_2015</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">KREP_1992</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">KREP_1994</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">BETTS_1996</bcf:citekey>
-    <bcf:citekey order="31" intorder="7">METZ_2000</bcf:citekey>
-    <bcf:citekey order="32" intorder="8">OWENS_2002</bcf:citekey>
-    <bcf:citekey order="33" intorder="9">COHEN_1995</bcf:citekey>
-    <bcf:citekey order="34" intorder="10">COHEN_1996</bcf:citekey>
-    <bcf:citekey order="35" intorder="11">KREP_1992</bcf:citekey>
-    <bcf:citekey order="36" intorder="12">OWENS_2002</bcf:citekey>
-    <bcf:citekey order="37" intorder="13" nocite="1">KELLER_2002</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">STIMSON_2015</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">SCHAUS_2018</bcf:citekey>
-    <bcf:citekey order="40" intorder="14" nocite="1">Metz_2000</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">COHEN_1996</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">BETTS_1996</bcf:citekey>
-    <bcf:citekey order="43" intorder="15">ALACH_2008</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">GUDERIAN_1952</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">YEIDE_2011</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">WINTERS_2006</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">METZ_2000</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">HUSAIN_2021</bcf:citekey>
-    <bcf:citekey order="49" intorder="16">KREP_1992</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">KREP_1994</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">KREP_1996</bcf:citekey>
+    <bcf:citekey order="25" intorder="7">COHEN_1995</bcf:citekey>
+    <bcf:citekey order="26" intorder="8">COHEN_1996</bcf:citekey>
+    <bcf:citekey order="27" intorder="9">KREP_1992</bcf:citekey>
+    <bcf:citekey order="28" intorder="10">OWENS_2002</bcf:citekey>
+    <bcf:citekey order="29" intorder="11" nocite="1">KELLER_2002</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">STIMSON_2015</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">SCHAUS_2018</bcf:citekey>
+    <bcf:citekey order="32" intorder="12" nocite="1">Metz_2000</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">COHEN_1996</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">BETTS_1996</bcf:citekey>
+    <bcf:citekey order="35" intorder="13">ALACH_2008</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">GUDERIAN_1952</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">YEIDE_2011</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">WINTERS_2006</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">METZ_2000</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">HUSAIN_2021</bcf:citekey>
+    <bcf:citekey order="41" intorder="14">KREP_1992</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">KREP_1994</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">KREPINEVICH_1996</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

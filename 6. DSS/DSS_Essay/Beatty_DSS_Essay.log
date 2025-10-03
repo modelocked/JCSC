@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.3)  1 OCT 2025 20:51
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.3)  2 OCT 2025 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1072,6 +1072,17 @@ File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 aryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
+(C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/epigraph\epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/nextpage\nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip92
+\afterepigraphskip=\skip93
+\epigraphwidth=\skip94
+\epigraphrule=\skip95
+)
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/glossaries/base\glossar
 ies.sty
 Package: glossaries 2025/08/11 v4.8 (NLCT)
@@ -1105,7 +1116,7 @@ sty
 Package: datatool-base 2025/04/25 v3.4.1 (NLCT)
  (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/06/16 v2.17y AMS math features
-\@mathmargin=\skip92
+\@mathmargin=\skip96
 For additional information on amsmath, use the `?' option.
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
@@ -1159,8 +1170,8 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \totwidth@=\dimen295
 \lineht@=\dimen296
 \@envbody=\toks48
-\multlinegap=\skip93
-\multlinetaggap=\skip94
+\multlinegap=\skip97
+\multlinetaggap=\skip98
 \mathdisplay@stack=\toks49
 LaTeX Info: Redefining \[ on input line 2949.
 LaTeX Info: Redefining \] on input line 2950.
@@ -1176,7 +1187,7 @@ File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@toks=\toks50
 \@dtl@tmpcount=\count477
-\dtl@tmplength=\skip95
+\dtl@tmplength=\skip99
 \l__datatool_measure_box=\box75
 \dtl@sortresult=\count478
 
@@ -1212,7 +1223,7 @@ File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 )
 \gls@level=\count502
 \@gls@tmpb=\toks51
-\gls@tmplen=\skip96
+\gls@tmplen=\skip100
 \l__glossaries_tmpa_dim=\dimen299
 \l__glossaries_tmpb_dim=\dimen300
 \glskeylisttok=\toks52
@@ -1227,7 +1238,7 @@ Package: glossary-hypernav 2025/08/11 v4.8 (NLCT)
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/glossaries/styles\gloss
 ary-list.sty
 Package: glossary-list 2025/08/11 v4.8 (NLCT)
-\glslistdottedwidth=\skip97
+\glslistdottedwidth=\skip101
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/glossaries/styles\gloss
 ary-long.sty
@@ -1235,10 +1246,10 @@ Package: glossary-long 2025/08/11 v4.8 (NLCT)
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/tools\longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
-\LTleft=\skip98
-\LTright=\skip99
-\LTpre=\skip100
-\LTpost=\skip101
+\LTleft=\skip102
+\LTright=\skip103
+\LTpre=\skip104
+\LTpost=\skip105
 \LTchunksize=\count503
 \LTcapwidth=\dimen301
 \LT@head=\box76
@@ -1253,8 +1264,8 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \LT@p@ftn=\toks56
 )
 Class scrbook Info: longtable captions redefined on input line 47.
-\glsdescwidth=\skip102
-\glspagelistwidth=\skip103
+\glsdescwidth=\skip106
+\glspagelistwidth=\skip107
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/glossaries/styles\gloss
 ary-super.sty
@@ -1265,9 +1276,9 @@ ar.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \c@tracingst=\count508
 \ST@wd=\dimen302
-\ST@rightskip=\skip104
-\ST@leftskip=\skip105
-\ST@parfillskip=\skip106
+\ST@rightskip=\skip108
+\ST@leftskip=\skip109
+\ST@parfillskip=\skip110
 \ST@pageleft=\dimen303
 \ST@headht=\dimen304
 \ST@tailht=\dimen305
@@ -1293,19 +1304,19 @@ Package: glossary-tree 2025/08/11 v4.8 (NLCT)
 \l__glossaries_tree_namesymbolwidth_dim=\dimen319
 \l__glossaries_tree_namesymbolwidth_padding_dim=\dimen320
 \l__glossaries_tree_level_int=\count510
-\glstreeindent=\skip107
+\glstreeindent=\skip111
 ))
 \glswrite=\write5
 \glo@main@file=\write6
 \openout6 = `Beatty_DSS_Essay.glo'.
 
 Package glossaries Info: Writing glossary file Beatty_DSS_Essay.glo on input li
-ne 22.
+ne 29.
 \glo@acronym@file=\write7
 \openout7 = `Beatty_DSS_Essay.acn'.
 
 Package glossaries Info: Writing glossary file Beatty_DSS_Essay.acn on input li
-ne 22.
+ne 29.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/imakeidx\imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
@@ -1331,8 +1342,8 @@ Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \page@free=\dimen323
 \premulticols=\dimen324
 \postmulticols=\dimen325
-\multicolsep=\skip108
-\multicolbaselineskip=\skip109
+\multicolsep=\skip112
+\multicolbaselineskip=\skip113
 \partial@page=\box83
 \last@line=\box84
 \mc@boxedresult=\box85
@@ -1528,7 +1539,7 @@ Package csquotes Info: ... none found.
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 52.
+(biblatex)                Setting 'uniquename=init' on input line 62.
 
 Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           Using `bookmark' together with `hyperref' is recommended,
@@ -1537,7 +1548,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 52.
+(scrbook)           before \begin{document} on input line 62.
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 
@@ -1550,36 +1561,36 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 (chapters/Chapter_5.aux))
 \openout1 = `Beatty_DSS_Essay.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-Package scrbase Info: activating english \partname on input line 52.
-Package scrbase Info: activating english \chaptername on input line 52.
-Package scrbase Info: activating english \appendixname on input line 52.
-Package scrbase Info: activating english \figurename on input line 52.
-Package scrbase Info: activating english \tablename on input line 52.
-Package scrbase Info: activating english \contentsname on input line 52.
-Package scrbase Info: activating english \listfigurename on input line 52.
-Package scrbase Info: activating english \listtablename on input line 52.
-Package scrbase Info: activating english \bibname on input line 52.
-Package scrbase Info: activating english \indexname on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+Package scrbase Info: activating english \partname on input line 62.
+Package scrbase Info: activating english \chaptername on input line 62.
+Package scrbase Info: activating english \appendixname on input line 62.
+Package scrbase Info: activating english \figurename on input line 62.
+Package scrbase Info: activating english \tablename on input line 62.
+Package scrbase Info: activating english \contentsname on input line 62.
+Package scrbase Info: activating english \listfigurename on input line 62.
+Package scrbase Info: activating english \listtablename on input line 62.
+Package scrbase Info: activating english \bibname on input line 62.
+Package scrbase Info: activating english \indexname on input line 62.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1597,6 +1608,13 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Beatty_DSS_Essay.bbl' found.
  (Beatty_DSS_Essay.bbl
 
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'KELLER_2002':
+(biblatex)                - article entry 'KELLER_2002' (C:/Users/User/Document
+s/JCSC/Master_Sources/AB03_JCSC_bibliography.bib): Invalid format '10 March' of
+ date field 'date' - ignoring.
+
+
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                DSS_STRUCTURE_MK2
@@ -1613,13 +1631,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                HELLMUELLER_2014
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                MEARSHIMER_1994
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1627,7 +1638,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                MINIHAN_2018
+(biblatex)                ROTHSTEIN_1968
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1646,8 +1657,8 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 52.
-Package biblatex Info: Reference segment=0 on input line 52.
+Package biblatex Info: Reference section=0 on input line 62.
+Package biblatex Info: Reference segment=0 on input line 62.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1683,14 +1694,13 @@ Package biblatex Info: Reference segment=0 on input line 52.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 52.
+Package hyperref Info: Link coloring OFF on input line 62.
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 52.
+ on input line 62.
 
-(Beatty_DSS_Essay.glsdefs)
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -1698,65 +1708,64 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 52.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 52.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 52.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 52.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 52.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 52.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 52.
-LaTeX Font Info:    Redeclaring math accent \check on input line 52.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 52.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 52.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 52.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 52.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 62.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 62.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 62.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 62.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 62.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 62.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 62.
+LaTeX Font Info:    Redeclaring math accent \check on input line 62.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 62.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 62.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 62.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 62.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 52.
+(Font)              `operators' in the math version `normal' on input line 62.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 5
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 6
 2.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 52.
+(Font)              `operators' in the math version `bold' on input line 62.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-52.
+62.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 52.
+input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 52.
+ 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-52.
+62.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 52.
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 52.
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 62.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 52.
+input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 52.
+e 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 52.
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 52.
-
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 62.
 
 
 Package scrlayer-scrpage Warning: Very small head height detected!
@@ -1781,7 +1790,7 @@ Package scrlayer-scrpage Warning: Very small head height detected!
 
 
 ]) (Frontmatter_Backmatter/Declaration.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 38--64
+Underfull \hbox (badness 10000) in paragraph at lines 38--74
 
  []
 
@@ -1790,7 +1799,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--64
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
-t line 71.
+t line 81.
 
 Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                At least 23.99747pt needed,
@@ -1799,7 +1808,7 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=23.99747pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 7
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 8
 1.
 
 
@@ -1815,193 +1824,198 @@ Package scrlayer-scrpage Warning: \footheight to low.
 (scrlayer-scrpage)                e.g., using
 (scrlayer-scrpage)                  \setlength{\footheight}{23.99747pt}
 (scrlayer-scrpage)                in your preamble.
-(scrlayer-scrpage)                I'll also increase \footskip on input line 71
+(scrlayer-scrpage)                I'll also increase \footskip on input line 81
 .
 
 [2
 
 ]
+
+[1
+
+
+]
+
+[2]
 \openout2 = `chapters/Chapter_1.aux'.
 
  (chapters/Chapter_1.tex
 chapter 1.
 
 
-[1
-
-
+[3
 
 
 
 ]
 
-LaTeX Warning: Citation 'MEARSHIMER_1994' undefined on input line 19.
+LaTeX Warning: Citation 'ROTHSTEIN_1968' on page 4 undefined on input line 22.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+
+[4]
+
+LaTeX Warning: Citation 'MEARSHIMER_1994' undefined on input line 41.
+
+
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 []|\TU/TimesNewRoman(0)/b/n/12 Capacity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 []|\TU/TimesNewRoman(0)/b/n/12 Perception
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 []|\TU/TimesNewRoman(0)/b/n/12 Total
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 []|\TU/TimesNewRoman(0)/m/n/12 Fragile
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 []|\TU/TimesNewRoman(0)/m/n/12 Fragile
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 []|\TU/TimesNewRoman(0)/m/n/12 Fragile
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 []|\TU/TimesNewRoman(0)/m/n/12 Fragile
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 []|\TU/TimesNewRoman(0)/m/n/12 Fragile
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 []|\TU/TimesNewRoman(0)/m/n/12 Fragile
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 []|\TU/TimesNewRoman(0)/m/n/12 Functional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 []|\TU/TimesNewRoman(0)/m/n/12 Functional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 []|\TU/TimesNewRoman(0)/m/n/12 Functional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 []|\TU/TimesNewRoman(0)/m/n/12 Middle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 []|\TU/TimesNewRoman(0)/m/n/12 Middle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 []|\TU/TimesNewRoman(0)/m/n/12 Middle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 []|\TU/TimesNewRoman(0)/m/n/12 Great
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 []|\TU/TimesNewRoman(0)/m/n/12 Great
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 []|\TU/TimesNewRoman(0)/m/n/12 Great
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 []|\TU/TimesNewRoman(0)/m/n/12 Great
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 []|\TU/TimesNewRoman(0)/m/n/12 Great
  []
 
 
-Overfull \hbox (1.07887pt too wide) in paragraph at lines 52--53
+Overfull \hbox (1.07887pt too wide) in paragraph at lines 74--75
 []|\TU/TimesNewRoman(0)/m/n/12 Superpower| 
  []
 
 
-Overfull \hbox (1.07887pt too wide) in paragraph at lines 53--54
+Overfull \hbox (1.07887pt too wide) in paragraph at lines 75--76
 []|\TU/TimesNewRoman(0)/m/n/12 Superpower| 
  []
 
 
-
-[2]
-Overfull \hbox (1.47246pt too wide) in paragraph at lines 63--63
+Overfull \hbox (1.47246pt too wide) in paragraph at lines 85--85
 []|\TU/TimesNewRoman(0)/b/n/12 Landmass| 
  []
 
 
-Overfull \hbox (4.80058pt too wide) in paragraph at lines 63--63
+Overfull \hbox (4.80058pt too wide) in paragraph at lines 85--85
 []|\TU/TimesNewRoman(0)/b/n/12 Population| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 []|\TU/TimesNewRoman(0)/b/n/12 Total
  []
 
-Package pgfplots info on input line 117: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 139: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
-Package pgfplots info on input line 156: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 178: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 )
 
-[3]
-
-[4]
-
-[5]
-
 [6]
+
+[7]
+
+[8]
+
+[9]
 \openout2 = `chapters/Chapter_0.aux'.
 
  (chapters/Chapter_0.tex
-chapter 2.
 
-
-[7
+[10
 
 
 
 
 
 ]
+chapter 2.
 
-LaTeX Warning: Citation 'WHITE_2019' on page 8 undefined on input line 16.
-
-
-
-[8]
-
-[9]
-
-[10]
 
 [11]
+
+LaTeX Warning: Citation 'WHITE_2019' on page 12 undefined on input line 16.
+
+
 
 [12]
 
@@ -2019,10 +2033,6 @@ LaTeX Warning: Citation 'WHITE_2019' on page 8 undefined on input line 16.
 
 [19]
 
-LaTeX Warning: Citation '' on page 20 undefined on input line 240.
-
-
-
 [20]
 
 [21]
@@ -2030,6 +2040,10 @@ LaTeX Warning: Citation '' on page 20 undefined on input line 240.
 [22]
 
 [23]
+
+LaTeX Warning: Citation '' on page 24 undefined on input line 240.
+
+
 
 [24]
 
@@ -2084,6 +2098,14 @@ LaTeX Warning: Citation '' on page 20 undefined on input line 240.
 [49]
 
 [50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 832--832
 []|\TU/TimesNewRoman(0)/m/n/12 Organisational
  []
@@ -2098,14 +2120,6 @@ tation of
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-
-[51]
-
-[52]
-
-[53]
-
-[54]
 
 [55]
 
@@ -2132,12 +2146,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [66]
 
 [67]
-Underfull \hbox (badness 1454) in paragraph at lines 1110--1111
-[]\TU/TimesNewRoman(0)/m/n/12 Compared with []Keohane ([]1988[]), who sees inst
-itutions as enabling cooperation,
- []
-
-
 
 [68]
 
@@ -2146,6 +2154,12 @@ itutions as enabling cooperation,
 [70]
 
 [71]
+Underfull \hbox (badness 1454) in paragraph at lines 1110--1111
+[]\TU/TimesNewRoman(0)/m/n/12 Compared with []Keohane ([]1988[]), who sees inst
+itutions as enabling cooperation,
+ []
+
+
 
 [72]
 
@@ -2167,25 +2181,25 @@ itutions as enabling cooperation,
 
 [81]
 
-LaTeX Warning: Citation 'WALTZ_1969' on page 82 undefined on input line 1330.
-
-
-
 [82]
 
 [83]
-
-LaTeX Warning: Citation 'WALTZ_1969' on page 84 undefined on input line 1366.
-
-
 
 [84]
 
 [85]
 
+LaTeX Warning: Citation 'WALTZ_1969' on page 86 undefined on input line 1330.
+
+
+
 [86]
 
 [87]
+
+LaTeX Warning: Citation 'WALTZ_1969' on page 88 undefined on input line 1366.
+
+
 
 [88]
 
@@ -2203,26 +2217,18 @@ LaTeX Warning: Citation 'WALTZ_1969' on page 84 undefined on input line 1366.
 
 [95]
 
-LaTeX Warning: Citation 'DUMAN_RAKIPOGLU_2025' on page 96 undefined on input li
-ne 1582.
-
-
-
 [96]
-
-LaTeX Warning: Citation 'MINIHAN_2018' undefined on input line 1599.
-
-
 
 [97]
 
 [98]
 
-LaTeX Warning: Citation 'MINIHAN_2018' undefined on input line 1628.
-
-
-
 [99]
+
+LaTeX Warning: Citation 'DUMAN_RAKIPOGLU_2025' on page 100 undefined on input l
+ine 1582.
+
+
 
 [100]
 
@@ -2244,12 +2250,20 @@ LaTeX Warning: Citation 'MINIHAN_2018' undefined on input line 1628.
 
 [109]
 
-LaTeX Warning: Citation 'DSS_STRUCTURE_MK2' on page 110 undefined on input line
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+LaTeX Warning: Citation 'DSS_STRUCTURE_MK2' on page 114 undefined on input line
  1757.
 
 
 
-[110]
+[114]
 Underfull \hbox (badness 2680) in paragraph at lines 1771--1772
 []\TU/TimesNewRoman(0)/b/n/12 Mearsheimer (1994) \TU/TimesNewRoman(0)/m/n/12 — 
 “False Promise”; realist scepticism of institutions
@@ -2257,16 +2271,16 @@ Underfull \hbox (badness 2680) in paragraph at lines 1771--1772
 
 
 
-[111]
+[115]
 
-[112])
+[116])
 
-[113]
+[117]
 \openout2 = `chapters/Chapter_2.aux'.
 
  (chapters/Chapter_2.tex
 
-[114
+[118
 
 
 
@@ -2276,7 +2290,7 @@ Underfull \hbox (badness 2680) in paragraph at lines 1771--1772
 chapter 3.
 
 
-[115]
+[119]
 
 
 Package scrlayer-scrpage Warning: \headheight to low.
@@ -2293,33 +2307,36 @@ Package scrlayer-scrpage Warning: \headheight to low.
 Overfull \vbox (23.99748pt too high) has occurred while \output is active []
 
 
-[116]
+[120]
 
-[117])
+[121])
 
-[118]
+[122]
 
-[119]
+[123]
+
+[124]
 \openout2 = `chapters/Chapter_3.aux'.
 
  (chapters/Chapter_3.tex
+chapter 4.
 
-[120
+LaTeX Warning: Citation 'WALTZ_1969' on page 125 undefined on input line 7.
+
+)
+
+[125
 
 
 
 
 
 ]
-chapter 4.
-)
-
-[121]
 \openout2 = `chapters/Chapter_4.aux'.
 
  (chapters/Chapter_4.tex
 
-[122
+[126
 
 
 
@@ -2329,12 +2346,12 @@ chapter 4.
 chapter 5.
 )
 
-[123]
+[127]
 \openout2 = `chapters/Chapter_5.aux'.
 
  (chapters/Chapter_5.tex
 
-[124
+[128
 
 
 
@@ -2344,9 +2361,9 @@ chapter 5.
 chapter 6.
 )
 
-[125]
+[129]
 
-[126
+[130
 
 
 
@@ -2355,35 +2372,83 @@ chapter 6.
 chapter without number
 
 
-[127]
-
-[128]
-
-[129]
-
-[130]
-
 [131]
 
-[132
-
-
-] (Frontmatter_Backmatter/Glossary_Print.tex (Beatty_DSS_Essay.gls)
-(Beatty_DSS_Essay.acr
+[132]
 
 [133]
 
-[134
+[134]
+
+[135]
+
+[136]
+
+[137]
+
+[138]
+
+[139]
+
+[140]
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[][]\TU/TimesNewRoman(0)/m/n/12 Kumar, R. (1997). “  Tactical reconnaissance: U
+AVs versus manned aircraft”.
+ []
 
 
-]))
+Underfull \hbox (badness 1924) in paragraph at lines 105--105
+\TU/TimesNewRoman(0)/m/n/12 AU/ACSC/0349/97-03. Approved for public release. Re
+search paper. Maxwell
+ []
 
-[135
+
+Underfull \hbox (badness 2418) in paragraph at lines 105--105
+\TU/TimesNewRoman(0)/m/n/12 Air Force Base, AL: Air Command and Staff College. 
+Available at: $[][][][][] []
+ []
+
+
+
+[141]
+
+[142]
+
+[143]
+
+[144]
+
+[145]
+
+[146]
+
+[147]
+Underfull \hbox (badness 6252) in paragraph at lines 105--105
+[][]\TU/TimesNewRoman(0)/m/n/12 Yin, H. et al. (2020). “  Efficiency Analysis o
+f Typical Application Based on
+ []
+
+
+
+[148] (Frontmatter_Backmatter/Glossary_Print.tex (Beatty_DSS_Essay.gls)
+(Beatty_DSS_Essay.acr
+
+[149
 
 
 ]
 
-[136
+[150
+
+
+]))
+
+[151
+
+
+]
+
+[152
 
 
 ] (Beatty_DSS_Essay.aux (chapters/Chapter_1.aux) (chapters/Chapter_0.aux)
@@ -2398,12 +2463,12 @@ Package logreq Info: Writing requests to 'Beatty_DSS_Essay.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53777 strings out of 403249
- 1289246 string characters out of 5460861
- 2476310 words of memory out of 5000000
- 81515 multiletter control sequences out of 15000+600000
- 631563 words of font info for 107 fonts, out of 8000000 for 9000
+ 54611 strings out of 403249
+ 1315234 string characters out of 5460861
+ 2491386 words of memory out of 5000000
+ 82344 multiletter control sequences out of 15000+600000
+ 632719 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,21n,107p,11221b,5290s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Beatty_DSS_Essay.pdf (138 pages).
+Output written on Beatty_DSS_Essay.pdf (154 pages).
