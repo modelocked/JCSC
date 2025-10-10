@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.3)  10 OCT 2025 15:55
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.3)  10 OCT 2025 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -605,7 +605,7 @@ File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 \Gin@req@height=\dimen164
 \Gin@req@width=\dimen165
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 13.
+Package hyperref Info: Option `breaklinks' set `true' on input line 17.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/glossaries/base\glossar
 ies.sty
@@ -835,12 +835,12 @@ Package: glossary-tree 2025/08/11 v4.8 (NLCT)
 \openout5 = `Adam_Literature_Review_Essay.glo'.
 
 Package glossaries Info: Writing glossary file Adam_Literature_Review_Essay.glo
- on input line 18.
+ on input line 22.
 \glo@acronym@file=\write6
 \openout6 = `Adam_Literature_Review_Essay.acn'.
 
 Package glossaries Info: Writing glossary file Adam_Literature_Review_Essay.acn
- on input line 18.
+ on input line 22.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/imakeidx\imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
@@ -1063,7 +1063,7 @@ Package csquotes Info: ... none found.
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 51.
+(biblatex)                Setting 'uniquename=init' on input line 55.
 
 Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           Using `bookmark' together with `hyperref' is recommended,
@@ -1072,7 +1072,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 51.
+(scrbook)           before \begin{document} on input line 55.
 (C:\Users\User\AppData\Local\Programs\MiKTeX1\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 
@@ -1083,36 +1083,36 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 )) (Adam_Literature_Review_Essay.aux (chapters/Chapter_1.aux))
 \openout1 = `Adam_Literature_Review_Essay.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-Package scrbase Info: activating english \partname on input line 51.
-Package scrbase Info: activating english \chaptername on input line 51.
-Package scrbase Info: activating english \appendixname on input line 51.
-Package scrbase Info: activating english \figurename on input line 51.
-Package scrbase Info: activating english \tablename on input line 51.
-Package scrbase Info: activating english \contentsname on input line 51.
-Package scrbase Info: activating english \listfigurename on input line 51.
-Package scrbase Info: activating english \listtablename on input line 51.
-Package scrbase Info: activating english \bibname on input line 51.
-Package scrbase Info: activating english \indexname on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+Package scrbase Info: activating english \partname on input line 55.
+Package scrbase Info: activating english \chaptername on input line 55.
+Package scrbase Info: activating english \appendixname on input line 55.
+Package scrbase Info: activating english \figurename on input line 55.
+Package scrbase Info: activating english \tablename on input line 55.
+Package scrbase Info: activating english \contentsname on input line 55.
+Package scrbase Info: activating english \listfigurename on input line 55.
+Package scrbase Info: activating english \listtablename on input line 55.
+Package scrbase Info: activating english \bibname on input line 55.
+Package scrbase Info: activating english \indexname on input line 55.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1128,17 +1128,9 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Adam_Literature_Review_Essay.bbl' found.
- (Adam_Literature_Review_Essay.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                OWENS_199
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
-Package biblatex Info: Reference section=0 on input line 51.
-Package biblatex Info: Reference segment=0 on input line 51.
+ (Adam_Literature_Review_Essay.bbl)
+Package biblatex Info: Reference section=0 on input line 55.
+Package biblatex Info: Reference segment=0 on input line 55.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1174,7 +1166,7 @@ Package biblatex Info: Reference segment=0 on input line 51.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 51.
+Package hyperref Info: Link coloring OFF on input line 55.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -1182,64 +1174,64 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 51.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 51.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 51.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 51.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 51.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 51.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 51.
-LaTeX Font Info:    Redeclaring math accent \check on input line 51.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 51.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 51.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 51.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 51.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 55.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 55.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 55.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 55.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 55.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 55.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 55.
+LaTeX Font Info:    Redeclaring math accent \check on input line 55.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 55.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 55.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 55.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 55.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 51.
+(Font)              `operators' in the math version `normal' on input line 55.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 5
-1.
+5.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 51.
+(Font)              `operators' in the math version `bold' on input line 55.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-51.
+55.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 51.
+input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 51.
+ 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-51.
+55.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 51.
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 51.
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 55.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 51.
+input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 51.
+e 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 51.
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 55.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 51.
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 55.
 
 
 Package scrlayer-scrpage Warning: Very small foot height detected!
@@ -1262,9 +1254,14 @@ Package scrlayer-scrpage Warning: Very small foot height detected!
 
 
 
+]) (Frontmatter_Backmatter/Declaration.tex
+Underfull \hbox (badness 7631) in paragraph at lines 32--33
+[]\TU/TimesNewRoman(0)/b/n/12 RANK: \TU/TimesNewRoman(0)/m/n/12 17194385 Comman
+dant
+ []
 
-]) (Frontmatter_Backmatter/Declaration.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 38--64
+)
+Underfull \hbox (badness 10000) in paragraph at lines 38--68
 
  []
 
@@ -1273,7 +1270,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--64
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
-t line 69.
+t line 73.
 
 Package scrlayer-scrpage Warning: \footheight to low.
 (scrlayer-scrpage)                At least 23.99747pt needed,
@@ -1283,7 +1280,7 @@ Package scrlayer-scrpage Warning: \footheight to low.
 (scrlayer-scrpage)                e.g., using
 (scrlayer-scrpage)                  \setlength{\footheight}{23.99747pt}
 (scrlayer-scrpage)                in your preamble.
-(scrlayer-scrpage)                I'll also increase \footskip on input line 69
+(scrlayer-scrpage)                I'll also increase \footskip on input line 73
 .
 
 [2
@@ -1300,7 +1297,6 @@ chapter 1.
 
 
 
-
 ]
 
 [2]
@@ -1310,10 +1306,6 @@ chapter 1.
 [4]
 
 [5]
-
-LaTeX Warning: Citation 'OWENS_199' on page 6 undefined on input line 60.
-
-
 
 [6]
 
@@ -1326,15 +1318,14 @@ LaTeX Warning: Citation 'OWENS_199' on page 6 undefined on input line 60.
 [10])
 
 [11]
+chapter without number
+
 
 [12
 
 
 
-
 ]
-chapter without number
-
 
 [13]
 
@@ -1342,35 +1333,20 @@ chapter without number
 
 [15]
 
-[16] (Frontmatter_Backmatter/Glossary_Print.tex
+[16
+
+
+] (Frontmatter_Backmatter/Glossary_Print.tex
 (Adam_Literature_Review_Essay.gls
 
-[17
-
-
-]
+[17]) (Adam_Literature_Review_Essay.acr
 
 [18
 
 
-]) (Adam_Literature_Review_Essay.acr
-
-[19
-
-
-]
-
-[20
-
-
 ]))
 
-[21
-
-
-]
-
-[22
+[19
 
 
 ]
@@ -1385,8 +1361,7 @@ d).
 
 )
 
-[23
-
+[20
 
 
 
@@ -1401,12 +1376,12 @@ Package logreq Info: Writing requests to 'Adam_Literature_Review_Essay.run.xml'
 
  ) 
 Here is how much of TeX's memory you used:
- 32708 strings out of 403249
- 710775 string characters out of 5460861
- 1800495 words of memory out of 5000000
- 60816 multiletter control sequences out of 15000+600000
+ 32720 strings out of 403249
+ 711120 string characters out of 5460861
+ 1798607 words of memory out of 5000000
+ 60828 multiletter control sequences out of 15000+600000
  631077 words of font info for 101 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,20n,107p,11233b,5174s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,20n,107p,11233b,5178s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Adam_Literature_Review_Essay.pdf (25 pages).
+Output written on Adam_Literature_Review_Essay.pdf (22 pages).

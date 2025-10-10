@@ -1,5 +1,9 @@
 \documentclass[12pt,a4paper]{scrbook}
 
+\makeatletter
+\renewcommand{\cleardoublepage}{\clearpage}
+\makeatother
+
 % ----------------------------------
 % Import LaTeX packages
 % ----------------------------------
@@ -87,7 +91,7 @@
 	%TC:ignore
 	\printbibliography[
 	heading=bibintoc,
-	title={Bibliography}
+	title={Reference List}
 	]
 	%TC:endignore
 	

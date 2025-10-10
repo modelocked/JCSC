@@ -352,9 +352,6 @@
       \field{note}{Accessed 3 October 2025}
       \field{title}{On war}
       \field{year}{1984}
-      \verb{doi}
-      \verb 10.2307/j.ctt7svzz
-      \endverb
       \verb{urlraw}
       \verb https://doi.org/10.2307/j.ctt7svzz
       \endverb
@@ -389,7 +386,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{[Unpublished]}
+      \field{note}{[Unpublished MPhil thesis. Cranfield University, Defence College of Management and Technology]}
       \field{title}{The Development of the British Approach to Improvised Explosive Device Disposal in Northern Ireland}
       \field{type}{MPhil thesis}
       \field{year}{2012}
@@ -975,6 +972,40 @@
       \verb https://link.gale.com/apps/doc/A67502101/AONE?u=nuim&sid=bookmark-AONE&xid=edea42d1
       \endverb
     \endentry
+    \entry{OWENS_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a42a613098ed47dc0c16a13600104a8}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={W.\bibnamedelimi A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Defense University}%
+      }
+      \strng{namehash}{8a42a613098ed47dc0c16a13600104a8}
+      \strng{fullhash}{8a42a613098ed47dc0c16a13600104a8}
+      \strng{fullhashraw}{8a42a613098ed47dc0c16a13600104a8}
+      \strng{bibnamehash}{8a42a613098ed47dc0c16a13600104a8}
+      \strng{authorbibnamehash}{8a42a613098ed47dc0c16a13600104a8}
+      \strng{authornamehash}{8a42a613098ed47dc0c16a13600104a8}
+      \strng{authorfullhash}{8a42a613098ed47dc0c16a13600104a8}
+      \strng{authorfullhashraw}{8a42a613098ed47dc0c16a13600104a8}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Strategic Forum}
+      \field{number}{63}
+      \field{title}{The emerging U.S. system-of-systems}
+      \field{year}{1996}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
     \entry{OWENS_2000}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8a42a613098ed47dc0c16a13600104a8}{%
@@ -1041,6 +1072,7 @@
       \strng{authornamehash}{8e4c45ec1419fc574ac506c2ed638102}
       \strng{authorfullhash}{8e4c45ec1419fc574ac506c2ed638102}
       \strng{authorfullhashraw}{8e4c45ec1419fc574ac506c2ed638102}
+      \field{extraname}{2}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -1346,9 +1378,6 @@
            giveni={H\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Minneapolis}%
-      }
       \list{publisher}{1}{%
         {Quarto Publishing Group USA}%
       }
@@ -1366,23 +1395,48 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{(Accessed: 12 September 2025)}
-      \field{note}{[Online]. Available from ProQuest Ebook Central}
+      \field{note}{Print}
       \field{title}{Fighting Patton: George S. Patton Jr. through the eyes of his enemies}
-      \field{urlday}{12}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{year}{2011}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://ebookcentral.proquest.com/lib/nuim/detail.action?docID=3399615
-      \endverb
-      \verb{url}
-      \verb https://ebookcentral.proquest.com/lib/nuim/detail.action?docID=3399615
-      \endverb
+    \endentry
+    \entry{ZALOGA_2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=986a75b323b48f1399cf2de0ad7f63bf}{%
+           family={Zaloga},
+           familyi={Z\bibinitperiod},
+           given={Steven\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Osprey Publishing}%
+      }
+      \strng{namehash}{986a75b323b48f1399cf2de0ad7f63bf}
+      \strng{fullhash}{986a75b323b48f1399cf2de0ad7f63bf}
+      \strng{fullhashraw}{986a75b323b48f1399cf2de0ad7f63bf}
+      \strng{bibnamehash}{986a75b323b48f1399cf2de0ad7f63bf}
+      \strng{authorbibnamehash}{986a75b323b48f1399cf2de0ad7f63bf}
+      \strng{authornamehash}{986a75b323b48f1399cf2de0ad7f63bf}
+      \strng{authorfullhash}{986a75b323b48f1399cf2de0ad7f63bf}
+      \strng{authorfullhashraw}{986a75b323b48f1399cf2de0ad7f63bf}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{isbn}{9781846034596}
+      \field{note}{Illustrated by Steve Noon}
+      \field{series}{Command}
+      \field{title}{George S. Patton}
+      \field{volume}{3}
+      \field{year}{2010}
     \endentry
   \enddatalist
-  \missing{OWENS_199}
 \endrefsection
 \endinput
 
