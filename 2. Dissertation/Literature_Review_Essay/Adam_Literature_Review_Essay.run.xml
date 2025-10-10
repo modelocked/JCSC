@@ -80,7 +80,7 @@
       <file>Adam_Literature_Review_Essay.bcf</file>
     </requires>
     <requires type="editable">
-      <file>C:/Users/User/Documents/JCSC/Master_Sources/AB03_JCSC_bibliography.bib</file>
+      <file>../../Master_Sources/AB03_JCSC_bibliography.bib</file>
     </requires>
   </external>
 </requests>

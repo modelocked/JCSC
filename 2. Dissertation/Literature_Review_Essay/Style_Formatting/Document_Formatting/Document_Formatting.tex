@@ -1,6 +1,8 @@
+% =====================================================================
 % Style_Formatting/Document_Formatting.tex
-% Maynooth University Thesis Formatting (Appendix 5)
-% Uses KOMA-Script-native heading controls (no 'titlesec' warnings)
+% Maynooth University Thesis Formatting (Appendix 5 compliant)
+% Clean version: XeLaTeX/LuaLaTeX required, no BibLaTeX conflicts
+% =====================================================================
 
 % -------------------------------------------------
 % Enforce XeLaTeX or LuaLaTeX (required for Times New Roman)
@@ -13,28 +15,26 @@
 \fi
 
 % -------------------------------------------------
-% Fonts: Times New Roman 12pt
+% Fonts: Times New Roman 12pt with Arial and Courier New
 \RequirePackage{fontspec}
 \setmainfont{Times New Roman} % Main text
 \setsansfont{Arial}            % Sans serif
 \setmonofont{Courier New}      % Monospace
 
 % -------------------------------------------------
-% Margins: 40mm left, 20mm right, 25mm top/bottom
+% Page layout: margins 40mm left, 20mm right, 25mm top/bottom
 \RequirePackage[left=40mm,right=20mm,top=25mm,bottom=25mm]{geometry}
 
 % -------------------------------------------------
-% Line spacing: Double by default
+% Line spacing: double throughout; single for abstract
 \RequirePackage{setspace}
 \doublespacing
-
-% Abstract: single-spaced environment
 \newenvironment{thesisabstract}
 {\begin{singlespace}\begin{abstract}}
 		{\end{abstract}\end{singlespace}}
 
 % -------------------------------------------------
-% Numbering depth & ToC depth (chapters/sections only)
+% Numbering and ToC depth
 \setcounter{secnumdepth}{2}
 \setcounter{tocdepth}{2}
 
@@ -45,53 +45,55 @@
 \raggedbottom
 
 % -------------------------------------------------
-% KOMA-Script heading configuration (Appendix 5 rules)
-% Chapter: centred + capitals; Section: Bold, left; Subsection: Italic, left
-\RequirePackage{scrlayer-scrpage} % safe with KOMA
-\RequirePackage{etoolbox}         % for \ifdefstring
+% Headings (KOMA-Script native, no titlesec)
+\RequirePackage{scrlayer-scrpage}
+\RequirePackage{etoolbox}
 
 % Centre chapter headings
 \renewcommand*\raggedchapter{\centering}
 
-% Set heading fonts
+% Heading fonts
 \setkomafont{chapter}{\normalfont\LARGE\bfseries}
 \setkomafont{section}{\normalfont\Large\bfseries}
 \setkomafont{subsection}{\normalfont\itshape\normalsize}
 
-% Ensure reasonable vertical spacing for headings
-\RedeclareSectionCommand[beforeskip=-3.5ex plus -1ex minus -.2ex,afterskip=2.3ex plus .2ex]{chapter}
-\RedeclareSectionCommand[beforeskip=2.5ex plus 1ex minus .2ex,afterskip=1.5ex plus .2ex]{section}
-\RedeclareSectionCommand[beforeskip=2.0ex plus .8ex minus .2ex,afterskip=1.0ex plus .2ex]{subsection}
+% Spacing before/after headings
+\RedeclareSectionCommand[
+beforeskip=-3.5ex plus -1ex minus -.2ex,
+afterskip=2.3ex plus .2ex]{chapter}
+\RedeclareSectionCommand[
+beforeskip=2.5ex plus 1ex minus .2ex,
+afterskip=1.5ex plus .2ex]{section}
+\RedeclareSectionCommand[
+beforeskip=2.0ex plus .8ex minus .2ex,
+afterskip=1.0ex plus .2ex]{subsection}
 
-% Uppercase chapter label and title (without titlesec)
+% Uppercase CHAPTER label and title
 \makeatletter
-% Print CHAPTER N on its own line, then uppercase title on next line
 \renewcommand*\chapterlinesformat[3]{%
 	\ifdefstring{#1}{chapter}{%
 		{\setkomafont{chapter}\centering \MakeUppercase{#2}\par}%
 		\vspace{.6\baselineskip}%
 		{\setkomafont{chapter}\centering \MakeUppercase{#3}}%
 	}{%
-		% default for other levels
 		\@hangfrom{\hskip\leftskip #2}{#3}%
 	}%
 }
 \makeatother
 
 % -------------------------------------------------
-% Define front/main/back matter if missing (for proposal documents)
+% Front/Main/Back matter helpers
 \providecommand*{\frontmatter}{\pagenumbering{roman}}
 \providecommand*{\mainmatter}{\clearpage\pagenumbering{arabic}}
 \providecommand*{\backmatter}{\clearpage}
 
 % -------------------------------------------------
-% Helpers for unnumbered proposal-style chapters/sections (add to ToC)
+% Unnumbered chapters/sections for proposals (added to ToC)
 \newcommand{\proposalchapter}[2][]{%
 	\chapter*{#2}%
 	\addcontentsline{toc}{chapter}{\if\relax\detokenize{#1}\relax #2\else #1\fi}%
 	\markboth{#2}{#2}%
 }
-
 \newcommand{\proposalsection}[2][]{%
 	\section*{#2}%
 	\addcontentsline{toc}{section}{\if\relax\detokenize{#1}\relax #2\else #1\fi}%
@@ -100,3 +102,12 @@
 % -------------------------------------------------
 % Robust line breaking for long URLs
 \sloppy
+
+% -------------------------------------------------
+% Header/Footer height adjustments (silences warnings)
+\setlength{\headheight}{25pt}
+\setlength{\footskip}{30pt}
+
+% =====================================================================
+% End of Document_Formatting.tex
+% =====================================================================

@@ -1,9 +1,0 @@
-[0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'Adam_Thesis_Proposal.blg'
-[102] biber-MSWIN64:342> INFO - === 
-[133] Biber.pm:421> INFO - Reading 'Adam_Thesis_Proposal.bcf'
-[226] Biber.pm:1002> INFO - Found 25 citekeys in bib section 0
-[240] Biber.pm:4487> INFO - Processing section 0
-[250] Biber.pm:4678> INFO - Looking for bibtex file '../References/test.bib' for section 0
-[645] Utils.pm:479> ERROR - Cannot find '../References/test.bib'!
-[646] Biber.pm:137> INFO - ERRORS: 1

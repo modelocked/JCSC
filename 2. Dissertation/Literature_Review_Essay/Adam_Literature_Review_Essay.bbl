@@ -173,7 +173,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{(Accessed: 01 October 2025)}
+      \field{addendum}{(Accessed: 1 October 2025)}
       \field{booktitle}{2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)}
       \field{note}{[Online]}
       \field{title}{Governing lethal behavior: Embedding ethics in a hybrid deliberative/reactive robot architecture part I: Motivation and philosophy}
@@ -295,8 +295,8 @@
       \field{title}{The new revolution in military affairs: War's sci-fi future}
       \field{volume}{98}
       \field{year}{2019}
-      \field{pages}{122+}
-      \range{pages}{-1}
+      \field{pages}{122\bibrangedash 131}
+      \range{pages}{10}
       \verb{urlraw}
       \verb https://link.gale.com/apps/doc/A585763277/AONE?u=nuim&sid=bookmark-AONE&xid=ed50cd4b
       \endverb
@@ -428,8 +428,8 @@
       \field{title}{Come the revolution}
       \field{volume}{47}
       \field{year}{1995}
-      \field{pages}{26+}
-      \range{pages}{-1}
+      \field{pages}{26\bibrangedash 30}
+      \range{pages}{5}
       \verb{urlraw}
       \verb https://link.gale.com/apps/doc/A17367744/AONE?u=nuim&sid=summon&xid=e8a5ebae
       \endverb
@@ -472,8 +472,8 @@
       \field{title}{A revolution in warfare}
       \field{volume}{75}
       \field{year}{1996}
-      \field{pages}{37+}
-      \range{pages}{-1}
+      \field{pages}{37\bibrangedash 45}
+      \range{pages}{9}
       \verb{urlraw}
       \verb https://link.gale.com/apps/doc/A18102376/GBIB?u=nuim&sid=summon&xid=c4fd2389
       \endverb
@@ -721,8 +721,8 @@
       \field{title}{Ideas on the revolution in military affairs and the nature of low-intensity conflict}
       \field{volume}{25}
       \field{year}{2003}
-      \field{pages}{107+}
-      \range{pages}{-1}
+      \field{pages}{107\bibrangedash 118}
+      \range{pages}{12}
       \verb{urlraw}
       \verb https://link.gale.com/apps/doc/A109504766/AONE?u=nuim&sid=bookmark-AONE&xid=16a9536a
       \endverb
@@ -758,10 +758,13 @@
       \field{labeltitlesource}{title}
       \field{abstract}{The reluctance of the United States military to undertake revolutionary systems and strategic reforms in order to be prepared for combat in the 21st century and beyond is detailed.}
       \field{addendum}{(Accessed: 12 June 2025)}
+      \field{day}{10}
       \field{journaltitle}{The New York Times Magazine}
+      \field{month}{3}
       \field{note}{[Online]}
       \field{title}{The fighting next time}
       \field{year}{2002}
+      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{32}
       \range{pages}{1}
@@ -771,7 +774,6 @@
       \verb{url}
       \verb https://link.gale.com/apps/doc/A84142167/AONE?u=nuim&sid=bookmark-AONE&xid=32d76c20
       \endverb
-      \warn{\item article entry 'KELLER_2002' (C:/Users/User/Documents/JCSC/Master_Sources/AB03_JCSC_bibliography.bib): Invalid format '10 March' of date field 'date' - ignoring}
     \endentry
     \entry{KREPINEVICH_1992}{online}{}{}
       \name{author}{1}{}{%
@@ -1051,8 +1053,8 @@
       \field{note}{[Online]}
       \field{title}{The once and future revolution in military affairs}
       \field{year}{2002}
-      \field{pages}{55+}
-      \range{pages}{-1}
+      \field{pages}{55\bibrangedash 63}
+      \range{pages}{9}
       \verb{urlraw}
       \verb https://link.gale.com/apps/doc/A99817512/AONE?u=nuim&sid=bookmark-AONE&xid=f9fa2e22
       \endverb
@@ -1283,7 +1285,11 @@
       \field{addendum}{(Accessed{:} 11 June 2025)}
       \field{note}{[Online]}
       \field{title}{Military utility, national security, and economics}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
       \field{year}{2015}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb http://www.jstor.org/stable/resrep10852
       \endverb
@@ -1328,7 +1334,7 @@
       \field{labeltitlesource}{title}
       \field{isbn}{0425208133}
       \field{note}{First edition}
-      \field{title}{Beyond Band of Brothers: The war memoirs of Major Dick Winters}
+      \field{title}{Beyond band of brothers: The war memoirs of Major Dick Winters}
       \field{year}{2006}
     \endentry
     \entry{YEIDE_2011}{book}{}{}
@@ -1376,8 +1382,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{KREP_1992}
-  \missing{Metz_2000}
   \missing{OWENS_199}
 \endrefsection
 \endinput

@@ -1,0 +1,91 @@
+% ============================
+% Referencing_Formatting.tex
+% Stable rollback — verified working build
+% ============================
+
+\usepackage[
+backend=biber,
+style=authoryear,
+sorting=nyt,
+maxnames=3,
+minnames=1,
+giveninits=true,
+uniquename=false,
+dashed=false
+]{biblatex}
+
+% ---- Delimiters ----
+\renewcommand*{\finalnamedelim}{\addspace and\space}
+\renewcommand*{\multinamedelim}{\addcomma\space}
+\AtBeginBibliography{\renewcommand*{\multinamedelim}{\addcomma\space}}
+\DefineBibliographyStrings{english}{
+	andothers = {et al.},
+}
+
+% ---- Title formatting ----
+\DeclareFieldFormat[article]{title}{#1}
+\DeclareFieldFormat[
+book,inbook,incollection,inproceedings,thesis,unpublished,report
+]{title}{\mkbibemph{#1}}
+
+% ---- Online and URL styling ----
+\DeclareFieldFormat{url}{\underline{#1}}
+\DeclareFieldFormat{urldate}{(Accessed: #1)}
+\DeclareFieldFormat{note}{#1}
+
+\renewbibmacro*{url+urldate}{%
+	\printfield{url}%
+	\setunit*{\space}%
+	\printfield{urldate}%
+}
+
+% ---- Punctuation and layout ----
+\renewcommand*{\newunitpunct}{\addcomma\space}
+\setlength{\bibhang}{0pt}
+\setlength{\bibitemsep}{0.6\baselineskip}
+
+% ---- Journal article driver ----
+\DeclareBibliographyDriver{article}{%
+	\printnames{author}%
+	\setunit{\space}%
+	\printfield{year}%
+	\newunit\newblock
+	\printfield[titlecase]{title}%
+	\newunit\newblock
+	\mkbibemph{\printfield{journaltitle}}%
+	\setunit*{\addcomma\space}%
+	\printfield{volume}%
+	\setunit*{\adddot\space}%
+	\printfield{number}%
+	\setunit*{\addcomma\space}%
+	\printfield{pages}%
+	\newunit\newblock
+	\iffieldundef{url}{}{[online], Available at: \printfield{url} \printfield{urldate}.}%
+	\finentry
+}
+
+% ---- Book driver ----
+\DeclareBibliographyDriver{book}{%
+	\printnames{author}%
+	\setunit{\space}%
+	\printfield{year}%
+	\newunit\newblock
+	\mkbibemph{\printfield{title}}%
+	\newunit\newblock
+	\printlist{publisher}%
+	\setunit{\addcomma\space}%
+	\printlist{location}%
+	\finentry
+}
+
+% ---- Online / website driver ----
+\DeclareBibliographyDriver{online}{%
+	\printnames{author}%
+	\setunit{\space}%
+	\printfield{year}%
+	\newunit\newblock
+	\printfield{title}%
+	\newunit\newblock
+	[online]. Available at: \printfield{url} \printfield{urldate}.%
+	\finentry
+}

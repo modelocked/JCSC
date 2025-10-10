@@ -1,88 +1,98 @@
-% Frontmatter_Backmatter/setup.tex
-% !TeX root = ../Adam_Thesis_Proposal.tex
-% Centralised preamble/config for the thesis.
-% (No \documentclass and no \begin{document} in this file.)
-	
-	% -------------------------------
-	% Core packages
-	% -------------------------------
-	\usepackage{setspace}
-	\usepackage{csquotes}
-	\usepackage[style=authoryear,backend=biber,giveninits=true,url=true]{biblatex}
-	\usepackage[left=40mm,right=20mm,top=25mm,bottom=25mm]{geometry}
-	\usepackage[normalem]{ulem}
-	\usepackage{hyperref}
-	\usepackage{graphicx}
-	\hypersetup{breaklinks=true}
-	\usepackage{xparse}
-	
-	% -------------------------------
-	% Glossaries (indexed mode)
-	% -------------------------------
-	\usepackage[acronym,nonumberlist,toc]{glossaries}
-	\makeglossaries
-	\setglossarysection{chapter}
-	
-	% -------------------------------
-	% Index (back-of-book)
-	% -------------------------------
-	\usepackage{imakeidx}
-	\makeindex[columns=2,title=Index,intoc]
-	
-	% -------------------------------
-	% Project styles (paths are from this file's folder)
-	% -------------------------------
-	\input{Style_Formatting/Document_Formatting/Document_Formatting.tex}
-	\input{Style_Formatting/Referencing_Formatting/Referencing_Formatting.tex}
-	
-	% -------------------------------
-	% Bibliography resource
-	% (biblatex resolves paths from the ROOT/job dir; this path is correct for your layout)
-	% Root: C:/Users/User/Documents/Dissertation/Proposal
-	% Bib : C:/Users/User/Documents/Dissertation/References/Thesis_2025_2026.bib
-	% -------------------------------
-	% -------------------------------
-	% Bibliography: set via Metadata.tex
-	% -------------------------------
-	\providecommand{\thesisbibfile}{} % holds the chosen .bib path
-	\newcommand{\setthesisbibfile}[1]{%
-		\renewcommand{\thesisbibfile}{#1}%
-		\addbibresource{#1}%
-	}
-	
-	
-	% -------------------------------
-	% Glossary & acronym DEFINITIONS (definitions only; not printed here)
-	% Kept next to this setup file
-	% -------------------------------
-	\input{Glossary}
-	
-	% -------------------------------
-	% TeXcount rules (keep out of wordcount)
-	% -------------------------------
-	% Ignore figure/table captions entirely
-	%TC:envir figure 0 0
-	%TC:envir table  0 0
-	
-	% Ignore common bibliography/glossary/index print commands
-	%TC:macro \printbibliography [ignore]
-	%TC:macro \printglossary     [ignore]
-	%TC:macro \printglossaries   [ignore]
-	%TC:macro \printindex        [ignore]
-	
-	% Ignore citations (biblatex)
-	%TC:macro \cite        [ignore]
-	%TC:macro \parencite   [ignore]
-	%TC:macro \textcite    [ignore]
-	%TC:macro \autocite    [ignore]
-	%TC:macro \footfullcite [ignore]
-	
-	% Ignore footnotes
-	%TC:macro \footnote [ignore]
-	
-	% (Optional) Don’t count headings
-	%TC:macro \chapter   [ignore]
-	%TC:macro \chapter*  [ignore]
-	%TC:macro \section   [ignore]
-	%TC:macro \subsection   [ignore]
-	%TC:macro \subsubsection [ignore]
+% ------------------------------------------------------------
+% BASIC DOCUMENT CONFIGURATION
+% ------------------------------------------------------------
+\documentclass[12pt,a4paper]{report}
+
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}  % Required by biblatex
+
+% ------------------------------------------------------------
+% GRAPHICS, TABLES, MATHS
+% ------------------------------------------------------------
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{amsmath,amssymb}
+\usepackage{float}
+
+% ------------------------------------------------------------
+% HEADERS & FOOTERS
+% ------------------------------------------------------------
+\usepackage[headsepline,footsepline]{scrlayer-scrpage}
+\setlength{\headheight}{25pt}
+\clearpairofpagestyles
+\ihead{\leftmark}
+\ohead{\rightmark}
+\ifoot{Maynooth University}
+\ofoot{\pagemark}
+
+% ------------------------------------------------------------
+% COLOURS, HYPERLINKS
+% ------------------------------------------------------------
+\usepackage[dvipsnames]{xcolor}
+\usepackage[
+colorlinks=true,
+linkcolor=MidnightBlue,
+citecolor=MidnightBlue,
+urlcolor=MidnightBlue
+]{hyperref}
+
+% ------------------------------------------------------------
+% BIBLIOGRAPHY CONFIGURATION — 
+% ------------------------------------------------------------
+
+\usepackage[
+backend=biber,
+style=authoryear,
+maxcitenames=2,
+maxbibnames=99,
+uniquelist=false,
+uniquename=false,
+giveninits=true,
+doi=false,
+isbn=false,
+url=false,
+eprint=false
+]{biblatex}
+
+% Relative path to your master .bib file
+%\addbibresource{C:/Users/User/Documents/JCSC/Master_Sources/AB03_JCSC_bibliography.bib}
+
+% ------------------------------------------------------------
+% CAPTIONS AND LISTS
+% ------------------------------------------------------------
+\usepackage[labelfont=bf,font=small]{caption}
+\usepackage{tocloft}
+\setlength{\cftbeforechapskip}{1em}
+
+% ------------------------------------------------------------
+% QUOTATION & PARAGRAPH FORMATTING
+% ------------------------------------------------------------
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+
+% ------------------------------------------------------------
+% TITLE PAGE STYLING (optional)
+% ------------------------------------------------------------
+\newcommand{\makemytitle}{
+	\begin{titlepage}
+		\centering
+		{\Huge \textbf{Mission Command, Autonomy and the RMA Question}}\\[1.5em]
+		{\Large The Organisational Impact of Uncrewed Systems}\\[3em]
+		{\Large Commandant Adam Beatty}\\[1em]
+		{\large Master of Arts in Leadership, Management and Defence Studies}\\
+		{\large Maynooth University — 2026}\\[3em]
+		\vfill
+	\end{titlepage}
+}
+
+% ------------------------------------------------------------
+% END OF SETUP
+% ------------------------------------------------------------
