@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.3)  11 OCT 2025 15:48
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.3)  11 OCT 2025 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1298,11 +1298,8 @@ chapter 1.
 
 
 ]
-chapter without number
-
 
 [2
-
 
 
 ] (Frontmatter_Backmatter/Glossary_Print.tex (Beatty_DSS_Essay.gls
@@ -1345,10 +1342,10 @@ Package logreq Info: Writing requests to 'Beatty_DSS_Essay.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32089 strings out of 403249
- 698224 string characters out of 5460861
- 1778965 words of memory out of 5000000
- 60199 multiletter control sequences out of 15000+600000
+ 32095 strings out of 403249
+ 698427 string characters out of 5460861
+ 1778977 words of memory out of 5000000
+ 60205 multiletter control sequences out of 15000+600000
  631069 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,19n,107p,11221b,5059s stack positions out of 10000i,1000n,20000p,200000b,200000s
