@@ -1,20 +1,27 @@
+% ===============================
 % Style_Formatting/Referencing_Formatting.tex
-% --- Maynooth Harvard-ish customisations  ---
+% Maynooth University Harvard compliance
+% ===============================
 
-% Names "Surname, Initials"
+% --- Name format: "Surname, Initials" ---
 \DeclareNameAlias{default}{family-given}
 \DeclareNameAlias{sortname}{family-given}
 \DeclareNameAlias{author}{family-given}
 
-% Titles: italicise by default; article titles plain
+% --- Title formatting ---
+% By default italicise titles (books, reports, theses)
+% Article titles remain plain text
 \DeclareFieldFormat{title}{\mkbibemph{#1}}
 \DeclareFieldFormat[article]{title}{#1}
 
-% URL as plain text with "Available at:"
+% --- Journal title formatting (always italic) ---
+\DeclareFieldFormat{journaltitle}{\mkbibemph{#1}}
+
+% --- URL formatting ---
 \urlstyle{same}
 \DeclareFieldFormat{url}{Available at: \nolinkurl{#1}}
 
-% Access date in parentheses after URL
+% --- Access date formatting ---
 \DeclareFieldFormat{urldate}{Accessed: #1}
 \renewbibmacro*{url+urldate}{%
 	\printfield{url}%
@@ -23,5 +30,50 @@
 	}%
 }
 
-% Prefix page ranges in journal articles with "pp."
+% --- Page numbers in journal articles ---
 \DeclareFieldFormat[article]{pages}{pp.~#1}
+
+% --- Journal article driver (Maynooth §3.3.1–3.3.2) ---
+\DeclareBibliographyDriver{article}{%
+	\printnames{author}%
+	\setunit{\space}%
+	\printfield{year}%
+	\newunit\newblock
+	\printfield[titlecase]{title}% plain
+	\newunit\newblock
+	\mkbibemph{\printfield{journaltitle}}%
+	\setunit*{\addcomma\space}%
+	\printfield{volume}%
+	\iffieldundef{number}{}{\printtext[parens]{\printfield{number}}}%
+	\setunit*{\addcomma\space}%
+	\printfield[article]{pages}%
+	\newunit\newblock
+	\iffieldundef{url}{}{[online]. \printfield{url}\space\printtext[parens]{\printfield{urldate}}.}%
+	\finentry
+}
+
+% --- Book driver (Maynooth §3.1.1–3.1.2) ---
+\DeclareBibliographyDriver{book}{%
+	\printnames{author}%
+	\setunit{\space}%
+	\printfield{year}%
+	\newunit\newblock
+	\mkbibemph{\printfield{title}}%
+	\newunit\newblock
+	\printlist{location}%
+	\setunit{\addcolon\space}%
+	\printlist{publisher}%
+	\finentry
+}
+
+% --- Online / website driver ---
+\DeclareBibliographyDriver{online}{%
+	\printnames{author}%
+	\setunit{\space}%
+	\printfield{year}%
+	\newunit\newblock
+	\printfield{title}%
+	\newunit\newblock
+	[online]. \printfield{url}\space\printtext[parens]{\printfield{urldate}}.%
+	\finentry
+}

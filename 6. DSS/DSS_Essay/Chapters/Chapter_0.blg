@@ -1,5 +1,0 @@
-[0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'Chapter_0.blg'
-[119] biber-MSWIN64:342> INFO - === 
-[959] Utils.pm:479> ERROR - Cannot find 'Chapter_0.bcf'!
-[960] Biber.pm:137> INFO - ERRORS: 1
